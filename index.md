@@ -13,6 +13,8 @@ Website for information on CUNY/CSI/COVID-19
 
 ## Hot issues
 
+* [3/18 CSI Chief librarian email](Issues/update-hrs-3-18)
+* [3/18 CSI librarian's closure request](Issues/csi-library-request-3-18)
 * [Library open or close](Issues/library)
 * Academic Freedom [Distance Education and Academic Freedom](Issues/UFS-Academic-freedom-online-3-17)
 
@@ -29,6 +31,7 @@ Website for information on CUNY/CSI/COVID-19
 
 ## PSC
 
+* [3/18 PSC Press release, re libraries](PSC/PSC-press-release-3-18)
 * [3/17 CUNY refuses](PSC/cuny-refuses-3-18)
 * [3/16 PSC Response](PSC/PSC-responsee-3-16)
 * [3/16 PSC Essential Personnel](PSC/essential-personnel-3-16)
@@ -68,6 +71,7 @@ Website for information on CUNY/CSI/COVID-19
 
 ## Technology matters
 
+* [3/18 Cloud tools comparison](Technology/CUNY_academic_cloud_tools_comparison.pdf)
 * [3/18 Math tutors online](https://www.math.csi.cuny.edu/Students/Tutoring/)
 * [3/18 Training and support for distance learning](Technology/Training-and-support-for-distance-learning.pdf)
 * [3/18 Digital resources and broadbank ](Technology/digital-resources-broadband-3-18)
