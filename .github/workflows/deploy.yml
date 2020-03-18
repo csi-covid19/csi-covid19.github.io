@@ -1,0 +1,8 @@
+on:
+  push:
+    branches:
+      - franklin
+
+
+BRANCH: master
+FOLDER: __site

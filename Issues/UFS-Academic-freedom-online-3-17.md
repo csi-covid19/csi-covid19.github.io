@@ -1,0 +1,138 @@
+3/17 to the UFS listserv
+
+------
+
+From: Pecorino, Philip
+Sent: Wednesday, March 11, 2020 3:15 PM
+To: José Luis Cruz <JoseLuis.Cruz@cuny.edu>
+Cc: Pecorino, Philip <PPecorino@qcc.cuny.edu>; Martin.Burke@cuny.edu
+Subject: Request re CUNY message on Distance Education and Academic Freedom of CUNY Faculty
+
+
+
+José Luis Cruz, Ph.D.
+
+Executive Vice Chancellor and University Provost
+
+The City University of New York
+
+
+
+While we support efforts to provide for Instructional Continuity at this time still we have this request for clarification concerning some passages in recent communications to CUNY Presidents and Provosts concerning distance education and matters of Academic Freedom for CUNY faculty.  You are aware of how I personally support online modalities of instruction, nevertheless, we have these matters to raise.
+
+
+
+Passages:
+
+1.     University authorizes campus presidents and deans to develop and implement plans to temporarily convert in-person courses/programs to distance education.
+
+2.     Please refer to the documents cited and linked above for important information regarding reporting requirements that must be met when converting to distance education.
+
+3.     USDE  , distance learning does not require the use of sophisticated learning management systems or online platforms,
+
+Do we read this correctly to indicate that, continuing a long tradition of respect for the academic freedom of faculty, CUNY faculty will not be required by CUNY presidents or any other officials to use the CUNY supplied LMS (Blackboard) either partially or totally in the instruction of their classes?
+
+
+
+Now under unforeseen and drastic conditions faculty are being asked or possibly are being compelled to accept academic judgments of others as to how they are to teach.  We acknowledge that academic freedom is guaranteed under the CUNY –PSC Collective Bargaining Agreement.  What possible conflicts or challenges do you see in providing for Instructional Continuity and at the same time respecting Academic Freedom?  We must accept that faculty began this semester with decisions as to their instructional designs and many, particularly adjuncts, accepted the terms under which they would be providing instruction and that those terms did not involve their using academic technologies, distance learning modalities, and training in distance learning. And so, we raise the matter of attempts to compel faculty to use particular instructional modalities and instructional designs.
+
+
+
+We thank you for your attention to this matter and your response.
+
+
+
+Philip A. Pecorino, Ph.D.
+
+Professor of Philosophy, QCC
+
+Chairperson, University Faculty Senate
+
+Academic Freedom Committee
+
+718-281-5038
+
+ppecorino@qcc.cuny.edu
+
+
+
+==============================================================================
+
+The sections on Distance Education, Clinical Placements, International Programs and Research Continuity are immediately below.
+
+Distance Education
+
+To ensure academic continuity as campuses address COVID-19 issues, the University authorizes campus presidents and deans to develop and implement plans to temporarily convert in-person courses/programs to distance education.
+
+This determination is enabled by the flexibility provided by recent guidance from the US Department of Education (USDE), New York State Education Department (NYSED), Middle States Commission on Higher Education (MSCHE) and the Student and Exchange Visitor Program (SEVP) regarding the conversion of the teaching modality for courses/programs already in progress.
+
+Please refer to the documents cited and linked above for important information regarding reporting requirements that must be met when converting to distance education.
+
+It is important to note that for an institution to meet the USDE’s requirements for distance education, it must “communicate to students through one of several types of technology – including email – described under 34 CFR § 600.2, and instructors must initiate substantive communication with students, either individually or collectively, on a regular basis. In other words, an instructor could use email to provide instructional materials to students enrolled in his or her class, use chat features to communicate with students, set up conference calls to facilitate group conversations, engage in email exchanges or require students to submit work electronically that the instructor will evaluate.”
+
+Furthermore, the USDE indicates that it “want[s] to make clear to institutions that for Title IV, HEA purposes, distance learning does not require the use of sophisticated learning management systems or online platforms, though accreditors may have additional standards included in their review of distance learning programs. We are, however, permitting accreditors to waive those standards for schools implementing distance learning programs solely for the purpose of allowing currently enrolled students to complete a term that is interrupted by COVID-19 closures.”
+
+In response to this, our regional institutional accreditor, MSCHE, has stated that it “will waive the distance education review requirements in the Substantive Change Policy and Procedures for institutions working to accommodate students whose enrollment is otherwise interrupted as a result of the coronavirus.”
+
+Similarly, NYSED has stated that “to help students already enrolled at the institution who are impacted by the emergency (e.g., students returning from study-abroad programs, all current students impacted by a campus emergency/closure in NYS, etc.), institutions that wish to offer current courses/programs online that are not currently registered with NYSED in the distance education format are granted temporary approval for the Spring 2020 academic term. Extension of this time frame will be monitored depending on the emergency time frame.”
+
+And finally, SEVP has recognized that “SEVP-certified schools may need to adapt their procedures and policies to address the significant public health concerns associated with the COVID-19 crisis,” giving institutions the ability to provide online instruction subject to various reporting requirements.
+
+Many faculty across our system are already preparing to convert their in-person courses to distance education by leveraging the University’s digital resources, sharing best practices with each other, and accessing training from various campus and online sources.
+
+As a reminder, most CUNY applications and cloud resources, such as Blackboard, CUNYFirst, Microsoft Office 365 (including OneDrive), and Dropbox can be found online on CUNY’s Technology Resources pages and accessed through web browsers. Also, please know that Blackboard course shells are automatically created for every CUNY course based on CUNYfirst data.  Indeed, two-thirds of all faculty have used Blackboard at least once for their Spring 2020 courses. The vast majority of students (87%) are currently in courses where Blackboard has been used at least once.
+
+Anticipating higher usage, Blackboard has increased CUNY’s storage capacity by 300 percent to support additional remote learning.  In addition, the Blackboard Collaborate tool, which CUNY licenses will also be able to support 300,000 students. Collaborate is Blackboard’s all-in-one video conference platform that works through computer, tablet, or mobile device. As a fully interactive web conferencing environment and asynchronous voice authoring solution, Collaborate enables faculty to establish web conferences and connect with one student or an entire class, up to 500 participants per Collaborate session.
+
+CUNY is working with Cisco to provide University-wide access to its WebEx tool to facilitate remote teaching and meetings using @login.cuny.edu single-sign-on credentials.  The WebEx building block for Blackboard will allow instructors to set virtual classroom and office hours and the WebEx meeting can be launched automatically from the course.  CIS and WebEx engineers are currently working together to enable this new service using @login.cuny.edu single sign-on credentials.  This WebEx solution will be enabled after testing is completed.
+
+ For information including FAQ, training materials and videos regarding Microsoft Office 365, please visit: https://www.cuny.edu/about/administration/offices/cis/technology-services/microsoft-office-365-for-education/
+
+To claim a Dropbox account and access training materials and FAQs, please visit: https://www.cuny.edu/about/administration/offices/cis/technology-services/dropbox/
+For Blackboard training videos, guides, and frequently asked questions, please visit:https://www.cuny.edu/about/administration/offices/cis/core-functions/cuny-blackboard/
+ A University-wide FAQ regarding distance education options available to faculty will soon be posted in our www.cuny.edu/coronavirus portal and the CTL Directors Council is working with the Committee on Academic Technology on an annotated list of resources for faculty in support of distance education, but in the meantime, I wanted to draw your attention to some of the excellent online resources already developed by some of our campuses.
+
+Graduate Center: Considerations for Instructional Continuity
+Baruch College: Teaching in the Time of COVID-19
+Borough of Manhattan Community College: Emergency Preparedness
+Brooklyn College: Remote Instruction Planning Draft (PDF)
+City College: Instruction and learning during a Potential COVID-19 Campus Closing
+Hostos Community College: Get Your Course Online Fast with Blackboard Training & Tutorials
+John Jay College of Criminal Justice: Translating On-Campus to Distance-Learning & Teach On! What to Do and Where to Start
+Lehman College: Leveraging Blackboard to Support Student Learning (In-Person and Hybrid Courses)
+Queens College: Back-up Plans for Course Interruption: What Everyone Needs to Know
+Clinical Placements
+
+NYSED has issued the following guidance for addressing the needs of students impacted by the Coronavirus: “Clinical experience must meet regulatory requirements.  If all the avenues to meeting clinical requirements have been exhausted, the program may… seek approval to use simulation or alternative methods.”
+
+The Office of Academic Affairs has shared the updated guidance and pre-filled request forms to all CUNY Health and Human Services (HHS) Program Deans and Chairs to be completed and sent to Central Office for submission to NYSED. The form includes information on NYSIM as the requested simulation facility, but may be substituted with the campus Simulation Lab, as appropriate. In the meantime, the University is working closely with NYSIM to ensure the necessary staffing and capacity to meet CUNY. For more information, please contact Patricia Simino Boyce, University Dean for Health and Human Services (Patricia.Boyce@cuny.edu).
+
+For an academic program leading to a recommendation for the issuance of an initial teacher certificate, applicable NYSED regulatory requirements in 52.21 define student teaching and describe experiences that must span at least 40 school days. In some instances, college program requirements exceed NYSED requirements.  Every effort must be made to provide continuity of the clinical experience and meet the applicable regulatory requirements.  If a P-12 placement school closes for a period of time, student teaching within the school should resume upon reopening if this occurs within the calendar previously established for student teaching. The following guidance is also applicable to field experience hours.  If a P-12 placement school has organized remote learning for their P-12 students, the student teacher may be able to continue planning/instruction/assessment within this remote learning framework under the remote supervision of their cooperating teacher and college-based supervisor. In the case of an extended closure of a P-12 placement school that makes resumption of student teaching not possible and that provides no opportunity for supervised teaching through a remote learning framework, if re-placement in another P-12 school is not possible, and if a program is not able to provide a clinical experience that meets the regulatory requirements, college deans should contact Dr. Ashleigh Thompson, University Dean for Education (ashleigh.thompson@cuny.edu) to discuss next steps for communications with NYSED.
+
+International Programs
+
+The University has already provided internal guidance to ensure maximum academic continuity to all CUNY students currently enrolled in study abroad programs that cannot be completed as planned, including coordinating with program partners and providers, replacing course content and assessment of programs abroad through independent studies, facilitating credit-bearing internships for affected students, and considering late registration at LaGuardia Community College or Kingsborough Community College via EPermit in cases of students with low numbers of earned credits.
+
+Last night we announced that effective immediately, CUNY is cancelling or postponing all CUNY-sponsored student international travel during the spring 2020 semester (including spring break).  This directive holds for all study abroad programs as well as non-CUNY credit-bearing programs and non-credit travel under the auspices of CUNY or any CUNY college or student organization.  This measure is taken out of an abundance of caution given the uncertain and unique challenges students would face when crossing borders at this time and builds upon the previous decision to suspend study abroad and nonessential travel to CDC Level 3 countries and to suspend CUNY study abroad programs listed as Level 2 or 3 by the CDC.
+
+Requests for exceptions to this policy will continue to be reviewed by the Office of Global Education and Initiatives and the Office of Risk, Audit and Compliance, but will also be elevated to the Executive Vice Chancellor and University Provost, who will make a final recommendation to the Chancellor after proper consultation with the New York State Department of Health.  Please note that CUNY’s International Travel Guidelines apply to all travel outside the United States, including Puerto Rico and other U.S. Territories and Protectorates.
+
+Additional details regarding the scope of this policy and the corresponding implementation plan will be shared with all campus Study Abroad Offices/International Education Liaisons and to all campus Offices of Students Affairs, which will be encouraged to survey their campus community to identify any and all student international travel plans, regardless of whether or not they sought approval from the corresponding campus authorities, to suspend pending trips and programs, and to support impacted students abroad who opt to return to New York.
+
+Until we can restore international travel for our students, we will work to reinforce global learning and teaching opportunities on our campuses.  For more information, please contact Dr. Kimberly Holland (kimberly.holland@cuny.edu), University Director of Global Education and Initiatives, or Dr. Ian James (ian.james@cuny.edu), Special Assistant  to the Executive Vice Chancellor and University Provost, Office of Academic Affairs/Enrollment Management.
+
+Research Continuity
+
+The research enterprise must continue to follow regulatory guidance. Principal Investigators (PIs) should prepare to suspend projects, but only when doing so would not pose risk of harm to human or animal subjects or public health, and not starting new projects.
+
+For animal care, essential personnel should be identified, trained, and back-up essential personnel cross-trained. Identification of essential personnel in this case may be dependent on ease of access to the animal facility. Therefore, public transit may become an issue in discerning essential personnel. Extra food and bedding for animals should be ordered. Orders for additional animals should be suspended, except on a case-by-case basis. If a campus shuts down, they should consider whether or not to implement a holding protocol. PIs should follow their campus and IACUC policies when determining whether a holding protocol is appropriate.
+
+For tissue and other non-IACUC materials such as insects, plants, and sea animals, additional orders should be suspended, except on a case-by-case basis. PIs should be prepared to decide which to maintain (e.g., freeze) and which to abandon. PIs who work with such materials should contact their campus EHS Officer to design a contingency plan appropriate to the materials in question.
+
+For research involving interactions with humans, interactions should be limited in accordance with CUNY Coronavirus Guidance and CDC guidance. PIs should notify the campus HRPP Coordinator and the sponsor of any pauses in research procedures. Unless otherwise notified by the sponsor, all reports due to sponsors must continue to be submitted.
+
+For equipment/facilities, which require human attention and/or supplies for operations, order extra supplies and train/cross train essential personnel considering commute to ensure adequate coverage so as to maintain operations and prevent equipment failure. Campuses should put protocols in place to provide access during campus closures.
+
+For researcher travel, including conferences and field research, researchers should follow CUNY travel guidance on the www.cuny.edu/coronavirus portal.
+
+For more information, please contact Dr. Tamera Schneider, Chief Research Officer.
