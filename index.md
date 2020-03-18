@@ -2,6 +2,7 @@ Website for information on CUNY/CSI/COVID-19
 
 ## News
 
+* [3/17 City College update](News/city-college-update-3-17)
 * [3/16 CSI Closed](News/csi-closed-3-16)
 * [3/15 COVID case at Lehman](News/covid-lehman-3-15)
 * [3/14 COVID case at CSI](News/csi-positive-3-14)
