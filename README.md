@@ -2,7 +2,13 @@
 
 Website holding CSI COVID-19 news
 
+
+
 ## News
+
+## FAQ
+
+[FAQ](FAQ/freqeuntly-asked-questions.html)
 
 ## College Council Faculty Senate
 
@@ -15,13 +21,14 @@ Website holding CSI COVID-19 news
 ## Academic matters
 
 
-* [Additional Information and support from CUNY regarding Distance Education](Ac
+* [CUNY Updates on Student Success, Equity, and Inclusion](AcademicAffairs/student-success-3-18.md)
+* [Additional Information and support from CUNY regarding Distance Education](AcademicAffairs/distance-learning-3-18.html)
 
 * A series of guidance letters from  EVC Cruz forwarded by the provost
-[Guidance from CUNY#1  - Teaching Evaluations and Faculty Reappointments](AcademicAffairs/guidance-1-3-16.md);
-[Guidance from CUNY #2  Student Grades](AcademicAffairs/guidance-2-3-16.md);
-[Guidance from CUNY #3 - Distance Learning and Resources](AcademicAffairs/guidance-3-3-16.md);
-[Guidance from Cuny #4 - Internships, Continuing Ed, and Clinic...](AcademicAffairs/guidance4-3-16.md)
+[Guidance from CUNY#1  - Teaching Evaluations and Faculty Reappointments](AcademicAffairs/guidance-1-3-16.html);
+[Guidance from CUNY #2  Student Grades](AcademicAffairs/guidance-2-3-16.html);
+[Guidance from CUNY #3 - Distance Learning and Resources](AcademicAffairs/guidance-3-3-16.html);
+[Guidance from Cuny #4 - Internships, Continuing Ed, and Clinic...](AcademicAffairs/guidance4-3-16.html)
 
 ## Technology matters
 
