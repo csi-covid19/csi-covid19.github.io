@@ -1,22 +1,20 @@
-name: deploy site
-
+name: Build and Deploy
 on:
   push:
     branches:
-      - franklin
-
-
+      - dev
 jobs:
-  build:
-    # Job name is Greeting
-    name: Greeting
-    # This job runs on Linux
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      # This step uses GitHub's hello-world-javascript-action: https://github.com/actions/hello-world-javascript-action
-      - name: Echo the greeting's time
-        run: echo 'The time was ${{ steps.hello.outputs.time }}.'
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        persist-credentials: false
 
-
-BRANCH: master
-FOLDER: __site
+    - name: Build and Deploy
+      uses: JamesIves/github-pages-deploy-action@releases/v3
+      with:
+        ACCESS_TOKEN: ${{ secrets.FRANKLIN }}
+        BRANCH: master
+        FOLDER: __site
