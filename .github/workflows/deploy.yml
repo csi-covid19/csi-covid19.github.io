@@ -1,7 +1,17 @@
+name: deploy site
+
 on:
   push:
     branches:
       - franklin
+
+
+jobs:
+  build:
+    # Job name is Greeting
+    name: Greeting
+    # This job runs on Linux
+    runs-on: ubuntu-latest
 
 
 BRANCH: master
