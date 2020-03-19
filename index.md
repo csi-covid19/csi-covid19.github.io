@@ -26,6 +26,10 @@ Website for information on CUNY/CSI/COVID-19
 
 * [LGCC SARS-CoV-2-guide](http://guides.laguardia.edu/novel-coronavirus_novel-coronavirus-disease/outbreak-situation)
 
+* [worldometer list of cases](https://www.worldometers.info/coronavirus/country/us/)
+
+* [CDC entry  point](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
+
 ## College Council Faculty Senate
 
 * [3/14 From the chairs email](CCFS/from-the-chairs-3-14)
