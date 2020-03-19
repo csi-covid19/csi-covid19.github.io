@@ -37,6 +37,8 @@ Website for information on CUNY/CSI/COVID-19
 
 ## PSC
 
+* [3/18 PSC What to do...](PSC/3-18-what-to-do)
+* [3/18 PSC CHapter Chair response](PSC/3-18-PSC-Chapter-chair-response-president)
 * [3/18 PSC Press release, re libraries](PSC/PSC-press-release-3-18)
 * [3/17 CUNY refuses](PSC/cuny-refuses-3-18)
 * [3/16 PSC Response](PSC/PSC-responsee-3-16)
@@ -49,6 +51,9 @@ Website for information on CUNY/CSI/COVID-19
 
 ## College matters
 
+* [3/19 Campus facilities](College/3-19-campus-facilities)
+* [3/18 Public Safety Message](College/3-18-public-safety)
+* [3/18 Important Message from Student Affairs](College/3-18-student-affairs)
 * [3/18 President's "move to distance learning"](College/distance-learning-3-18)
 * [3/16 HR notice](College/hr-email-3-16)
 * [3/15 Facilities notice](College/facilities-3-15)
@@ -69,10 +74,11 @@ Website for information on CUNY/CSI/COVID-19
 
 ### A series of guidance letters from  EVC Cruz forwarded by the provost
 
-* [3/16 Guidance from CUNY #1  - Teaching Evaluations and Faculty Reappointments](AcademicAffairs/guidance-1-3-16);
-* [3/16 Guidance from CUNY #2  Student Grades](AcademicAffairs/guidance-2-3-16);
-* [3/16 Guidance from CUNY #3 - Distance Learning and Resources](AcademicAffairs/guidance-3-3-16);
+* [3/17 Guidance from CUNY #5 - Guidance on Academic Continuity](CUNY/guidance-5-3-19)
 * [3/16 Guidance from Cuny #4 - Internships, Continuing Ed, and Clinic...](AcademicAffairs/guidance4-3-16)
+* [3/16 Guidance from CUNY #3 - Distance Learning and Resources](AcademicAffairs/guidance-3-3-16);
+* [3/16 Guidance from CUNY #2  Student Grades](AcademicAffairs/guidance-2-3-16);
+* [3/16 Guidance from CUNY #1  - Teaching Evaluations and Faculty Reappointments](AcademicAffairs/guidance-1-3-16);
 
 
 
