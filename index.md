@@ -8,7 +8,7 @@ Website for information on CUNY/CSI/COVID-19
 * [3/14 COVID case at CSI](News/csi-positive-3-14)
 * [3/13 COVID case at CSI](News/csi-positive-3-13)
 * [3/12 COVID case at Brooklyn](News/brooklyn-covid-3-13)
-
+* [3/10 COVID at John Jay](CUNY/3-10-john-jay)
 
 
 ## Hot issues
@@ -90,6 +90,7 @@ Website for information on CUNY/CSI/COVID-19
 * [3/18 Digital resources and broadbank ](Technology/digital-resources-broadband-3-18)
 * [3/16 Faculty Center Info Hub](Technology/faculty-center-hub)
 * [3/16 Webex availability](Technology/ConnectCUNY-Webex_QuickStart_13Mar2020.pdf)
+* [3/16 John Jay Handbook of Online Teaching](http://www1.cuny.edu/sites/cunyufs/wp-content/uploads/sites/48/2020/03/handbook_online_teaching.pdf)
 * [3/13 Two tips on use of dropbox](Technology/Two_tips_on_remote_learning.docx)
 * [3/13 Training and support for distance learning, email](Technology/training-support-3-13)
 * [3/12 Blackboard collaborate  notes](Technology/blackboard-collaborate-instruction-r-ferrando.pdf)
