@@ -26,6 +26,8 @@ Website for information on CUNY/CSI/COVID-19
 
 * [LGCC SARS-CoV-2-guide](http://guides.laguardia.edu/novel-coronavirus_novel-coronavirus-disease/outbreak-situation)
 
+* [QBCC Resources list](https://www.qcc.cuny.edu/SocialSciences/ppecorino/CORONA-Virus-measures.html)
+
 * [worldometer list of cases](https://www.worldometers.info/coronavirus/country/us/)
 
 * [CDC entry  point](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
@@ -51,6 +53,10 @@ Website for information on CUNY/CSI/COVID-19
 
 ## College matters
 
+* [3/19 updated Registrar phone numbers](College/registrar-numbers.docx)
+* [3/19 HR email](College/3-19-HR)
+* [3/19 Business Office Email](College/3-19-business-office-email)
+* [3/19 Blackboard Collaborate Update](College/3-19-blackboard-collaborate)
 * [3/19 Campus facilities](College/3-19-campus-facilities)
 * [3/18 Public Safety Message](College/3-18-public-safety)
 * [3/18 Important Message from Student Affairs](College/3-18-student-affairs)
