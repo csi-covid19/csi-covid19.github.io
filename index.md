@@ -20,6 +20,8 @@ Website for information on CUNY/CSI/COVID-19
 
 ## FAQ
 
+* [CSI coronavirus message webpage](https://www.csi.cuny.edu/about-csi/president-leadership/office-president/presidential-communications/coronavirus-message)
+
 * [CSI FAQ](FAQ/frequently-asked-questions)
 
 * [LGCC SARS-CoV-2-guide](http://guides.laguardia.edu/novel-coronavirus_novel-coronavirus-disease/outbreak-situation)
@@ -43,6 +45,7 @@ Website for information on CUNY/CSI/COVID-19
 
 ## College matters
 
+* [3/18 President's "move to distance learning"](College/distance-learning-3-18)
 * [3/16 HR notice](College/hr-email-3-16)
 * [3/15 Facilities notice](College/facilities-3-15)
 * [3/13 Research  continuity](College/research-continuity-3-13)
