@@ -52,6 +52,7 @@ Website for information on CUNY/CSI/COVID-19
 
 ## College matters
 
+* [3/20 Blackboard Collaborate Update](College/3-20-blackboard-collaborate)
 * [3/19 Admitted students event](College/3-19-admitted-students)
 * [3/19 updated Registrar phone numbers](College/registrar-numbers.docx)
 * [3/19 HR email](College/3-19-HR)
@@ -91,6 +92,8 @@ Website for information on CUNY/CSI/COVID-19
 
 ## Technology matters
 
+* [3/20 After hour blackboard support](Technology/3-20-afterhour-blackboard)
+* [3/20 enable microphone on browser](Technology/enable-microphone.pdf)
 * [3/18 Cloud tools comparison](Technology/CUNY_academic_cloud_tools_comparison.pdf)
 * [3/18 Math tutors online](https://www.math.csi.cuny.edu/Students/Tutoring/)
 * [3/18 Training and support for distance learning](Technology/Training-and-support-for-distance-learning.pdf)
