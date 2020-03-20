@@ -14,6 +14,7 @@ Website for information on CUNY/CSI/COVID-19
 
 ## Hot issues
 
+* [3/19 Extending the tenure clock](https://oaa.osu.edu/tenure-track-faculty-extension-tenure-clock-due-covid-19)
 * [3/18 CSI Chief librarian email](Issues/update-hrs-3-18)
 * [3/18 CSI librarian's closure request](Issues/csi-library-request-3-18)
 * [Library open or close](Issues/library)
@@ -21,17 +22,14 @@ Website for information on CUNY/CSI/COVID-19
 
 ## FAQ
 
-* [CSI coronavirus message webpage](https://www.csi.cuny.edu/about-csi/president-leadership/office-president/presidential-communications/coronavirus-message)
-
 * [CSI FAQ](FAQ/frequently-asked-questions)
-
+* [CSI coronavirus message webpage](https://www.csi.cuny.edu/about-csi/president-leadership/office-president/presidential-communications/coronavirus-message)
+* [CUNY FAQ for faculty/staff](https://www.cuny.edu/coronavirus/faq-for-faculty-and-staff/)
 * [LGCC SARS-CoV-2-guide](http://guides.laguardia.edu/novel-coronavirus_novel-coronavirus-disease/outbreak-situation)
-
 * [QBCC Resources list](https://www.qcc.cuny.edu/SocialSciences/ppecorino/CORONA-Virus-measures.html)
-
 * [worldometer list of cases](https://www.worldometers.info/coronavirus/country/us/)
-
 * [CDC entry  point](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
+* [NYC Building disinfection guidelines](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/disinfection-guidance-for-commercial-residential-covid19.pdf)
 
 ## College Council Faculty Senate
 
@@ -54,6 +52,7 @@ Website for information on CUNY/CSI/COVID-19
 
 ## College matters
 
+* [3/19 Admitted students event](College/3-19-admitted-students)
 * [3/19 updated Registrar phone numbers](College/registrar-numbers.docx)
 * [3/19 HR email](College/3-19-HR)
 * [3/19 Business Office Email](College/3-19-business-office-email)
@@ -81,6 +80,7 @@ Website for information on CUNY/CSI/COVID-19
 
 ### A series of guidance letters from  EVC Cruz forwarded by the provost
 
+* [3/19 University Guidance](https://www.cuny.edu/coronavirus/#employees)
 * [3/17 Guidance from CUNY #5 - Guidance on Academic Continuity](CUNY/guidance-5-3-19)
 * [3/16 Guidance from CUNY #4 - Internships, Continuing Ed, and Clinic...](AcademicAffairs/guidance4-3-16)
 * [3/16 Guidance from CUNY #3 - Distance Learning and Resources](AcademicAffairs/guidance-3-3-16);
@@ -105,6 +105,7 @@ Website for information on CUNY/CSI/COVID-19
 
 ## CUNY
 
+* [3/19 Chancellor: working together](CUNY/3-19-chancellor-working-together)
 * [3/15 Chancellor telecommuting email](CUNY/chancellor-3-15)
 * [3/2 Chancellor email to CUNY](CUNY/chancellor-3-2)
 
@@ -113,6 +114,7 @@ Website for information on CUNY/CSI/COVID-19
 
 
 * 3/19/2020: Classes resume
+* [3/15 Cuomo executive order, re: non-essential personnel](https://opwdd.ny.gov/news_and_publications/news/non-essential-state-employees-who-work-new-york-city-rockland-westchester)
 * 3/11/2020: Chancellor announces instructional recess [email](Calendar/chancellor-3-11-email)
 * 3/11/2020: Governor announces CUNY to go online by 3/19 [silive.com](https://www.silive.com/coronavirus/2020/03/coronavirus-cuny-suny-classes-will-move-online.html)
 * 3/9/2020:  NYU: Crucial Changes to Class Meetings This Week and the Following Two Weeks
