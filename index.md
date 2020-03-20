@@ -52,6 +52,7 @@ Website for information on CUNY/CSI/COVID-19
 
 ## College matters
 
+* [3/20 Social distance guidelins](College/3-20-social-distance)
 * [3/20 Blackboard Collaborate Update](College/3-20-blackboard-collaborate)
 * [3/19 Admitted students event](College/3-19-admitted-students)
 * [3/19 updated Registrar phone numbers](College/registrar-numbers.docx)
