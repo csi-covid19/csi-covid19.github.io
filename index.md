@@ -53,6 +53,7 @@ Website for information on CUNY/CSI/COVID-19
 
 ## College matters
 
+* [3/21 Personnel updates](College/3-21-personnel-updates)
 * [3/21 Revised hours for enrollment services](College/3-21-revised-hours-enrollment-services)
 * [3/21 Revised hours for student success](College/3-21-revised-hours-student-success)
 * [3/20 Revised Borough hearing with Board of Trustees](CUNY/3-20-revised-borough-hearing)
