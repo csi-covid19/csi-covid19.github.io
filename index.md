@@ -53,6 +53,8 @@ Website for information on CUNY/CSI/COVID-19
 
 ## College matters
 
+* [3/21 Revised hours for enrollment services](College/3-21-revised-hours-enrollment-services)
+* [3/21 Revised hours for student success](College/3-21-revised-hours-student-success)
 * [3/20 Revised Borough hearing with Board of Trustees](CUNY/3-20-revised-borough-hearing)
 * [3/20 Social distance guidelins](College/3-20-social-distance)
 * [3/20 Blackboard Collaborate Update](College/3-20-blackboard-collaborate)
@@ -105,6 +107,7 @@ Website for information on CUNY/CSI/COVID-19
 * [3/18 Digital resources and broadbank ](Technology/digital-resources-broadband-3-18)
 * [3/16 Faculty Center Info Hub](Technology/faculty-center-hub)
 * [3/16 Webex availability](Technology/ConnectCUNY-Webex_QuickStart_13Mar2020.pdf)
+* [3/16 more on Webex through ConnectCUNY](https://www.csi.cuny.edu/sites/default/files/pdf/technologysystems/pdf_doc/CUNY_WebEx.pdf)
 * [3/16 John Jay Handbook of Online Teaching](http://www1.cuny.edu/sites/cunyufs/wp-content/uploads/sites/48/2020/03/handbook_online_teaching.pdf)
 * [3/13 Two tips on use of dropbox](Technology/Two_tips_on_remote_learning.docx)
 * [3/13 Training and support for distance learning, email](Technology/training-support-3-13)
