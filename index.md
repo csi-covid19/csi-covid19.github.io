@@ -27,9 +27,10 @@ Website for information on CUNY/CSI/COVID-19
 * [CUNY FAQ for faculty/staff](https://www.cuny.edu/coronavirus/faq-for-faculty-and-staff/)
 * [LGCC SARS-CoV-2-guide](http://guides.laguardia.edu/novel-coronavirus_novel-coronavirus-disease/outbreak-situation)
 * [QBCC Resources list](https://www.qcc.cuny.edu/SocialSciences/ppecorino/CORONA-Virus-measures.html)
-* [worldometer list of cases](https://www.worldometers.info/coronavirus/country/us/)
-* [CDC entry  point](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
 * [NYC Building disinfection guidelines](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/disinfection-guidance-for-commercial-residential-covid19.pdf)
+* [NYS Novel coronavirus (COVID-19) website](https://coronavirus.health.ny.gov/home)
+* [CDC entry  point](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
+* [worldometer list of cases](https://www.worldometers.info/coronavirus/)
 
 ## College Council Faculty Senate
 
@@ -52,6 +53,7 @@ Website for information on CUNY/CSI/COVID-19
 
 ## College matters
 
+* [3/20 Revised Borough hearing with Board of Trustees](CUNY/3-20-revised-borough-hearing)
 * [3/20 Social distance guidelins](College/3-20-social-distance)
 * [3/20 Blackboard Collaborate Update](College/3-20-blackboard-collaborate)
 * [3/19 Admitted students event](College/3-19-admitted-students)
@@ -82,6 +84,7 @@ Website for information on CUNY/CSI/COVID-19
 
 ### A series of guidance letters from  EVC Cruz forwarded by the provost
 
+* [3/20 Guidance from CUNY #6 - CUNY COVID-19 Guidance on Academic Continuity](CUNY/3-21-guidance-6)
 * [3/19 University Guidance](https://www.cuny.edu/coronavirus/#employees)
 * [3/17 Guidance from CUNY #5 - Guidance on Academic Continuity](CUNY/guidance-5-3-19)
 * [3/16 Guidance from CUNY #4 - Internships, Continuing Ed, and Clinic...](AcademicAffairs/guidance4-3-16)
@@ -93,6 +96,7 @@ Website for information on CUNY/CSI/COVID-19
 
 ## Technology matters
 
+* [3/20 I will survive (online teaching)](https://www.youtube.com/watch?v=CCe5PaeAeew)
 * [3/20 After hour blackboard support](Technology/3-20-afterhour-blackboard)
 * [3/20 enable microphone on browser](Technology/enable-microphone.pdf)
 * [3/18 Cloud tools comparison](Technology/CUNY_academic_cloud_tools_comparison.pdf)
@@ -109,6 +113,7 @@ Website for information on CUNY/CSI/COVID-19
 
 ## CUNY
 
+* [3/20 Chancellor email: COVID-19 emergency response update](CUNY/3-20-chancellor-email)
 * [3/19 Chancellor: working together](CUNY/3-19-chancellor-working-together)
 * [3/15 Chancellor telecommuting email](CUNY/chancellor-3-15)
 * [3/2 Chancellor email to CUNY](CUNY/chancellor-3-2)
@@ -116,7 +121,8 @@ Website for information on CUNY/CSI/COVID-19
 ## Calendar
 
 
-
+* [3/20 NYS   on Pause announcement](News/3-20-NYS-on-Pause)
+* [3/20 NYS Essential Personnel](https://www.governor.ny.gov/news/governor-cuomo-issues-guidance-essential-services-under-new-york-state-pause-executive-order)
 * 3/19/2020: Classes resume
 * [3/15 Cuomo executive order, re: non-essential personnel](https://opwdd.ny.gov/news_and_publications/news/non-essential-state-employees-who-work-new-york-city-rockland-westchester)
 * 3/11/2020: Chancellor announces instructional recess [email](Calendar/chancellor-3-11-email)
