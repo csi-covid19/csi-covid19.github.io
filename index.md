@@ -30,7 +30,8 @@ Website for information on CUNY/CSI/COVID-19
 * [NYC Building disinfection guidelines](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/disinfection-guidance-for-commercial-residential-covid19.pdf)
 * [NYS Novel coronavirus (COVID-19) website](https://coronavirus.health.ny.gov/home)
 * [CDC entry  point](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
-* [worldometer list of cases](https://www.worldometers.info/coronavirus/)
+* [Worldometer list of cases](https://www.worldometers.info/coronavirus/)
+* [Google's COVID-19 site](https://www.google.com/covid19/)
 
 ## College Council Faculty Senate
 
@@ -99,6 +100,7 @@ Website for information on CUNY/CSI/COVID-19
 
 ## Technology matters
 
+* [3/21 Updates from CUNY Information Technology](Technology/3-21-CUNY-CIO-email)
 * [3/20 I will survive (online teaching)](https://www.youtube.com/watch?v=CCe5PaeAeew)
 * [3/20 After hour blackboard support](Technology/3-20-afterhour-blackboard)
 * [3/20 enable microphone on browser](Technology/enable-microphone.pdf)
