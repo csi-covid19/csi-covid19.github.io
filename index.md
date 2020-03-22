@@ -88,6 +88,9 @@ Website for information on CUNY/CSI/COVID-19
 
 ### A series of guidance letters from  EVC Cruz forwarded by the provost
 
+
+
+* [3/21 Guidance from CUNY #7](CUNY/3-22-guidance-7)
 * [3/20 Guidance from CUNY #6 - CUNY COVID-19 Guidance on Academic Continuity](CUNY/3-21-guidance-6)
 * [3/19 University Guidance](https://www.cuny.edu/coronavirus/#employees)
 * [3/17 Guidance from CUNY #5 - Guidance on Academic Continuity](CUNY/guidance-5-3-19)
@@ -95,6 +98,7 @@ Website for information on CUNY/CSI/COVID-19
 * [3/16 Guidance from CUNY #3 - Distance Learning and Resources](AcademicAffairs/guidance-3-3-16);
 * [3/16 Guidance from CUNY #2 - Student Grades](AcademicAffairs/guidance-2-3-16);
 * [3/16 Guidance from CUNY #1 - Teaching Evaluations and Faculty Reappointments](AcademicAffairs/guidance-1-3-16);
+* [Guidance on Academic Continuity to campuses](https://www.cuny.edu/coronavirus/guidance-on-academic-continuity-to-campuses/)
 
 
 
