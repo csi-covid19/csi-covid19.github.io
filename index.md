@@ -55,6 +55,7 @@ Website for information on CUNY/CSI/COVID-19
 
 ## College matters
 
+* [3/23 President Fritz video](https://www.dropbox.com/s/5n1sfn8pojfrzl6/President%20Fritz%20Address%20to%20College%203-23.mp4?dl=0)
 * [3/21 Personnel updates](College/3-21-personnel-updates)
 * [3/21 Revised hours for enrollment services](College/3-21-revised-hours-enrollment-services)
 * [3/21 Revised hours for student success](College/3-21-revised-hours-student-success)
