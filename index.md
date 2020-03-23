@@ -40,6 +40,7 @@ Website for information on CUNY/CSI/COVID-19
 
 ## PSC
 
+* [3/23 PSC email re:  essential personnel](PSC/3-23-essential-peeps)
 * [3/18 PSC What to do...](PSC/3-18-what-to-do)
 * [3/18 PSC CHapter Chair response](PSC/3-18-PSC-Chapter-chair-response-president)
 * [3/18 PSC Press release, re libraries](PSC/PSC-press-release-3-18)
@@ -104,6 +105,8 @@ Website for information on CUNY/CSI/COVID-19
 
 ## Technology matters
 
+* [3/23 Texas Instruments: free calculator software](Technology/3-23-texas-instruments)
+* [3/22 CUNY  Students and Adobe Cloud products](Technology/3-22-CUNY-Adobe)
 * [3/21 Updates from CUNY Information Technology](Technology/3-21-CUNY-CIO-email)
 * [3/20 I will survive (online teaching)](https://www.youtube.com/watch?v=CCe5PaeAeew)
 * [3/20 After hour blackboard support](Technology/3-20-afterhour-blackboard)
