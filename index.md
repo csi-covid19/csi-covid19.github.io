@@ -1,5 +1,9 @@
 Website for information on CUNY/CSI/COVID-19
 
+## Recalibration period 3/27 - 4-1
+
+CUNY announces a recalibration period beginning this Friday, March 27,
+through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## News
 
@@ -14,6 +18,8 @@ Website for information on CUNY/CSI/COVID-19
 
 ## Hot issues
 
+* [3/24 Loads of laptops...](College/3-24-laptops)
+* [3/24 How to  test in math](http://nogoodanswer.com)
 * [3/19 Extending the tenure clock](https://oaa.osu.edu/tenure-track-faculty-extension-tenure-clock-due-covid-19)
 * [3/18 CSI Chief librarian email](Issues/update-hrs-3-18)
 * [3/18 CSI librarian's closure request](Issues/csi-library-request-3-18)
@@ -55,6 +61,8 @@ Website for information on CUNY/CSI/COVID-19
 
 ## College matters
 
+* [3/24 How to verify student over the phone](College/3-24-how-to-verify)
+* [3/24 Educares team for student outreach](College/3-24-educare-team)
 * [3/23 President Fritz video](https://www.dropbox.com/s/5n1sfn8pojfrzl6/President%20Fritz%20Address%20to%20College%203-23.mp4?dl=0)
 * [3/21 Personnel updates](College/3-21-personnel-updates)
 * [3/21 Revised hours for enrollment services](College/3-21-revised-hours-enrollment-services)
@@ -106,6 +114,7 @@ Website for information on CUNY/CSI/COVID-19
 
 ## Technology matters
 
+* [3/24 Some additional blackboard information](Technology/3-24-additional-blackboard)
 * [3/23 Texas Instruments: free calculator software](Technology/3-23-texas-instruments)
 * [3/22 CUNY  Students and Adobe Cloud products](Technology/3-22-CUNY-Adobe)
 * [3/21 Updates from CUNY Information Technology](Technology/3-21-CUNY-CIO-email)
@@ -127,6 +136,7 @@ Website for information on CUNY/CSI/COVID-19
 
 ## CUNY
 
+* [3/24 Chancellor: Recalibration time](CUNY/3-24-recalibration)
 * [3/20 Chancellor email: COVID-19 emergency response update](CUNY/3-20-chancellor-email)
 * [3/19 Chancellor: working together](CUNY/3-19-chancellor-working-together)
 * [3/15 Chancellor telecommuting email](CUNY/chancellor-3-15)
