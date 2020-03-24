@@ -18,7 +18,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## Hot issues
 
-* [3/24 Loads of laptops...](College/3-24-laptops)
+* [3/24 Loads of laptops... 25,000!](College/3-24-laptops)
 * [3/24 How to  test in math](http://nogoodanswer.com)
 * [3/19 Extending the tenure clock](https://oaa.osu.edu/tenure-track-faculty-extension-tenure-clock-due-covid-19)
 * [3/18 CSI Chief librarian email](Issues/update-hrs-3-18)
