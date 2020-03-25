@@ -61,6 +61,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## College matters
 
+* [3/25 Guidance on observations, office hours, ... ](College/3-25-guidance)
 * [3/25 Academic Calendar and technology needs at CSI](College/3-25-academic-calendar)
 * [3/25 Mailroom hours](College/3-25-mailroom)
 * [3/24 How to verify student over the phone](College/3-24-how-to-verify)
@@ -138,6 +139,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## CUNY
 
+* [3/25 Chancellor: further clarity on recalibration...](CUNY/3-25-further-clarity)
 * [3/24 Chancellor: Recalibration time (with 3/25 update)](CUNY/3-24-recalibration)
 * [3/20 Chancellor email: COVID-19 emergency response update](CUNY/3-20-chancellor-email)
 * [3/19 Chancellor: working together](CUNY/3-19-chancellor-working-together)
