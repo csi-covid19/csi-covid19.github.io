@@ -1,9 +1,11 @@
-3/24 email
+3/24 email; with *updates* as of  March 25, 2020, 1:40 p.m.
 
 ----
 
 
-OFFICE OF THE CHANCELLOR
+Last updated March 25, 2020, 1:40 p.m.
+
+Message from Chancellor Matos Rodríguez
 
 March 24, 2020
 
@@ -38,3 +40,5 @@ I want to close by thanking all of you for your continued perseverance in these 
 Sincerely,
 
 Felo
+
+Please note that the rapidly evolving nature of this situation necessitates frequent evaluation and modification of our policies and plans, which are fluid and subject to change at any time. To ensure that you have the most up-to-date guidance, directives and resources, please check back frequently with CUNY.edu/coronavirus.
