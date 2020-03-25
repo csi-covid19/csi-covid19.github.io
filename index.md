@@ -61,6 +61,8 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## College matters
 
+* [3/25 Academic Calendar and technology needs at CSI](College/3-25-academic-calendar)
+* [3/25 Mailroom hours](College/3-25-mailroom)
 * [3/24 How to verify student over the phone](College/3-24-how-to-verify)
 * [3/24 Educares team for student outreach](College/3-24-educare-team)
 * [3/23 President Fritz video](https://www.dropbox.com/s/5n1sfn8pojfrzl6/President%20Fritz%20Address%20to%20College%203-23.mp4?dl=0)
