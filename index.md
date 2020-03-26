@@ -51,6 +51,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## PSC
 
+* [3/26 PSC email on recalibration](PSC/3-26-recalibration)
 * [3/23 PSC email re:  essential personnel](PSC/3-23-essential-peeps)
 * [3/18 PSC What to do...](PSC/3-18-what-to-do)
 * [3/18 PSC CHapter Chair response](PSC/3-18-PSC-Chapter-chair-response-president)
