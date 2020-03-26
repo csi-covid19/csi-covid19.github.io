@@ -139,6 +139,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## CUNY
 
+* [3/26 CUNY Continuity website, free things!](https://www.cuny.edu/cuny-continuity/cuny-continuity-for-students/)
 * [3/25 Chancellor: further clarity on recalibration...](CUNY/3-25-further-clarity)
 * [3/24 Chancellor: Recalibration time (with 3/25 update)](CUNY/3-24-recalibration)
 * [3/20 Chancellor email: COVID-19 emergency response update](CUNY/3-20-chancellor-email)
