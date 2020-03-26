@@ -34,6 +34,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 * [CSI FAQ](FAQ/frequently-asked-questions)
 * [CSI coronavirus message webpage](https://www.csi.cuny.edu/about-csi/president-leadership/office-president/presidential-communications/coronavirus-message)
 * [CUNY FAQ for faculty/staff](https://www.cuny.edu/coronavirus/faq-for-faculty-and-staff/)
+* [CUNY Continuity for Students website](https://www.cuny.edu/cuny-continuity/cuny-continuity-for-students/)
 * [CUNY Distance learning  archive](http://cuny.is/cdla)
 * [LGCC SARS-CoV-2-guide](http://guides.laguardia.edu/novel-coronavirus_novel-coronavirus-disease/outbreak-situation)
 * [QBCC Resources list](https://www.qcc.cuny.edu/SocialSciences/ppecorino/CORONA-Virus-measures.html)
@@ -65,6 +66,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## College matters
 
+*  [3/25 Guidance on  travel](College/3-25-guidance-travel)
 * [3/25 Guidance on observations, office hours, ... ](College/3-25-guidance)
 * [3/25 Academic Calendar and technology needs at CSI](College/3-25-academic-calendar)
 * [3/25 Mailroom hours](College/3-25-mailroom)
