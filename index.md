@@ -1,6 +1,8 @@
-Website for information on CUNY/CSI/COVID-19
+## Information on CUNY/CSI/COVID-19
 
-## Recalibration period 3/27 - 4-1
+!!! Note
+
+Recalibration period 3/27 - 4-1
 
 CUNY announces a recalibration period beginning this Friday, March 27,
 through Wednesday April 1. Distance learning will resume on Thursday, April 2.
@@ -18,7 +20,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## Hot issues
 
-* [3/26 Distance learning archive](College/3-26-distance-learning-archive)
+* [3/26 Distance learning archive](College/3-26-distance-learning-archive) and [here](http://cuny.is/cdla)
 * [3/24 Loads of laptops... 25,000!](College/3-24-laptops)
 * [3/24 How to  test in math](http://nogoodanswer.com)
 * [3/19 Extending the tenure clock](https://oaa.osu.edu/tenure-track-faculty-extension-tenure-clock-due-covid-19)
@@ -32,6 +34,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 * [CSI FAQ](FAQ/frequently-asked-questions)
 * [CSI coronavirus message webpage](https://www.csi.cuny.edu/about-csi/president-leadership/office-president/presidential-communications/coronavirus-message)
 * [CUNY FAQ for faculty/staff](https://www.cuny.edu/coronavirus/faq-for-faculty-and-staff/)
+* [CUNY Distance learning  archive](http://cuny.is/cdla)
 * [LGCC SARS-CoV-2-guide](http://guides.laguardia.edu/novel-coronavirus_novel-coronavirus-disease/outbreak-situation)
 * [QBCC Resources list](https://www.qcc.cuny.edu/SocialSciences/ppecorino/CORONA-Virus-measures.html)
 * [NYC Building disinfection guidelines](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/disinfection-guidance-for-commercial-residential-covid19.pdf)
