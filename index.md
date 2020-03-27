@@ -43,6 +43,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 * [CDC entry  point](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
 * [Worldometer list of cases](https://www.worldometers.info/coronavirus/)
 * [Google's COVID-19 site](https://www.google.com/covid19/)
+* [JHU arcgis map](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
 ## College Council Faculty Senate
 
@@ -146,6 +147,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## CUNY
 
+* [3/27 A letter from the USS Chair to the faculty urging compliance with the recalibration](CUNY/3-27-uss-chair-letter-to-faculty.pdf)
 * [3/26 CUNY Continuity website, free things!](https://www.cuny.edu/cuny-continuity/cuny-continuity-for-students/)
 * [3/25 Chancellor: further clarity on recalibration...](CUNY/3-25-further-clarity)
 * [3/24 Chancellor: Recalibration time (with 3/25 update)](CUNY/3-24-recalibration)
