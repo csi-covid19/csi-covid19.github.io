@@ -7,8 +7,11 @@ Recalibration period 3/27 - 4-1
 CUNY announces a recalibration period beginning this Friday, March 27,
 through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
+
+
 ## News
 
+* [3/27 News of the day](Today/3-27-today)
 * [3/17 City College update](News/city-college-update-3-17)
 * [3/16 CSI Closed](News/csi-closed-3-16)
 * [3/15 COVID case at Lehman](News/covid-lehman-3-15)
@@ -69,7 +72,9 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## College matters
 
-*  [3/25 Guidance on  travel](College/3-25-guidance-travel)
+
+* [3/27 College of Staten Island facilities used to support the fight ](College/3-27-president-facilities)
+* [3/25 Guidance on  travel](College/3-25-guidance-travel)
 * [3/25 Guidance on observations, office hours, ... ](College/3-25-guidance)
 * [3/25 Academic Calendar and technology needs at CSI](College/3-25-academic-calendar)
 * [3/25 Mailroom hours](College/3-25-mailroom)
@@ -148,6 +153,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## CUNY
 
+* [3/27 A revision to the BOT Calendar](CUNY/3-27-BOT-calendar.pdf)
 * [3/27 A letter from the USS Chair to the faculty urging compliance with the recalibration](CUNY/3-27-uss-chair-letter-to-faculty.pdf)
 * [3/26 CUNY Continuity website, free things!](https://www.cuny.edu/cuny-continuity/cuny-continuity-for-students/)
 * [3/25 Chancellor: further clarity on recalibration...](CUNY/3-25-further-clarity)
