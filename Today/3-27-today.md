@@ -1,18 +1,18 @@
 A summary of some new news related to CUNY's and CSI's response to the COVID-19 pandemic.
 
-Summarized by the College Council Executive Committe.
-
 To add news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 # News of the day: 3/27
 
-* [link](../College/3-27-president-facilities) The president notified the community about Cuomo's  intent to repurpose the dorms and  the gym
+* [link](/College/3-27-president-facilities) The president notified the community about Cuomo's  intent to repurpose the dorms and  the gym
 
 * The removal of residents will encumber expenses, as will other aspects. CUNY has  asked campuses to  use a special code in CUNYFirst so that City/State/FEMA reimbursals can be requested. The state budget picture is uncertain. In the [NY Post](https://nypost.com/2020/03/26/cuomo-seizing-control-of-ny-state-budget-amid-coronavirus-economic-crunch/) it is mentioned that "Cuomo’s office forecasts the coronavirus may cost the Empire State as much as \$15 billion in revenues during its next budget, dramatically exacerbating the state’s precarious finances." Earlier forecasts were in the  4-8B reduction (of ~88B). How that filters down to CUNY is uncertain, but more clarity should be found around April 1st, as the budget deadline is expected to be met.
 
-* [link](CUNY/3-27-uss-chair-letter-to-faculty.pdf ) The chair of the USS (student senate) sent a letter to CUNY Faculty.
+* [link](/CUNY/3-27-uss-chair-letter-to-faculty.pdf ) The chair of the USS (student senate) sent a letter to CUNY Faculty.
 
-* [link](../CUNY/3-27-BOT-calendar.pdf) The board of trustees calendar was updated  to reflect these additions:
+* [link](PSC/3-26-recalibration) The head of the PSC sent a letter about the recalibration
+
+* [link](/CUNY/3-27-BOT-calendar.pdf) The board of trustees calendar was updated  to reflect these additions:
 
 The following items (Cal. Nos. 7-11) have been added to the Calendar:
 
