@@ -1,0 +1,5 @@
+# Recent news
+
+A summary of some new news related to CUNY's and CSI's response to the COVID-19 pandemic. See https://csi-covid19.github.io/ for the archive.
+
+To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)

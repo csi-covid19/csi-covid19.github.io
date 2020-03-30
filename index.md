@@ -11,7 +11,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## News
 
-* [3/30 News of the day (in progress)](Today/3-30-today)
+* [3/30 News of the day](Today/3-30-today)
 * [3/27 News of the day](Today/3-27-today)
 * [3/17 City College update](News/city-college-update-3-17)
 * [3/16 CSI Closed](News/csi-closed-3-16)
@@ -51,11 +51,14 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## College Council Faculty Senate
 
+* [3/30 Letter to President Fritz from the College Council XC](CCFS/3-30-letter-to-president)
 * [3/14 From the chairs email](CCFS/from-the-chairs-3-14)
 * [3/13 The open  meetings law and implications](CCFS/open-meetings-law)
 
 ## PSC
 
+* [3/30 PSC Chair email about mass virtual protest](PSC/3-30-letter)
+* [3/30 PSC Chapter chair email](PSC/3-30-chapter-chair)
 * [3/27 PSC Chapter chair  email](PSC/3-27-chapter-chair)
 * [3/26 PSC email on recalibration](PSC/3-26-recalibration)
 * [3/23 PSC email re:  essential personnel](PSC/3-23-essential-peeps)
@@ -74,6 +77,8 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 ## College matters
 
 
+* [3/30 CSI Food Pantry email](College/3-30-CSI-food-pantry)
+* [3/30  President Fritz comments  on  use   of  facilities](College/3-30-president-announcement)
 * [3/27 Free online tutoring available](College/3-27-online-tutoring)
 * [3/27 College of Staten Island facilities used to support the fight ](College/3-27-president-facilities)
 * [3/25 Guidance on  travel](College/3-25-guidance-travel)
@@ -133,6 +138,8 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## Technology matters
 
+* [3/30 Email from faculty center on blackboard support](Technology/3-30-blackboard)
+* [3/30 Email with tech training schedule](Technology/3-30-training)
 * [3/24 Some additional blackboard information](Technology/3-24-additional-blackboard)
 * [3/23 Texas Instruments: free calculator software](Technology/3-23-texas-instruments)
 * [3/22 CUNY  Students and Adobe Cloud products](Technology/3-22-CUNY-Adobe)
