@@ -24,6 +24,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## Hot issues
 
+* [3/30 Summer schedules. John Jay makes a decision](CUNY/3-30-jj-summer)
 * [3/30 Budget stories in the Chronicle](CCFS/3-30-CHE-budget.pdf) and [two](CCFS/3-30-CHE-budget-II.pdf)
 * [3/26 Distance learning archive](College/3-26-distance-learning-archive) and [here](http://cuny.is/cdla)
 * [3/24 Loads of laptops... 25,000!](College/3-24-laptops)
@@ -139,6 +140,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## Technology matters
 
+* [3/30 How the ipads/chromebooks were purchased](Technology/3-30-tech-purchase.docx)
 * [3/30 Email from faculty center on blackboard support](Technology/3-30-blackboard)
 * [3/30 Email with tech training schedule](Technology/3-30-training)
 * [3/24 Some additional blackboard information](Technology/3-24-additional-blackboard)
