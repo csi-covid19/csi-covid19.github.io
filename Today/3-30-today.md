@@ -65,3 +65,8 @@ The Advance has an article mentioning:
 [link](/Technology/3-30-blackboard) A Blackboard support update was made
 
 [link](/Technology/3-30-training) A table of training opportunties was shared
+
+
+## Summer instruction
+
+[link](/CUNY/3-30-jj-summer) John Jay decides to move all Summer 2020 instruction online. (This is not set officially by CUNY, as of yet. There was  some  talk last Friday that  it is expected courses might need to begin online, but that they might be able to complete in a traditional manner if that is desired. Medger Evers Faculty Senate are asking for a determination to be made so faculty can adequately prepare for online instruction for the fall semester.)
