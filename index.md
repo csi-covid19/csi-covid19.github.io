@@ -24,6 +24,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## Hot issues
 
+* [3/30 Budget stories in the Chronicle](CCFS/3-30-CHE-budget.pdf) and [two](CCFS/3-30-CHE-budget-II.pdf)
 * [3/26 Distance learning archive](College/3-26-distance-learning-archive) and [here](http://cuny.is/cdla)
 * [3/24 Loads of laptops... 25,000!](College/3-24-laptops)
 * [3/24 How to  test in math](http://nogoodanswer.com)
