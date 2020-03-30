@@ -14,7 +14,7 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 ## New academic guidance
 
-* [link](/CUNY/3-28-guidance-8) CUNY updated its [guidance](https://www.cuny.edu/coronavirus/guidance-on-academic-continuity-to-campuses/) the eight time. This includes updates to several important areas: Grading Policies; Academic Calendar and Events; Shared Governance and Contractual Obligations; Distance Learning Platforms, Tools & Resources; Financial Aid and Other Types of Support.
+* [link](/CUNY/3-28-guidance-8) CUNY updated its [guidance](https://www.cuny.edu/coronavirus/guidance-on-academic-continuity-to-campuses/) the eighth time. This includes updates to several important areas: Grading Policies; Academic Calendar and Events; Shared Governance and Contractual Obligations; Distance Learning Platforms, Tools & Resources; Financial Aid and Other Types of Support.
 
 Of note:
 
@@ -26,13 +26,13 @@ A description of the change to the calenda brought about by the pause and the sh
 
 Adjustments to tenure time, notification of appointment
 
-P&B Voting (also voting for Chairs to take place in May) had this suggestion: Colleges that were still trying to figure out how to proceed were advised to reach out directly to their colleagues,
+P&B Voting (also voting for Chairs to take place in May) had this suggestion: Colleges that were still trying to figure out how to proceed were advised to reach out directly to their colleagues. (We have been informed that the college is close to announcing a solution.)
 
 Notes on  the distribution of Chromebooks
 
 Financial  aid changes for veterans
 
-A summary of changes brought about  by the federal response.
+A summary of changes brought about  by the federal response. There is about 1 billion in relief for higher education New York State.
 
 
 
