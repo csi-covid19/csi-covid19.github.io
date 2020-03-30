@@ -11,6 +11,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## News
 
+* [3/30 News of the day (in progress)](Today/3-30-today)
 * [3/27 News of the day](Today/3-27-today)
 * [3/17 City College update](News/city-college-update-3-17)
 * [3/16 CSI Closed](News/csi-closed-3-16)
@@ -117,7 +118,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 ### A series of guidance letters from  EVC Cruz forwarded by the provost
 
 
-
+* [3/28 Guidance from CUNY #8](CUNY/3-28-guidance-8)
 * [3/21 Guidance from CUNY #7](CUNY/3-22-guidance-7)
 * [3/20 Guidance from CUNY #6 - CUNY COVID-19 Guidance on Academic Continuity](CUNY/3-21-guidance-6)
 * [3/19 University Guidance](https://www.cuny.edu/coronavirus/#employees)
@@ -154,6 +155,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## CUNY
 
+* [3/28 UFS resolution on shared governance](UFS/proposed-ufs-statement-shared-governance.docx)
 * [3/27 A revision to the BOT Calendar](CUNY/3-27-BOT-calendar.pdf)
 * [3/27 A letter from the USS Chair to the faculty urging compliance with the recalibration](CUNY/3-27-uss-chair-letter-to-faculty.pdf)
 * [3/26 CUNY Continuity website, free things!](https://www.cuny.edu/cuny-continuity/cuny-continuity-for-students/)
