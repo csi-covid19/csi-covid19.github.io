@@ -11,6 +11,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## News
 
+* [4/1 News of the day. In progress...](Today/4-1-today)
 * [3/30 News of the day](Today/3-30-today)
 * [3/27 News of the day](Today/3-27-today)
 * [3/17 City College update](News/city-college-update-3-17)
