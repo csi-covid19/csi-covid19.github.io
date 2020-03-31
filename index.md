@@ -61,7 +61,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## PSC
 
-* [3/31 PSC Chapter Chair forwarded email asking what CSI's plan is...](PSC/3-31-chapter-chair-whats-our-plan_
+* [3/31 PSC Chapter Chair forwarded email asking what CSI's plan is...](PSC/3-31-chapter-chair-whats-our-plan)
 * [3/31 PSC Chapter chair email](PSC/3-31-chapter-chair)
 * [3/30 PSC Workshop for workers](PSC/3-30-workshop)
 * [3/30 PSC Chair email about mass virtual protest](PSC/3-30-letter)
