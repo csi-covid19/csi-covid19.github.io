@@ -55,7 +55,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## College Council Faculty Senate
 
-* [3/30 Letter to President Fritz from the College Council XC](CCFS/3-30-letter-to-president)
+* [3/30 Letter to President Fritz from the College Council XC](CCFS/3-30-letter-to-president.pdf)
 * [3/14 From the chairs email](CCFS/from-the-chairs-3-14)
 * [3/13 The open  meetings law and implications](CCFS/open-meetings-law)
 
