@@ -59,6 +59,8 @@ The Advance has an article mentioning:
 
 [link](/PSC/3-30-chapter-chair) PSC Chapter Chair George Sanchez sent out an  email "to reach out and ask if you can please email any questions or concerns you have moving forward with anything having to with your positions.  Workplace safety, health considerations, tenure and promotion,  online or distance learning and workload?"
 
+[link](/PSC/3-30-workshop) PSC Health and Safety watchdogs announce "COVID-19: Worker Safety & Health" online workshops
+
 ## Technology
 
 

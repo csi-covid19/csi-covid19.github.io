@@ -24,6 +24,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## Hot issues
 
+* [3/30 CC and FS XS possible agenda items for proposed joint meeting with the president and provost](CCFS/3-30-possible-agenda-items.pdf)
 * [3/30 Summer schedules. John Jay makes a decision](CUNY/3-30-jj-summer)
 * [3/30 Budget stories in the Chronicle](CCFS/3-30-CHE-budget.pdf) and [two](CCFS/3-30-CHE-budget-II.pdf)
 * [3/26 Distance learning archive](College/3-26-distance-learning-archive) and [here](http://cuny.is/cdla)
@@ -59,6 +60,9 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## PSC
 
+* [3/31 PSC Chapter Chair forwarded email asking what CSI's plan is...](PSC/3-31-chapter-chair-whats-our-plan_
+* [3/31 PSC Chapter chair email](PSC/3-31-chapter-chair)
+* [3/30 PSC Workshop for workers](PSC/3-30-workshop)
 * [3/30 PSC Chair email about mass virtual protest](PSC/3-30-letter)
 * [3/30 PSC Chapter chair email](PSC/3-30-chapter-chair)
 * [3/27 PSC Chapter chair  email](PSC/3-27-chapter-chair)
@@ -78,9 +82,9 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## College matters
 
-
+* [3/31 Student Affairs email regarding student fees...](College/3-31-student-affairs)
 * [3/30 CSI Food Pantry email](College/3-30-CSI-food-pantry)
-* [3/30  President Fritz comments  on  use   of  facilities](College/3-30-president-announcement)
+* [3/30 President Fritz comments  on  use   of  facilities](College/3-30-president-announcement)
 * [3/27 Free online tutoring available](College/3-27-online-tutoring)
 * [3/27 College of Staten Island facilities used to support the fight ](College/3-27-president-facilities)
 * [3/25 Guidance on  travel](College/3-25-guidance-travel)
