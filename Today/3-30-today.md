@@ -10,7 +10,7 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 ## Suggestions for efficiencies
 
-* [link](/CCFS/3-30-letter-to-president) The College Council Executive Committee sent  President Fritz a letter with a suggestion in anticipation of budget  issues  next year.
+* [link](/CCFS/3-30-letter-to-president.pdf) The College Council Executive Committee sent  President Fritz a letter with a suggestion in anticipation of budget  issues  next year.
 
 ## New academic guidance
 
@@ -55,7 +55,7 @@ The Advance has an article mentioning:
 
 ## Message from the PSC chapter chair
 
-[link](/PSC/3-30-letter.pdf) PSC Chair Bowen sent out an email about a mass virtual protest. She says "The recent federal stimulus bill includes \$14 billion for higher education, with \$1 billion going to New York State. The additional federal funding should stabilize education budgets; there is no justification for cuts to CUNY!"
+[link](/PSC/3-30-letter) PSC Chair Bowen sent out an email about a mass virtual protest. She says "The recent federal stimulus bill includes \$14 billion for higher education, with \$1 billion going to New York State. The additional federal funding should stabilize education budgets; there is no justification for cuts to CUNY!"
 
 [link](/PSC/3-30-chapter-chair) PSC Chapter Chair George Sanchez sent out an  email "to reach out and ask if you can please email any questions or concerns you have moving forward with anything having to with your positions.  Workplace safety, health considerations, tenure and promotion,  online or distance learning and workload?"
 
