@@ -6,6 +6,7 @@ Campus access is strictly regulated
 
 ## News
 
+* [4/3 News of the day (in progress...)](Today/4-3-today)
 * [4/1 News of the day](Today/4-1-today)
 * [3/30 News of the day](Today/3-30-today)
 * [3/27 News of the day](Today/3-27-today)
