@@ -5,6 +5,15 @@ A summary of some new news related to CUNY's and CSI's response to the COVID-19 
 To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 
+* [link](/CUNY/4-3-Chancellor-email) 
+
+    Commencement ceremonies are postponed CUNY wide. 
+
+
+    CUNY’s Summer 2020 course offerings will be exclusively conducted via distance education format.
+
+
+
 ## CC/FS news
 
 * [link](/CCFS/4-2-president-responds) The president responds to the CC XC letter re. the cabinet

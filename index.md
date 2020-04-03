@@ -4,9 +4,14 @@
 
 Campus access is strictly regulated
 
+Commencement ceremonies across the University-system will be postponed
+
+All **summer** courses are to be offered in a distance learning format. See Academic Guidance #9 for confirmation.
+
 ## News
 
-* [4/3 News of the day (in progress...)](Today/4-3-today)
+
+* [4/3 News of the day](Today/4-3-today)
 * [4/1 News of the day](Today/4-1-today)
 * [3/30 News of the day](Today/3-30-today)
 * [3/27 News of the day](Today/3-27-today)
@@ -57,6 +62,7 @@ Campus access is strictly regulated
 
 ## PSC
 
+* [4/3 PSC email on unilateral actions taken by CUNY management](PSC/4-3-PSC-chapter-email)
 * [3/31 PSC Chapter Chair forwarded  op-ed by  Stephen Brier](PSC/3-31-PSC-chair-brier-email)
 * [3/31 PSC Chapter Chair forwarded email asking what CSI's plan is...](PSC/3-31-chapter-chair-whats-our-plan)
 * [3/31 PSC Chapter chair email](PSC/3-31-chapter-chair)
@@ -178,6 +184,7 @@ Campus access is strictly regulated
 
 ## CUNY
 
+* [4/3 Chancellor's email re commencement, etc.](CUNY/4-3-Chancellor-email)
 * [4/3 Disposition  of 3/30 Board votes](https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/trustees/meetings-of-the-board/DISPO033020.pdf)
 * [3/28 UFS resolution on shared governance](UFS/proposed-ufs-statement-shared-governance.docx)
 * [3/27 A revision to the BOT Calendar](CUNY/3-27-BOT-calendar.pdf)

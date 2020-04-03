@@ -1,0 +1,38 @@
+OFFICE OF THE CHANCELLOR
+
+Dear CUNY community, 
+
+Just as each of us has been forced to make changes in our personal and work lives to minimize the spread of the coronavirus, the University has had to make difficult but unavoidable decisions to ensure the health and safety of everyone in our community. None has been as heart-wrenching to make as the matter of graduation. 
+
+As a lifelong educator, commencement season has always been my favorite time of year, the culmination of a lifetime of hard work and sacrifice. I began my tenure as chancellor last May, just in time to attend six CUNY graduations; as always, I was deeply moved by the excitement and emotion that were on display. So it is with a heavy heart that I announce that commencement ceremonies across the University-system will be postponed. 
+
+With all public gatherings currently prohibited and no way to know how long this will continue to be the case, colleges simply cannot begin choosing dates, even if for later than usual, securing venues and taking all the logistical steps that go into planning a successful commencement. 
+
+To be clear, this will have no impact on diplomas. At the completion of the spring semester, all degrees will be conferred as scheduled. It will also not impact the official summer start date for our full-time faculty. 
+
+We look forward to a future date when we’ll be able to celebrate in person and believe me — that will be an occasion like no other. If any group of graduates deserves a chance to mark its achievements, it is the resilient Class of 2020.  
+
+I sincerely regret the impact of these sad circumstances on our students, who have worked so hard, and overcome many obstacles to get to this point. I know this will also come as a disappointment to faculty and family members. 
+
+I have spoken to all CUNY presidents and deans, and they are exploring other ways to mark this rite of passage on their campuses. While we know that nothing can replace the pure joy of a commencement ceremony, some schools are considering alternate celebrations that fit their campus community. 
+
+I also want to share that after careful consideration and consultation, CUNY’s Summer 2020 course offerings will be exclusively conducted via distance education format. The decision is consistent with New York State Education Department (NYSED) guidance from April 2, 2020, which waives the requirement that specific courses and programs be registered for delivery via distance education. We appreciate the feedback we received from the University Faculty Senate and other academic leaders on this. For staff, current guidance regarding remote work will remain in effect consistent with the New York State on PAUSE executive order. Direction regarding the format of course offerings for Fall 2020 will be provided in the future depending on the COVID-19 emergency time frame, and once consultation with academic leaders and faculty has occurred and direction from NYSED and other accrediting bodies has been received. 
+
+CUNY continues to respond to the coronavirus by implementing measures to help our students navigate these extraordinary circumstances. Here are some steps we have taken in recent days: 
+
+With the support of Governor Cuomo, we have purchased 30,000 new laptops and tablets for students who need one to fully participate in distance learning. If you are a student in need of a device, please request one through your school by referring to the links provided here. 
+ 
+
+Because of the disruption caused by the transition to distance learning education, students will have the option to convert any or all of the letter grades they earn in their spring 2020 classes to Credit/No Credit grading. Read more here. 
+ 
+
+Dormitory Fees will be credited to continuing students --and refunded to students set to graduate-- on a prorated basis from the student’s move-out date. Read more here.
+ 
+
+The University will waive 25% of the Spring 2020 Student Activity Fee for students enrolled in CUNY colleges on a 15-week calendar and 50% of the fee for students enrolled on a 12-week or six-week calendar. Read more here.
+
+Please know how much I appreciate your patience and adaptability, and all that you’re doing to keep moving forward in spite of this difficult situation. Please remain vigilant, take good care of yourselves and your families, and we will get through this public health crisis together.
+
+Sincerely,
+
+Felo
