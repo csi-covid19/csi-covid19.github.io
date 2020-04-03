@@ -1,0 +1,5 @@
+# Budget related issues
+
+* [3/30 Cornell announces hiring freeze, travel ban, ban on discretionary spending, re-evaluation of capital projects](https://www.cornell.edu/coronavirus/statements-news/20200330-financial-impact.cfm)
+
+* [3/30 Budget stories in the Chronicle](CCFS/3-30-CHE-budget.pdf) and [two](CCFS/3-30-CHE-budget-II.pdf)

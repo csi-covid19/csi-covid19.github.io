@@ -8,7 +8,7 @@ Please see below announcements of funding opportunities and information likely t
  
 The RFCUNY Office of Award Pre-Proposal Support (APPS) has developed the attached two advisories for the biomedical, health science, and social science and arts and culture CUNY faculty on COVID-19 funding and relief opportunities.
  
-Reminder:  CUNY Research in the Classroom Grant ($7,500) Deadline for application is April 10, 2020.  http://www.cuny.edu/research/faculty-resources/internal-funding/research-in-the-classroom/
+Reminder:  CUNY Research in the Classroom Grant (\$7,500) Deadline for application is April 10, 2020.  http://www.cuny.edu/research/faculty-resources/internal-funding/research-in-the-classroom/
  
 Free webinar on Research Against COVID-19 through the ASRC on Tuesday, April 7 https://asrc.gc.cuny.edu/event/call-to-action-research-against-covid-19-webinar/
  

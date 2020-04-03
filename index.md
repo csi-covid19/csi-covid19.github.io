@@ -2,16 +2,11 @@
 
 !!! Note
 
-Recalibration period 3/27 - 4-1
-
-CUNY announces a recalibration period beginning this Friday, March 27,
-through Wednesday April 1. Distance learning will resume on Thursday, April 2.
-
-
+Campus access is strictly regulated
 
 ## News
 
-* [4/1 News of the day. In progress...](Today/4-1-today)
+* [4/1 News of the day](Today/4-1-today)
 * [3/30 News of the day](Today/3-30-today)
 * [3/27 News of the day](Today/3-27-today)
 * [3/17 City College update](News/city-college-update-3-17)
@@ -25,17 +20,15 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## Hot issues
 
+* [Field hospital at CSI](Issues/hospital)
+* [Budget](Issues/budget)
+* [Distance learning](Issues/distance-learning)
+* [Summer and fall semesters](Issues/summer-fall)
+* [Library](Issues/library)
+* [Residence halls](Issues/dorms)
+* [Food pantries](Issues/food-pantries)
 * [3/30 CC and FS XS possible agenda items for proposed joint meeting with the president and provost](CCFS/3-30-possible-agenda-items.pdf) (On 3/31 the  president  refused  to meet with both   groups,  thinking it not "appropriate" to discuss  such issues  with  both groups at  once.)
-* [3/30 Cornell announces hiring freeze, travel ban, ban on discretionary spending, re-evaluation of capital projects](https://www.cornell.edu/coronavirus/statements-news/20200330-financial-impact.cfm)
-* [3/30 Summer schedules. John Jay makes a decision](CUNY/3-30-jj-summer)
-* [3/30 Budget stories in the Chronicle](CCFS/3-30-CHE-budget.pdf) and [two](CCFS/3-30-CHE-budget-II.pdf)
-* [3/26 Distance learning archive](College/3-26-distance-learning-archive) and [here](http://cuny.is/cdla)
-* [3/24 Loads of laptops... 25,000!](College/3-24-laptops)
-* [3/24 How to  test in math](http://nogoodanswer.com)
 * [3/19 Extending the tenure clock](https://oaa.osu.edu/tenure-track-faculty-extension-tenure-clock-due-covid-19)
-* [3/18 CSI Chief librarian email](Issues/update-hrs-3-18)
-* [3/18 CSI librarian's closure request](Issues/csi-library-request-3-18)
-* [Library open or close](Issues/library)
 * Academic Freedom [Distance Education and Academic Freedom](Issues/UFS-Academic-freedom-online-3-17)
 
 ## FAQ
@@ -56,6 +49,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## College Council Faculty Senate
 
+* [4/2 The president responds to the CC XC letter re. the cabinet](/CCFS/4-2-president-responds) 
 * [3/30 Letter to President Fritz from the College Council XC](CCFS/3-30-letter-to-president.pdf)
 * [3/14 From the chairs email](CCFS/from-the-chairs-3-14)
 * [3/13 The open  meetings law and implications](CCFS/open-meetings-law)
@@ -85,6 +79,11 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## College matters
 
+* [4/3 President update](College/4-3-president-email)
+* [4/2 Funding  for  students](College/4-2-funding-students)
+* [4/2 IPC cancelled](College/4-2-ipc-cancelled)
+* [4/2 Writing tutoring](College/4-2-writing)
+* [4/2 Curriculum   calendar adjustments  were made](College/4-2-curriculum-calendar) 
 * [4/1 Funding opportunities for COVID-19 research](College/4-1-funding)
 * [4/1 CSI Bookstore has free access](http://bookshelf.vitalsource.com)
 * [4/1  CSI Association Meeting](College/4-1-CSI-association)
@@ -178,6 +177,7 @@ through Wednesday April 1. Distance learning will resume on Thursday, April 2.
 
 ## CUNY
 
+* [4/3 Disposition  of 3/30 Board votes](https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/trustees/meetings-of-the-board/DISPO033020.pdf)
 * [3/28 UFS resolution on shared governance](UFS/proposed-ufs-statement-shared-governance.docx)
 * [3/27 A revision to the BOT Calendar](CUNY/3-27-BOT-calendar.pdf)
 * [3/27 A letter from the USS Chair to the faculty urging compliance with the recalibration](CUNY/3-27-uss-chair-letter-to-faculty.pdf)
