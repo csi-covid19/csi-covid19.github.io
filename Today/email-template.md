@@ -15,8 +15,6 @@ New decisions of impact are:
 * All **summer** courses are to be offered in a distance learning format.
 
 
-
-
 This is taken from a running collection of news being compiled by the College Council and Faculty Senate Executive Committees at:
 
 https://csi-covid19.github.io/

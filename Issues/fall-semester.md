@@ -4,8 +4,3 @@ Fall 2020 — Guidance Forthcoming: Guidance regarding Fall 2020 course offering
  
 UPDATE #9: CUNY COVID-19 Guidance on Academic Continuity | April 4, 2020
 education approval requirements, including the submission of program registration applications to NYSED. The need to extend this flexibility beyond the Summer 2020 term(s) will be determined depending upon the COVID- 19 emergency time frame.”
-
-* [4/3 Chancellor's email re summer being  online only](CUNY/4-3-Chancellor-email)
-
-
-* [3/30 Summer schedules. John Jay makes a decision](CUNY/3-30-jj-summer)

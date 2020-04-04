@@ -8,9 +8,11 @@ Commencement ceremonies across the University-system will be postponed
 
 All **summer** courses are to be offered in a distance learning format. See Academic Guidance #9 for confirmation.
 
+1030 bed hospital  is planned
+
 ## News
 
-
+* [4/6 News of the day (in progress...)](Today/4-6-today)
 * [4/3 News of the day](Today/4-3-today)
 * [4/1 News of the day](Today/4-1-today)
 * [3/30 News of the day](Today/3-30-today)
@@ -142,7 +144,7 @@ All **summer** courses are to be offered in a distance learning format. See Acad
 
 ### A series of guidance letters from  EVC Cruz forwarded by the provost
 
-
+* [4/4 Guidance from CUNY #9](CUNY/4-4-guidance-9.pdf)
 * [3/28 Guidance from CUNY #8](CUNY/3-28-guidance-8)
 * [3/21 Guidance from CUNY #7](CUNY/3-22-guidance-7)
 * [3/20 Guidance from CUNY #6 - CUNY COVID-19 Guidance on Academic Continuity](CUNY/3-21-guidance-6)
@@ -158,6 +160,7 @@ All **summer** courses are to be offered in a distance learning format. See Acad
 
 ## Technology matters
 
+* [4/4 CSI Technology  Training opportunities](Technology/4-4-offerings)
 * [4/1 AASCU tech. training email](Technology/4-1-aascu)
 * [3/30 How the ipads/chromebooks were purchased](Technology/3-30-tech-purchase.docx)
 * [3/30 Email from faculty center on blackboard support](Technology/3-30-blackboard)

@@ -1,5 +1,17 @@
 # Field hospital at CSI news
 
+* [4/4 Advance  article](https://www.silive.com/coronavirus/2020/04/csi-field-hospital-could-open-its-doors-in-the-next-three-weeks-but-details-on-number-of-beds-unclear.html)
+
+CSI field hospital grows to 1,030 beds, could open its doors in the next three weeks.
+
+But the Corps said Friday, it completed a preliminary design for a “150 bed alternate care facility” at CSI, which it hoped to award a contract to “soon.” The Corps declined to provide any additional information about the site.
+
+The Advance had sought answers about the CSI field hospital for more than a week since Rep. Max Rose announced that he, Gov. Andrew Cuomo and the federal government were working together to build out the 1,000 field hospital because the Island’s two private hospitals were “rapidly approaching capacity.”
+
+However, neither Rose, Cuomo nor the federal government was able to give any answers about the site until the Advance learned about the new details Friday.
+
+Mayor Bill de Blasio said Friday he predicts 5,000 coronavirus patients in New York City will need to be in intensive care unit beds by early next week, as the city waits for suppli
+
 * [4/2 Advance article](https://www.silive.com/coronavirus/2020/04/island-left-out-of-citys-latest-public-hospitals-coronavirus-plan-adding-more-staff-free-testing-for-healthcare-workers.html)
 
 Another field hospital at the College of Staten Island, will add 1,000 beds
