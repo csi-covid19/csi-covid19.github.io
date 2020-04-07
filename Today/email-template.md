@@ -5,14 +5,7 @@ Could you arrange for this to be sent out to the College Council mailing list? M
 
 A summary of recent news over the past few days from various sources is now online at
 
-https://csi-covid19.github.io/Today/4-3-today/
-
-
-New decisions of impact are:
-
-* Commencement ceremonies across the University-system will be postponed
-
-* All **summer** courses are to be offered in a distance learning format.
+https://csi-covid19.github.io/Today/4-6-today/
 
 
 This is taken from a running collection of news being compiled by the College Council and Faculty Senate Executive Committees at:

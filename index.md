@@ -88,6 +88,9 @@ All **summer** courses are to be offered in a distance learning format. See Acad
 
 ## College matters
 
+* [4/6 Food pantry email](College/4-6-food-pantry)
+* [4/5 President email on campus access](College/4-5-pres-email)
+* [4/5 Provost email on guidance #9](College/4-5-provost-email)
 * [4/3 President update](College/4-3-president-email)
 * [4/2 Funding  for  students](College/4-2-funding-students)
 * [4/2 IPC cancelled](College/4-2-ipc-cancelled)
@@ -160,6 +163,7 @@ All **summer** courses are to be offered in a distance learning format. See Acad
 
 ## Technology matters
 
+* [4/6 CSI Technology training email](Technology/4-6-training-schedule)
 * [4/4 CSI Technology  Training opportunities](Technology/4-4-offerings)
 * [4/1 AASCU tech. training email](Technology/4-1-aascu)
 * [3/30 How the ipads/chromebooks were purchased](Technology/3-30-tech-purchase.docx)
