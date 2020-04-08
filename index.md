@@ -2,16 +2,17 @@
 
 !!! Note
 
+Spring  break:  4/8 - 4/10
+
 Campus access is strictly regulated
 
-Commencement ceremonies across the University-system will be postponed
+[link](https://www.nydailynews.com/coronavirus/ny-coronavirus-cuny-relief-fund-20200408-bgbdv3bxzjdrfjbcwyvfincqwu-story.html) The NY Daily News reports on emergency funds available from  CUNY for students.
 
-All **summer** courses are to be offered in a distance learning format. See Academic Guidance #9 for confirmation.
 
-1030 bed hospital  is planned
 
 ## News
 
+* [4/8 News of the day](Today/4-8-today)
 * [4/6 News of the day](Today/4-6-today)
 * [4/3 News of the day](Today/4-3-today)
 * [4/1 News of the day](Today/4-1-today)
@@ -64,6 +65,7 @@ All **summer** courses are to be offered in a distance learning format. See Acad
 
 ## PSC
 
+* [4/8 Email from the PSC Chapter chair](PSC/4-8-email)
 * [4/3 PSC email on unilateral actions taken by CUNY management](PSC/4-3-PSC-chapter-email)
 * [3/31 PSC Chapter Chair forwarded  op-ed by  Stephen Brier](PSC/3-31-PSC-chair-brier-email)
 * [3/31 PSC Chapter Chair forwarded email asking what CSI's plan is...](PSC/3-31-chapter-chair-whats-our-plan)
@@ -163,6 +165,9 @@ All **summer** courses are to be offered in a distance learning format. See Acad
 
 ## Technology matters
 
+* [4/8 Phishing attempts](Technology/4-8-phishing)
+* [4/8 Keep Collaborate secure](Technology/4-8-collaborate)
+* [4/8 Collaborate bombing reported](Technology/4-8-collaborate-bombing)
 * [4/6 CSI Technology training email](Technology/4-6-training-schedule)
 * [4/4 CSI Technology  Training opportunities](Technology/4-4-offerings)
 * [4/1 AASCU tech. training email](Technology/4-1-aascu)
