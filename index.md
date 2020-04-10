@@ -2,16 +2,30 @@
 
 !!! Note
 
-Spring  break:  4/8 - 4/10
 
 Campus access is strictly regulated
 
-[link](https://www.nydailynews.com/coronavirus/ny-coronavirus-cuny-relief-fund-20200408-bgbdv3bxzjdrfjbcwyvfincqwu-story.html) The NY Daily News reports on emergency funds available from  CUNY for students.
+* [link](/PSC/4-9-federal-funds) The College is in line  to get 12.5M in federal funding. [How much by institution](https://www.insidehighered.com/news/2020/04/10/listing-funds-each-college-can-expect-receive-under-federal-stimulus?utm_source=Inside+Higher+Ed&utm_campaign=9b9cc4785c-DNU_2019_COPY_02&utm_medium=email&utm_term=0_1fcbc04421-9b9cc4785c-197464749&mc_cid=9b9cc4785c&mc_eid=50634a26f0)  [Inside Higher Ed article](https://www.insidehighered.com/news/2020/04/10/feds-begin-distributing-emergency-grants-students-affected-campus-closures?utm_source=Inside+Higher+Ed&utm_campaign=9b9cc4785c-DNU_2019_COPY_02&utm_medium=email&utm_term=0_1fcbc04421-9b9cc4785c-197464749&mc_cid=9b9cc4785c&mc_eid=50634a26f0).
 
+The [Chronicle](https://www.chronicle.com/article/How-Much-Coronavirus-Stimulus/248471?utm_source=at&utm_medium=en&utm_source=Iterable&utm_medium=email&utm_campaign=campaign_1135830&cid=at&source=ams&sourceId=4294838) says:
+
+Half of each institution’s total grant amount is reserved for emergency student aid, represented in the right column. That portion of the money, the department said in a Thursday news release, will be distributed “immediately.”  
+
+ 
+
+
+* [link](https://www.nydailynews.com/coronavirus/ny-coronavirus-cuny-relief-fund-20200408-bgbdv3bxzjdrfjbcwyvfincqwu-story.html) The NY Daily News reports on emergency funds available from  CUNY for students.
+
+
+ [link](https://www.politico.com/states/new-york/newsletters/politico-new-york-education/2020/04/09/calls-to-restore-education-funding-cuts-333941) Hospital plans *may* be scaled back
+
+
+* [link](https://www.empirecenter.org/publications/cuomo-freezing-state-pay/) It is reported (but not  definitive)  that: Governor Cuomo is invoking his “emergency” powers to unilaterally defer a 2 percent pay hike otherwise scheduled for most unionized state government workers during the new fiscal year. 
 
 
 ## News
 
+* [4/10 News of the day](Today/4-10-today)
 * [4/8 News of the day](Today/4-8-today)
 * [4/6 News of the day](Today/4-6-today)
 * [4/3 News of the day](Today/4-3-today)
@@ -65,6 +79,7 @@ Campus access is strictly regulated
 
 ## PSC
 
+* [4/9  Email from  PSC Chair  on stimulus funds](PSC/4-9-federal-funds)
 * [4/8 Email from the PSC Chapter chair](PSC/4-8-email)
 * [4/3 PSC email on unilateral actions taken by CUNY management](PSC/4-3-PSC-chapter-email)
 * [3/31 PSC Chapter Chair forwarded  op-ed by  Stephen Brier](PSC/3-31-PSC-chair-brier-email)
@@ -90,6 +105,9 @@ Campus access is strictly regulated
 
 ## College matters
 
+* [4/10 CSI Faculty wins a Guggenheim](College/4-8-guggenheim)
+* [4/9 Stimulus funding is announced](https://www.insidehighered.com/news/2020/04/10/listing-funds-each-college-can-expect-receive-under-federal-stimulus?utm_source=Inside+Higher+Ed&utm_campaign=9b9cc4785c-DNU_2019_COPY_02&utm_medium=email&utm_term=0_1fcbc04421-9b9cc4785c-197464749&mc_cid=9b9cc4785c&mc_eid=50634a26f0) 
+* [4/9 CSI seeks help of Staten Islanders to document coronavirus crisis](https://www.silive.com/news/2020/04/csi-seeks-help-of-staten-islanders-to-document-coronavirus-crisis.html)
 * [4/6 Food pantry email](College/4-6-food-pantry)
 * [4/5 President email on campus access](College/4-5-pres-email)
 * [4/5 Provost email on guidance #9](College/4-5-provost-email)
@@ -196,6 +214,7 @@ Campus access is strictly regulated
 
 ## CUNY
 
+* [4/10 City College President Email](CUNY/4-10-City-college-president)
 * [4/3 Chancellor's email re commencement, etc.](CUNY/4-3-Chancellor-email)
 * [4/3 Disposition  of 3/30 Board votes](https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/trustees/meetings-of-the-board/DISPO033020.pdf)
 * [3/28 UFS resolution on shared governance](UFS/proposed-ufs-statement-shared-governance.docx)

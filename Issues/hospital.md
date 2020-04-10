@@ -1,5 +1,12 @@
 # Field hospital at CSI news
 
+* [4/10 Politico article](https://www.politico.com/states/new-york/newsletters/politico-new-york-education/2020/04/09/calls-to-restore-education-funding-cuts-333941) Politico (via silive.com):
+
+PLANNED COLLEGE OF STATEN ISLAND HOSPITAL TO DROP SIZE — Staten Island Advance’s Sydney Kashiwagi: “A field hospital planned at the College of Staten Island set to hold at least 1,000 beds may be dropping down in size to 150 beds as the state has halted construction on the site for at least 48 hours, the Advance has learned. … The source with knowledge of the Army Corps of Engineers’ plan, told the Advance construction of the CSI site is being halted because the state thinks the additional beds on the Island might not be needed anymore based on its latest hospitalization projections.”
+
+* [4/8 Advance article](https://www.silive.com/coronavirus/2020/04/planned-csi-field-hospital-could-be-dropping-in-size-from-1000-to-150-beds.html) Hospital size unclear
+
+
 * [4/7 Advance article](https://www.silive.com/coronavirus/2020/04/south-beach-psychiatric-center-262-bed-field-hospital-to-open-tuesday-as-borough-waits-for-details-on-opening-date-for-1030-bed-csi-site.html)
 
 But it is still unclear when the 1,030-bed College of Staten Island field hospital will open its doors.
