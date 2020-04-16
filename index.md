@@ -7,9 +7,13 @@ Campus access is strictly regulated
 
 There will be a 4/16 zoom town hall [link](/College/4-13-town-hall)
 
+The hospital at CSI is on hold [link](College/4-14-no-hospital) [link](https://www.silive.com/coronavirus/2020/04/state-not-proceeding-with-csi-field-hospital-says-school-president.html)
+
+Mid-semester reports are due [link](College/4-15-mid)
 
 ## News
 
+* [4/15 News of the day](Today/4-15-today)
 * [4/13 News of the day](Today/4-13-today)
 * [4/10 News of the day](Today/4-10-today)
 * [4/8 News of the day](Today/4-8-today)
@@ -58,6 +62,7 @@ There will be a 4/16 zoom town hall [link](/College/4-13-town-hall)
 
 ## College Council Faculty Senate
 
+* [4/15 Solicitation for UFS representation](CCFS/4-15-UFS)
 * [4/2 The president responds to the CC XC letter re. the cabinet](/CCFS/4-2-president-responds) 
 * [3/30 Letter to President Fritz from the College Council XC](CCFS/3-30-letter-to-president.pdf)
 * [3/14 From the chairs email](CCFS/from-the-chairs-3-14)
@@ -65,7 +70,8 @@ There will be a 4/16 zoom town hall [link](/College/4-13-town-hall)
 
 ## PSC
 
-* [4/11 Email frrom PSC Chair re. helping with homework for children of nurses](PSC/4-11-PSC-nurses)
+* [4/15 Email from PSC Chair on State Budget](PSC/4-15-budget)
+* [4/11 Email from PSC Chair re. helping with homework for children of nurses](PSC/4-11-PSC-nurses)
 * [4/9  Email from  PSC Chair  on stimulus funds](PSC/4-9-federal-funds)
 * [4/8 Email from the PSC Chapter chair](PSC/4-8-email)
 * [4/3 PSC email on unilateral actions taken by CUNY management](PSC/4-3-PSC-chapter-email)
@@ -92,6 +98,11 @@ There will be a 4/16 zoom town hall [link](/College/4-13-town-hall)
 
 ## College matters
 
+* [4/15 mid-semester reports are due](College/4-15-mid)
+* [4/15 S&T report](College/SandT-report.pdf) 
+* [4/15  email from Disabilities office](College/4-15-disabilities)
+* [4/14 update   on non essential personnel](College/non-essential-update.pdf)
+* [4/14 Hospital on  hold](College/4-14-no-hospital)
 * [4/13 Town Hall email on the 16th](College/4-13-town-hall)
 * [4/13  Food pantry news](College/4-13-food-pantry)
 * [4/13 Email  about virtual student life](College/4-13-virtual-student-life)
@@ -177,6 +188,7 @@ There will be a 4/16 zoom town hall [link](/College/4-13-town-hall)
 
 ## Technology matters
 
+* [4/14 To async or not to async...](Technology/4-14-blackboard)
 * [4/12 Blackboard workshops](Technology/4-12-workshops)
 * [4/8 Phishing attempts](Technology/4-8-phishing)
 * [4/8 Keep Collaborate secure](Technology/4-8-collaborate)
@@ -236,3 +248,9 @@ There will be a 4/16 zoom town hall [link](/College/4-13-town-hall)
 * 3/8/2020: Columbia [announcement](https://preparedness.columbia.edu/news/update-covid-19-and-class-activity)
 * 3/8/2020: Yeshiva [announcement](https://www.yu.edu/health-alert)
 * 3/8/2020: Barnard [announcement](https://alert.barnard.edu/news/important-update-covid-19-and-class-cancellations-march-8-2020-staff)
+
+## How uncdretainty in the budget is being handled elsewhere
+
+* [4/13 MIT  Community email](News/4-15-mit)
+* [3/30 Cornell budget  announcement](https://www.cornell.edu/coronavirus/statements-news/20200330-financial-impact.cfm)
+
