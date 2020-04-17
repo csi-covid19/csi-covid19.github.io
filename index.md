@@ -5,14 +5,15 @@
 
 Campus access is strictly regulated
 
-There will be a 4/16 zoom town hall [link](/College/4-13-town-hall)
+An email with a link to a zoom meeting for next Thursdays College Council/Faculty Senate meeting was sent out.
 
-The hospital at CSI is on hold [link](College/4-14-no-hospital) [link](https://www.silive.com/coronavirus/2020/04/state-not-proceeding-with-csi-field-hospital-says-school-president.html)
+All persons entering campus must wear a facial protective barrier. [link](College/4-16-face-cover)
 
 Mid-semester reports are due [link](College/4-15-mid)
 
 ## News
 
+* [4/17 News of the day](Today/4-17-today)
 * [4/15 News of the day](Today/4-15-today)
 * [4/13 News of the day](Today/4-13-today)
 * [4/10 News of the day](Today/4-10-today)
@@ -62,6 +63,7 @@ Mid-semester reports are due [link](College/4-15-mid)
 
 ## College Council Faculty Senate
 
+* [4/16 UFS survey on online transition](CCFS/4-16-UFS-survey)
 * [4/15 Solicitation for UFS representation](CCFS/4-15-UFS)
 * [4/2 The president responds to the CC XC letter re. the cabinet](/CCFS/4-2-president-responds) 
 * [3/30 Letter to President Fritz from the College Council XC](CCFS/3-30-letter-to-president.pdf)
@@ -98,6 +100,8 @@ Mid-semester reports are due [link](College/4-15-mid)
 
 ## College matters
 
+* [4/16 Must wear a face cover on campus](College/4-16-face-cover)
+* [4/16 How to report if a student...](College/4-16-student)
 * [4/15 mid-semester reports are due](College/4-15-mid)
 * [4/15 S&T report](College/SandT-report.pdf) 
 * [4/15  email from Disabilities office](College/4-15-disabilities)
