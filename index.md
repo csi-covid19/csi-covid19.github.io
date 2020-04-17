@@ -72,6 +72,7 @@ Mid-semester reports are due [link](College/4-15-mid)
 
 ## PSC
 
+* [4/17 thought piece on what CUNY teaches us](https://www.nydailynews.com/opinion/ny-oped-what-cuny-teaches-us-about-the-coronavirus-20200417-a3632rnkmjadldaoutmzyrrimy-story.html)
 * [4/15 Email from PSC Chair on State Budget](PSC/4-15-budget)
 * [4/11 Email from PSC Chair re. helping with homework for children of nurses](PSC/4-11-PSC-nurses)
 * [4/9  Email from  PSC Chair  on stimulus funds](PSC/4-9-federal-funds)

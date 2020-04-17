@@ -23,3 +23,7 @@ An email with a link to a zoom meeting for next Thursdays College Council/Facult
 
 [link](https://www.gothamgazette.com/opinion/9309-new-york-state-budget-extensive-cutbacks-mystery-transparency
 ) State Budget Includes Extensive Cutbacks But We Don’t Know how much....
+
+## About CUNY
+
+
