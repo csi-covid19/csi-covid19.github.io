@@ -7,12 +7,18 @@ Campus access is strictly regulated
 
 An email with a link to a zoom meeting for next Thursdays College Council/Faculty Senate meeting was sent out.
 
+[link](/CUNY/4-20-chancellor-budget) The Chancellor spells it out:
+
+Effective immediately, the University is implementing a freeze on all personnel actions, including all hires and discretionary salary increases. Some exceptions that will be considered include health and safety positions and faculty searches in which an offer has already been made. Such cases will need to be presented to a Vacancy Review Committee that will be created in the coming days.
+
+
+
 All persons entering campus must wear a facial protective barrier. [link](College/4-16-face-cover)
 
-Mid-semester reports are due [link](College/4-15-mid)
 
 ## News
 
+* [4/20 News of the day](Today/4-20-today)
 * [4/17 News of the day](Today/4-17-today)
 * [4/15 News of the day](Today/4-15-today)
 * [4/13 News of the day](Today/4-13-today)
@@ -101,6 +107,10 @@ Mid-semester reports are due [link](College/4-15-mid)
 
 ## College matters
 
+* [4/20 Counseling center announces eCHECKUP TO GO](College/4-2-health)
+* [4/20 Virtual activities](College/4-20-virtual)
+* [4/20 Food pantry details were announced](College/4-20-food-pantry)
+* [4/20 Undergraduate Curriculum Research Conference](College/4-20-ugc)
 * [4/16 Must wear a face cover on campus](College/4-16-face-cover)
 * [4/16 How to report if a student...](College/4-16-student)
 * [4/15 mid-semester reports are due](College/4-15-mid)
@@ -193,6 +203,7 @@ Mid-semester reports are due [link](College/4-15-mid)
 
 ## Technology matters
 
+* [4/20 Maintaining balance workshop](Technology/4-20-balance)
 * [4/14 To async or not to async...](Technology/4-14-blackboard)
 * [4/12 Blackboard workshops](Technology/4-12-workshops)
 * [4/8 Phishing attempts](Technology/4-8-phishing)
@@ -226,6 +237,7 @@ Mid-semester reports are due [link](College/4-15-mid)
 
 ## CUNY
 
+* [4/20 Chancellor letter re budget](CUNY/4-20-chancellor-budget)
 * [4/10 City College President Email](CUNY/4-10-City-college-president)
 * [4/3 Chancellor's email re commencement, etc.](CUNY/4-3-Chancellor-email)
 * [4/3 Disposition  of 3/30 Board votes](https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/trustees/meetings-of-the-board/DISPO033020.pdf)
