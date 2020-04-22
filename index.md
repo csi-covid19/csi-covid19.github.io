@@ -7,6 +7,8 @@ Campus access is strictly regulated
 
 An email with a link to a zoom meeting for next Thursdays College Council/Faculty Senate meeting was sent out.
 
+[link](/CUNY/4-22-guidance-10.pdf) CUNY releases the 10th go-around of Guidance. This time on CR/NCR etc.
+
 [link](/CUNY/4-20-chancellor-budget) The Chancellor spells it out:
 
 Effective immediately, the University is implementing a freeze on all personnel actions, including all hires and discretionary salary increases. Some exceptions that will be considered include health and safety positions and faculty searches in which an offer has already been made. Such cases will need to be presented to a Vacancy Review Committee that will be created in the coming days.
@@ -69,6 +71,8 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College Council Faculty Senate
 
+* [4/22 Research Committee resolution](CCFS/4-22-research-comm.pdf)
+* [4/21 Budget Committee has ACE CARES document](/College/4-21-ACE-cares.pdf)
 * [4/16 UFS survey on online transition](CCFS/4-16-UFS-survey)
 * [4/15 Solicitation for UFS representation](CCFS/4-15-UFS)
 * [4/2 The president responds to the CC XC letter re. the cabinet](/CCFS/4-2-president-responds) 
@@ -78,6 +82,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## PSC
 
+* [4/21 New contract provisions from PSC and CUNY](4-21-contract)
 * [4/17 thought piece on what CUNY teaches us](https://www.nydailynews.com/opinion/ny-oped-what-cuny-teaches-us-about-the-coronavirus-20200417-a3632rnkmjadldaoutmzyrrimy-story.html)
 * [4/15 Email from PSC Chair on State Budget](PSC/4-15-budget)
 * [4/11 Email from PSC Chair re. helping with homework for children of nurses](PSC/4-11-PSC-nurses)
@@ -107,7 +112,8 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College matters
 
-* [4/20 Counseling center announces eCHECKUP TO GO](College/4-2-health)
+* [4/21 Book orders](Collge/4-21-book)
+* [4/20 Counseling center announces eCHECKUP TO GO](College/4-20-health)
 * [4/20 Virtual activities](College/4-20-virtual)
 * [4/20 Food pantry details were announced](College/4-20-food-pantry)
 * [4/20 Undergraduate Curriculum Research Conference](College/4-20-ugc)
@@ -187,6 +193,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ### A series of guidance letters from  EVC Cruz forwarded by the provost
 
+* [4/22 Guidance from CUNY #10](/CUNY/4-22-guidance-10.pdf) 
 * [4/4 Guidance from CUNY #9](CUNY/4-4-guidance-9.pdf)
 * [3/28 Guidance from CUNY #8](CUNY/3-28-guidance-8)
 * [3/21 Guidance from CUNY #7](CUNY/3-22-guidance-7)
@@ -203,6 +210,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## Technology matters
 
+* [4/20 Tech training schedule](Technology/4-20-training)
 * [4/20 Maintaining balance workshop](Technology/4-20-balance)
 * [4/14 To async or not to async...](Technology/4-14-blackboard)
 * [4/12 Blackboard workshops](Technology/4-12-workshops)
@@ -237,6 +245,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## CUNY
 
+* [4/21 CUNY view on the budget position](/CUNY/4-21-CUNY-reads-budget.pdf) 
 * [4/20 Chancellor letter re budget](CUNY/4-20-chancellor-budget)
 * [4/10 City College President Email](CUNY/4-10-City-college-president)
 * [4/3 Chancellor's email re commencement, etc.](CUNY/4-3-Chancellor-email)
