@@ -20,6 +20,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [4/22 News of the day](Today/4-22-today)
 * [4/20 News of the day](Today/4-20-today)
 * [4/17 News of the day](Today/4-17-today)
 * [4/15 News of the day](Today/4-15-today)
