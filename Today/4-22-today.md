@@ -12,7 +12,7 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 [link](/CUNY/4-21-CUNY-reads-budget.pdf) CUNY's review of the current State and City Budget position
 
-[link](/CCFS/4-21-right-now) The Chancellory wants answers in a "Call to Action"
+[no link available]() The Chancellory wants answers in a "Call to Action"
 
 "Presidents shall inform the Executive Vice President and University Provost of their intent to leverage this training opportunity for their faculty and commitment to contribute to the overall goals of this ambitious initiative.  Alternatively, presidents will submit their own plan to provide professional development to their campus faculty. Responses are due by April 20, 2020."
 
@@ -46,7 +46,5 @@ The Chancellor has alerted the members of the BoT to "fluid fiscal
    concerns" which may effect and to "potentially difficult decisions"
    that may be pending. Specifics about the concerns and the decisions
    were not provided.
-
-## About CUNY
 
 
