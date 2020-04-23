@@ -17,6 +17,7 @@ Materials for the April 23, 2020 Meetings of the College Council and Faculty Sen
 
 * [Agenda](/CCFS/AprilMeeting/fs-agenda.docx)
 * [Minutes](/CCFS/AprilMeeting/fs-minutes.docx)
+* [Chair's Report](/CCFS/AprilMeeting/fs-chair.docx)
 * [Curriculum](/CCFS/AprilMeeting/fs-curric.docx)
 * [Graduate Studies](/CCFS/AprilMeeting/fs-gs.docx)
 * [Joint Appointments](/CCFS/AprilMeeting/fs-joint.docx)
