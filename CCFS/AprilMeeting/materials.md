@@ -4,6 +4,8 @@
 
 Materials for the April 23, 2020 Meetings of the College Council and Faculty Senate
 
+* [Rules of Engagement](/CCFS/AprilMeeting/zoom.docx)
+
 # CC
 
 * [Agenda and Minutes](/CCFS/AprilMeeting/cc-agenda-mins.docx)
