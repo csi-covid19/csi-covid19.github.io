@@ -3,6 +3,8 @@
 !!! Note
 
 
+[link](CCFS/AprilMeeting/materials) Materials for today CC FS meeting
+
 Campus access is strictly regulated
 
 An email with a link to a zoom meeting for next Thursdays College Council/Faculty Senate meeting was sent out.
