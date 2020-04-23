@@ -1,0 +1,22 @@
+# Recent news
+
+A summary of some new news related to CUNY's and CSI's response to the COVID-19 pandemic. See [https://csi-covid19.github.io](https://csi-covid19.github.io/) for the archive.
+
+To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
+
+
+
+## College related
+
+[link](https://www.dignitymemorial.com/obituaries/staten-island-ny/richard-currie-9136629​) Professor Richard Curry Memorial Site, as mentioned at the 4/23 Faculty Senate meeting
+
+[link](/CUNY/4-20-chancellor-to-all) Chancellor's message to all
+
+* Fill out the following survey (so far just 1 member from CSI has):
+
+UFS Spring 2020 [Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=s_BgbwZfCU6XFZiduozH2FJL6n7nv-tNk_huVq0VgoZUQkNHWVM5OUZQMjNISU8zTzhVNzJETlQwVy4u) of CUNY Online Transition and Faculty Needs now has 630 responses as of this morning from 21 of 25 CUNY units. 
+
+[link]( https://www.cuny.edu/coronavirus/credit-no-credit-policy/faq/) Credit/No Credit FAQ
+
+## Budget tea  leaves
+

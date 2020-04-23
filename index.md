@@ -2,20 +2,9 @@
 
 !!! Note
 
-
-[link](CCFS/AprilMeeting/materials) Materials for today CC FS meeting
+[link](https://www.dignitymemorial.com/obituaries/staten-island-ny/richard-currie-9136629​) Professor Richard Curry Memorial Site
 
 Campus access is strictly regulated
-
-An email with a link to a zoom meeting for next Thursdays College Council/Faculty Senate meeting was sent out.
-
-[link](/CUNY/4-22-guidance-10.pdf) CUNY releases the 10th go-around of Guidance. This time on CR/NCR etc.
-
-[link](/CUNY/4-20-chancellor-budget) The Chancellor spells it out:
-
-Effective immediately, the University is implementing a freeze on all personnel actions, including all hires and discretionary salary increases. Some exceptions that will be considered include health and safety positions and faculty searches in which an offer has already been made. Such cases will need to be presented to a Vacancy Review Committee that will be created in the coming days.
-
-
 
 All persons entering campus must wear a facial protective barrier. [link](College/4-16-face-cover)
 
@@ -57,6 +46,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 * Academic Freedom [Distance Education and Academic Freedom](Issues/UFS-Academic-freedom-online-3-17)
 
 ## FAQ
+
 
 * [CSI FAQ](FAQ/frequently-asked-questions)
 * [CSI coronavirus message webpage](https://www.csi.cuny.edu/about-csi/president-leadership/office-president/presidential-communications/coronavirus-message)
@@ -248,8 +238,10 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## CUNY
 
+* [4/22 CR/NCR FAQ from CUNY](https://www.cuny.edu/coronavirus/credit-no-credit-policy/faq/)
 * [4/21 CUNY view on the budget position](/CUNY/4-21-CUNY-reads-budget.pdf) 
 * [4/20 Chancellor letter re budget](CUNY/4-20-chancellor-budget)
+* [4/20 Chancellor letter to all CUNY](CUNY/4-20-chancellor-to-all)
 * [4/10 City College President Email](CUNY/4-10-City-college-president)
 * [4/3 Chancellor's email re commencement, etc.](CUNY/4-3-Chancellor-email)
 * [4/3 Disposition  of 3/30 Board votes](https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/trustees/meetings-of-the-board/DISPO033020.pdf)
