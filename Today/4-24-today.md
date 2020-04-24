@@ -30,6 +30,9 @@ UFS Spring 2020 [Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=s_B
 
 [link](/CUNY/4-24-lehman) Lehman College President's email to Lehman Community regarding the budget uncertainty.
 
+
+[link](/CUNY/4-24-gc) Graduate Center's Interim President's email to Community regarding the budget uncertainty.
+
 ## Budget tea  leaves
 
 * The governor pins a number: expects a 13.3B shortfall (of about 89B, or nearly 15% dropr in revenues) due to coronavirus related revenue reductions. How this will impact CUNY is unclear, though there should be some clarity provided by April30th. 
