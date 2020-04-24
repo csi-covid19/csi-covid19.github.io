@@ -11,6 +11,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [4/24 News of the day](Today/4-24-today)
 * [4/22 News of the day](Today/4-22-today)
 * [4/20 News of the day](Today/4-20-today)
 * [4/17 News of the day](Today/4-17-today)
@@ -75,6 +76,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## PSC
 
+* [4/24 PSC Chair Video](https://www.youtube.com/watch?v=SSFwWk6DAjw&feature=youtu.be)
 * [4/21 New contract provisions from PSC and CUNY](4-21-contract)
 * [4/17 thought piece on what CUNY teaches us](https://www.nydailynews.com/opinion/ny-oped-what-cuny-teaches-us-about-the-coronavirus-20200417-a3632rnkmjadldaoutmzyrrimy-story.html)
 * [4/15 Email from PSC Chair on State Budget](PSC/4-15-budget)
@@ -105,6 +107,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College matters
 
+* [4/24 Fiscal year closeout](College/4-24-fiscal)
 * [4/21 Book orders](Collge/4-21-book)
 * [4/20 Counseling center announces eCHECKUP TO GO](College/4-20-health)
 * [4/20 Virtual activities](College/4-20-virtual)
@@ -186,6 +189,8 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ### A series of guidance letters from  EVC Cruz forwarded by the provost
 
+* [CUNY guidance website](https://www.cuny.edu/academics/faculty-affairs/faculty-related-academic-continuity-guidance/)
+
 * [4/22 Guidance from CUNY #10](/CUNY/4-22-guidance-10.pdf) 
 * [4/4 Guidance from CUNY #9](CUNY/4-4-guidance-9.pdf)
 * [3/28 Guidance from CUNY #8](CUNY/3-28-guidance-8)
@@ -238,6 +243,8 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## CUNY
 
+* [4/24 Lehman President email](CUNY/4-24-lehman)
+* [4/24 GC President email](CUNY/4-24-gc)
 * [4/22 CR/NCR FAQ from CUNY](https://www.cuny.edu/coronavirus/credit-no-credit-policy/faq/)
 * [4/21 CUNY view on the budget position](/CUNY/4-21-CUNY-reads-budget.pdf) 
 * [4/20 Chancellor letter re budget](CUNY/4-20-chancellor-budget)

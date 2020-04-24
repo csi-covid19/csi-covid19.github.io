@@ -8,6 +8,8 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 ## College related
 
+[link](https://zoom.us/rec/share/-Y9QEJer_W1JT4XNzm7lZKECGbrVT6a81ykY-fEExEjvUqilwZBSK6P1zZ8mMAaP) Recording of the College COuncil and Faculty Senate meetings. ( Password: 1l#=u67? )
+
 [link](https://www.dignitymemorial.com/obituaries/staten-island-ny/richard-currie-9136629​) Professor Richard Curry Memorial Site, as mentioned at the 4/23 Faculty Senate meeting
 
 [link](/CUNY/4-20-chancellor-to-all) Chancellor's message to all
@@ -18,5 +20,17 @@ UFS Spring 2020 [Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=s_B
 
 [link]( https://www.cuny.edu/coronavirus/credit-no-credit-policy/faq/) Credit/No Credit FAQ
 
+[link](https://www.cuny.edu/academics/faculty-affairs/faculty-related-academic-continuity-guidance/) Website for academic guidance from CUNY
+
+## PSC
+
+* [4/24 PSC Chair Video](https://www.youtube.com/watch?v=SSFwWk6DAjw&feature=youtu.be)
+
+## CUNY
+
+[link](/CUNY/4-24-lehman) Lehman College President's email to Lehman Community regarding the budget uncertainty.
+
 ## Budget tea  leaves
+
+* The governor pins a number: expects a 13.3B shortfall (of about 89B, or nearly 15% dropr in revenues) due to coronavirus related revenue reductions. How this will impact CUNY is unclear, though there should be some clarity provided by April30th. 
 
