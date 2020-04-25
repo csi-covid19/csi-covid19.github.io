@@ -2,7 +2,7 @@
 
 !!! Note
 
-[link](https://www.dignitymemorial.com/obituaries/staten-island-ny/richard-currie-9136629​) Professor Richard Curry Memorial Site
+[link](https://www.dignitymemorial.com/obituaries/staten-island-ny/richard-currie-9136629​) Professor Richard Currie Memorial Site
 
 Campus access is strictly regulated
 
