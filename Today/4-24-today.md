@@ -8,9 +8,10 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 ## College related
 
-[link](https://zoom.us/rec/share/-Y9QEJer_W1JT4XNzm7lZKECGbrVT6a81ykY-fEExEjvUqilwZBSK6P1zZ8mMAaP) Recording of the College Council and Faculty Senate meetings. ( Password: 1l#=u67? )
+[link](https://zoom.us/rec/share/-Y9QEJer_W1JT4XNzm7lZKECGbrVT6a81ykY-fEExEjvUqilwZBSK6P1zZ8mMAaP) Recording of the College Co
+uncil and Faculty Senate meetings. ( Password: 1l#=u67? )
 
-[link](https://www.dignitymemorial.com/obituaries/staten-island-ny/richard-currie-9136629​) Professor Richard Curry Memorial Site, as mentioned at the 4/23 Faculty Senate meeting
+[link](https://www.dignitymemorial.com/obituaries/staten-island-ny/richard-currie-9136629​) Professor Richard Currie Memorial Site, as mentioned at the 4/23 Faculty Senate meeting
 
 [link](/CUNY/4-20-chancellor-to-all) Chancellor's message to all
 
