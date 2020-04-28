@@ -2,6 +2,11 @@
 
 !!! Note
 
+
+[link](https://www.budget.ny.gov/pubs/press/2020/fy21-enacted-fp-released.html) New York state announces *severe* budget  cuts.
+
+[link](https://www.psc-cuny.org/issues/video-president-bowen-preemptive-cuts-cuny)  PSC  Chair Bowen urges opposing  pre-emptive  cuts.
+
 [link](https://www.dignitymemorial.com/obituaries/staten-island-ny/richard-currie-9136629​) Professor Richard Currie Memorial Site
 
 Campus access is strictly regulated
@@ -11,6 +16,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [4/27 News of the day](Today/4-27-today)
 * [4/24 News of the day](Today/4-24-today)
 * [4/22 News of the day](Today/4-22-today)
 * [4/20 News of the day](Today/4-20-today)
@@ -107,6 +113,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College matters
 
+* [4/27 Food pantry news](/College/4-27-food-pantry) 
 * [4/24 Fiscal year closeout](College/4-24-fiscal)
 * [4/21 Book orders](Collge/4-21-book)
 * [4/20 Counseling center announces eCHECKUP TO GO](College/4-20-health)
