@@ -2,6 +2,7 @@
 
 !!! Note
 
+[link](CCFS/4-29-fs-townhall) Faculty Senate Town Hall May 4th at 1pm
 
 [link](https://www.budget.ny.gov/pubs/press/2020/fy21-enacted-fp-released.html) New York state announces *severe* budget  cuts.
 
@@ -16,6 +17,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [4/29 News of the day](Today/4-29-today)
 * [4/27 News of the day](Today/4-27-today)
 * [4/24 News of the day](Today/4-24-today)
 * [4/22 News of the day](Today/4-22-today)
@@ -71,6 +73,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College Council Faculty Senate
 
+* [4/29 Faculty Senate Town Hall May 4th at 1pm](CCFS/4-29-fs-townhall)
 * [4/22 Research Committee resolution](CCFS/4-22-research-comm.pdf)
 * [4/21 Budget Committee has ACE CARES document](/College/4-21-ACE-cares.pdf)
 * [4/16 UFS survey on online transition](CCFS/4-16-UFS-survey)
@@ -113,6 +116,9 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College matters
 
+* [4/29 FY 20 Closeout document](College/4-29-FY20.pdf)
+* [4/28 CR/NCR bump](/College/4-28-cr-bump)
+* [4/28 CR/NCR clarification](/College/4-28-cr)
 * [4/27 Food pantry news](/College/4-27-food-pantry) 
 * [4/24 Fiscal year closeout](College/4-24-fiscal)
 * [4/21 Book orders](Collge/4-21-book)
@@ -250,6 +256,8 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## CUNY
 
+* [4/29 bump academic continuity page](CUNY/4-29-ac)
+* [4/28 Clarification of hiring freeze](CUNY/4-28-clarification)
 * [4/24 Lehman President email](CUNY/4-24-lehman)
 * [4/24 GC President email](CUNY/4-24-gc)
 * [4/22 CR/NCR FAQ from CUNY](https://www.cuny.edu/coronavirus/credit-no-credit-policy/faq/)
