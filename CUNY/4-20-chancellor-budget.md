@@ -88,23 +88,23 @@ Immediate Actions
 
  
 
-1.     Effective immediately, the University is implementing a freeze on all personnel actions, including all hires and discretionary salary increases. Some exceptions that will be considered include health and safety positions and faculty searches in which an offer has already been made. Such cases will need to be presented to a Vacancy Review Committee that will be created in the coming days.
+Effective immediately, the University is implementing a freeze on all personnel actions, including all hires and discretionary salary increases. Some exceptions that will be considered include health and safety positions and faculty searches in which an offer has already been made. Such cases will need to be presented to a Vacancy Review Committee that will be created in the coming days.
 
  
 
-2.     Per State and City regulations, the University must pause all active campus construction projects, with the exception of those that are COVID-19 related. At the direction of the Governor, the Empire State Development Corporation has issued updated guidance for construction under the Governor\$B!G(Bs New York State on PAUSE executive order. The updated guidance mandates the immediate pause of all construction that is not essential construction, which is defined as:
+Per State and City regulations, the University must pause all active campus construction projects, with the exception of those that are COVID-19 related. At the direction of the Governor, the Empire State Development Corporation has issued updated guidance for construction under the Governor\$B!G(Bs New York State on PAUSE executive order. The updated guidance mandates the immediate pause of all construction that is not essential construction, which is defined as:
 
-●      Construction necessary to protect health and safety of occupants; and
+● Construction necessary to protect health and safety of occupants; and
 
-●      Construction that needs to continue until it is safe to shut it down. 
-
- 
-
-3.     For the remainder of the fiscal year, colleges should refrain from any new one-time or recurring expenditures, with the exception of those that are related to COVID-19 or distance learning instruction.
+● Construction that needs to continue until it is safe to shut it down. 
 
  
 
-4.     Campuses should not be entering into any new long-term contractual obligations (new or renewals) until further notice and should consult with the Chief Financial Officer\$B!G(Bs Office for any exceptional situations. 
+For the remainder of the fiscal year, colleges should refrain from any new one-time or recurring expenditures, with the exception of those that are related to COVID-19 or distance learning instruction.
+
+ 
+
+Campuses should not be entering into any new long-term contractual obligations (new or renewals) until further notice and should consult with the Chief Financial Officer\$B!G(Bs Office for any exceptional situations. 
 
  
 

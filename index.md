@@ -256,6 +256,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## CUNY
 
+* [4/30 Lehman Provost email](CUNY/4-30-lehman)
 * [4/29 bump academic continuity page](CUNY/4-29-ac)
 * [4/28 Clarification of hiring freeze](CUNY/4-28-clarification)
 * [4/24 Lehman President email](CUNY/4-24-lehman)
