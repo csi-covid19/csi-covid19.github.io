@@ -17,6 +17,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [5/1 News of the day](Today/5-1-today)
 * [4/29 News of the day](Today/4-29-today)
 * [4/27 News of the day](Today/4-27-today)
 * [4/24 News of the day](Today/4-24-today)
@@ -116,6 +117,8 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College matters
 
+* [4/30 Email from student affairs about available aid](College/4-30-aid)
+* [4/30 NY Times  op  ed by  CSI Professor](College/4-30-op-ed)
 * [4/29 FY 20 Closeout document](College/4-29-FY20.pdf)
 * [4/28 CR/NCR bump](/College/4-28-cr-bump)
 * [4/28 CR/NCR clarification](/College/4-28-cr)
@@ -256,6 +259,9 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## CUNY
 
+
+* [5/1  NY State Senator calls for no tuition increase](/CUNY/5-1-tuition.pdf)
+* [4/30 BCC Faculty and Staff cut a video](https://vimeo.com/412614243)
 * [4/30 Lehman Provost email](CUNY/4-30-lehman)
 * [4/29 bump academic continuity page](CUNY/4-29-ac)
 * [4/28 Clarification of hiring freeze](CUNY/4-28-clarification)
@@ -293,7 +299,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 * 3/8/2020: Yeshiva [announcement](https://www.yu.edu/health-alert)
 * 3/8/2020: Barnard [announcement](https://alert.barnard.edu/news/important-update-covid-19-and-class-cancellations-march-8-2020-staff)
 
-## How uncdretainty in the budget is being handled elsewhere
+## How uncertainty in the budget is being handled elsewhere
 
 * [4/13 MIT  Community email](News/4-15-mit)
 * [3/30 Cornell budget  announcement](https://www.cornell.edu/coronavirus/statements-news/20200330-financial-impact.cfm)
