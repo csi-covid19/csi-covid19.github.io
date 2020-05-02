@@ -4,9 +4,16 @@ A summary of some new news related to CUNY's and CSI's response to the COVID-19 
 
 To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
+## Let's talk....
+
+[link](/CCFS/4-29-fs-townhall) Faculty Senate Town Hall May 4th at 1pm
+
+[link](/CCFS/5-2-townhall) College Council Town Hall for HEOs and other staff May 4th at 2pm
 
 
 ## College related
+
+
 
 * [4/30 Poetic Pandemic Project](/College/4-30-poem)
 

@@ -4,6 +4,8 @@
 
 [link](CCFS/4-29-fs-townhall) Faculty Senate Town Hall May 4th at 1pm
 
+[link](CCFS/5-2-townhall) College Council Town Hall for HEOs and other staff May 4th at 2pm
+
 [link](https://www.budget.ny.gov/pubs/press/2020/fy21-enacted-fp-released.html) New York state announces *severe* budget  cuts.
 
 [link](https://www.psc-cuny.org/issues/video-president-bowen-preemptive-cuts-cuny)  PSC  Chair Bowen urges opposing  pre-emptive  cuts.
