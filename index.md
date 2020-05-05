@@ -2,11 +2,7 @@
 
 !!! Note
 
-[link](CCFS/4-29-fs-townhall) Faculty Senate Town Hall May 4th at 1pm
-
-[link](CCFS/5-2-townhall) College Council Town Hall for HEOs and other staff May 4th at 2pm
-
-[link](https://www.budget.ny.gov/pubs/press/2020/fy21-enacted-fp-released.html) New York state announces *severe* budget  cuts.
+* [link](https://zoom.us/rec/share/wJRJEbrC1n9JRrfBtFzwQ7EGB97hX6a823RL8_VYykYL5XspEN6B5255h0jhjtPS) (with password: 3T+15673) Link to  the May 4th zoom  recording of the  Faculty Senate Town  Hall.  Next best thing to being there....
 
 [link](https://www.psc-cuny.org/issues/video-president-bowen-preemptive-cuts-cuny)  PSC  Chair Bowen urges opposing  pre-emptive  cuts.
 
@@ -19,6 +15,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [5/4 News of the day](Today/5-4-today)
 * [5/1 News of the day](Today/5-1-today)
 * [4/29 News of the day](Today/4-29-today)
 * [4/27 News of the day](Today/4-27-today)
@@ -88,6 +85,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## PSC
 
+* [5/4  email  from CSI Chapter Chair](PSC/5-4-cchair)
 * [4/24 PSC Chair Video](https://www.youtube.com/watch?v=SSFwWk6DAjw&feature=youtu.be)
 * [4/21 New contract provisions from PSC and CUNY](4-21-contract)
 * [4/17 thought piece on what CUNY teaches us](https://www.nydailynews.com/opinion/ny-oped-what-cuny-teaches-us-about-the-coronavirus-20200417-a3632rnkmjadldaoutmzyrrimy-story.html)
@@ -119,6 +117,10 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College matters
 
+* [5/4 email on Blackboard initiative summary](Technology/5-4-bb)
+* [5/4 email with Food Pantry resources](College/5-4-food)
+* [5/4 USS  email to student leaders](College/5-4-uss)
+* [5/3 Email for president](College/5-3-president)
 * [4/30 Email from student affairs about available aid](College/4-30-aid)
 * [4/30 NY Times  op  ed by  CSI Professor](College/4-30-op-ed)
 * [4/29 FY 20 Closeout document](College/4-29-FY20.pdf)
@@ -209,6 +211,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 * [CUNY guidance website](https://www.cuny.edu/academics/faculty-affairs/faculty-related-academic-continuity-guidance/)
 
+* [5/3  Guidaance from  CUNY #11](/College/5-3-update-11.pdf)
 * [4/22 Guidance from CUNY #10](/CUNY/4-22-guidance-10.pdf) 
 * [4/4 Guidance from CUNY #9](CUNY/4-4-guidance-9.pdf)
 * [3/28 Guidance from CUNY #8](CUNY/3-28-guidance-8)
