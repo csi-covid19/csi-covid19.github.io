@@ -28,3 +28,6 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 * [5/4 USS  email to student leaders](/CUNY/5-4-uss) List of resources for students
 
+## Budget
+
+[link](http://www1.cuny.edu/sites/cunyufs/2020/05/04/the-cuny-uncertainty-principle/)  Blog post on the  CUNY budget
