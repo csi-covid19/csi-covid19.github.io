@@ -15,6 +15,8 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+
+* [5/6 News of the day](Today/5-6-today)
 * [5/4 News of the day](Today/5-4-today)
 * [5/1 News of the day](Today/5-1-today)
 * [4/29 News of the day](Today/4-29-today)
@@ -117,6 +119,11 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College matters
 
+* [5/6 transform ... email](College/5-6-transform)
+* [5/6 CSI Careers email](College/5-6-careers)
+* [5/5 Library resources email](College/5-5-library)
+* [5/5 Cuomo's statment on reimagining education...](https://www.governor.ny.gov/news/amid-ongoing-covid-19-pandemic-governor-cuomo-announces-collaboration-gates-foundation-develop?fbclid=IwAR1mYQLxxMwthMWtijBPSdEIMUHyH9d69XsRZbGCeuWCgiwaW0W-spo1HV0​)
+* [5/5 op ed by Matt Brim on the CUNY budget](https://www.gothamgazette.com/opinion/9351-not-a-novel-crisis-cuny-coronavirus-state-budget) 
 * [5/4 email on Blackboard initiative summary](Technology/5-4-bb)
 * [5/4 email with Food Pantry resources](College/5-4-food)
 * [5/4 USS  email to student leaders](College/5-4-uss)
