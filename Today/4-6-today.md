@@ -4,6 +4,16 @@ A summary of some new news related to CUNY's and CSI's response to the COVID-19 
 
 To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
+## College Council and Faculty Senate
+
+* [link](/CCFS/ccfs-letter-may-6.pdf) The College Council and Faculty Senate Executive Committees sent a letter to the President and Provost with the plea:
+
+Please find a letter backed by the overwhelming majority of the executive committees representing the entirety of  the college governance at CSI. We urge you, as we have in the recent past, to adopt a different system to  handle the unprecedented challenges  we face as a community. Together we can work though this, divided, we stand little chance of emerging as a strong and vibrant institution.
+
+
+
+
+
 
 ## College news
 

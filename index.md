@@ -2,6 +2,8 @@
 
 !!! Note
 
+* [link](/CCFS/ccfs-letter-may-6.pdf) The College Council and Faculty Senate Executive Committees sent a letter to the President and Provost with the plea to create an inclusive, effective committee to address the likely budgetary crisis of the next several semesters.
+
 * [link](https://zoom.us/rec/share/wJRJEbrC1n9JRrfBtFzwQ7EGB97hX6a823RL8_VYykYL5XspEN6B5255h0jhjtPS) (with password: 3T+15673) Link to  the May 4th zoom  recording of the  Faculty Senate Town  Hall.  Next best thing to being there....
 
 [link](https://www.psc-cuny.org/issues/video-president-bowen-preemptive-cuts-cuny)  PSC  Chair Bowen urges opposing  pre-emptive  cuts.
@@ -75,6 +77,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College Council Faculty Senate
 
+* [5/6 College Council and Faculty Senate Executive Committee letter to the President and Provost regarding the college response to the pending budgetary crisis](/CCFS/ccfs-letter-may-6.pdf) 
 * [4/29 Faculty Senate Town Hall May 4th at 1pm](CCFS/4-29-fs-townhall)
 * [4/22 Research Committee resolution](CCFS/4-22-research-comm.pdf)
 * [4/21 Budget Committee has ACE CARES document](/College/4-21-ACE-cares.pdf)
