@@ -2,22 +2,23 @@
 
 !!! Note
 
-* [link](/CCFS/ccfs-letter-may-6.pdf) The College Council and Faculty Senate Executive Committees sent a letter to the President and Provost with the plea to create an inclusive, effective committee to address the likely budgetary crisis of the next several semesters.
+[link](/CCFS/ccfs-letter-may-6.pdf) The College Council and Faculty Senate Executive Committees sent a letter to the President and Provost with the plea to create an inclusive, effective committee to address the likely budgetary crisis of the next several semesters.
 
-* [link](https://zoom.us/rec/share/wJRJEbrC1n9JRrfBtFzwQ7EGB97hX6a823RL8_VYykYL5XspEN6B5255h0jhjtPS) (with password: 3T+15673) Link to  the May 4th zoom  recording of the  Faculty Senate Town  Hall.  Next best thing to being there....
-
-[link](https://www.psc-cuny.org/issues/video-president-bowen-preemptive-cuts-cuny)  PSC  Chair Bowen urges opposing  pre-emptive  cuts.
-
-[link](https://www.dignitymemorial.com/obituaries/staten-island-ny/richard-currie-9136629​) Professor Richard Currie Memorial Site
+[link](https://zoom.us/rec/share/wJRJEbrC1n9JRrfBtFzwQ7EGB97hX6a823RL8_VYykYL5XspEN6B5255h0jhjtPS) (with password: 3T+15673) Link to  the May 4th zoom  recording of the  Faculty Senate Town  Hall.  Next best thing to being there....
 
 Campus access is strictly regulated
 
 All persons entering campus must wear a facial protective barrier. [link](College/4-16-face-cover)
 
+[link](https://psc-cuny.org/InMemoriam) PSC  CUNY's in memoriam site
+
+[link](https://www.dignitymemorial.com/obituaries/staten-island-ny/richard-currie-9136629​) Professor Richard Currie Memorial Site
+
+
 
 ## News
 
-
+* [5/8 News of the day (in progress...)](Today/5-8-today)
 * [5/6 News of the day](Today/5-6-today)
 * [5/4 News of the day](Today/5-4-today)
 * [5/1 News of the day](Today/5-1-today)
@@ -43,6 +44,12 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 * [3/13 COVID case at CSI](News/csi-positive-3-13)
 * [3/12 COVID case at Brooklyn](News/brooklyn-covid-3-13)
 * [3/10 COVID at John Jay](CUNY/3-10-john-jay)
+
+## Press
+
+* [5/7 New Yorker  article  on  CUNY and  coronavirus](https://www.newyorker.com/culture/cultural-comment/the-pandemic-is-the-time-to-resurrect-the-public-university)
+* [5/6 Op-Ed by Matt Brim for the Gotham Gazette](https://www.gothamgazette.com/opinion/9351-not-a-novel-crisis-cuny-coronavirus-state-budget)
+* [5/6 Cuomo on education](https://www.governor.ny.gov/news/amid-ongoing-covid-19-pandemic-governor-cuomo-announces-collaboration-gates-foundation-develop?fbclid=IwAR1mYQLxxMwthMWtijBPSdEIMUHyH9d69XsRZbGCeuWCgiwaW0W-spo1HV0​) 
 
 
 ## Hot issues
@@ -274,7 +281,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## CUNY
 
-
+* [5/6 Letter by Assembly member Glick arguing not to raise CUNY tuition in F20.](/CUNY/5-6-glick.pdf)
 * [5/1  NY State Senator calls for no tuition increase](/CUNY/5-1-tuition.pdf)
 * [4/30 BCC Faculty and Staff cut a video](https://vimeo.com/412614243)
 * [4/30 Lehman Provost email](CUNY/4-30-lehman)
@@ -299,6 +306,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 * [3/19 Chancellor: working together](CUNY/3-19-chancellor-working-together)
 * [3/15 Chancellor telecommuting email](CUNY/chancellor-3-15)
 * [3/2 Chancellor email to CUNY](CUNY/chancellor-3-2)
+
 
 ## Calendar
 
