@@ -282,6 +282,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## CUNY
 
+* [5/6 BCC values expressed in a time of crisis](/CUNY/5-6-bcc.pdf)
 * [5/7 Chancellor interview...No decisions have been made about tuition for next year](https://www.ny1.com/nyc/all-boroughs/news/2020/05/07/no-decision-yet-on-tuition-hike--cuny-chancellor-says?cid)
 * [5/6 Letter by Assembly member Glick arguing not to raise CUNY tuition in F20.](/CUNY/5-6-glick.pdf)
 * [5/1  NY State Senator calls for no tuition increase](/CUNY/5-1-tuition.pdf)
