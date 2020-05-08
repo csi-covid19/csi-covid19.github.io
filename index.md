@@ -18,7 +18,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
-* [5/8 News of the day (in progress...)](Today/5-8-today)
+* [5/8 News of the day](Today/5-8-today)
 * [5/6 News of the day](Today/5-6-today)
 * [5/4 News of the day](Today/5-4-today)
 * [5/1 News of the day](Today/5-1-today)
@@ -47,6 +47,9 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## Press
 
+* [5/8 Gothamist article on the budget](https://gothamist.com/news/cuny-braces-anticipated-budget-cuts-due-coronavirus-pandemic)
+* [5/8 article CUNY pressed on to release more data](https://www.politico.com/states/new-york/city-hall/story/2020/05/07/cuny-pressed-to-release-more-data-on-coronavirus-related-deaths-1283102)
+* [5/8 Advance article on pending CUNY budget cuts](https://www.silive.com/news/2020/05/cuny-bracing-for-possible-budget-cuts-report-says.html) 
 * [5/7 New Yorker  article  on  CUNY and  coronavirus](https://www.newyorker.com/culture/cultural-comment/the-pandemic-is-the-time-to-resurrect-the-public-university)
 * [5/6 Op-Ed by Matt Brim for the Gotham Gazette](https://www.gothamgazette.com/opinion/9351-not-a-novel-crisis-cuny-coronavirus-state-budget)
 * [5/6 Cuomo on education](https://www.governor.ny.gov/news/amid-ongoing-covid-19-pandemic-governor-cuomo-announces-collaboration-gates-foundation-develop?fbclid=IwAR1mYQLxxMwthMWtijBPSdEIMUHyH9d69XsRZbGCeuWCgiwaW0W-spo1HV0​) 
@@ -130,6 +133,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College matters
 
+* [5/8  CR/NCR  grade info](College/5-8-cr)
 * [5/6 transform ... email](College/5-6-transform)
 * [5/6 CSI Careers email](College/5-6-careers)
 * [5/5 Library resources email](College/5-5-library)
@@ -247,6 +251,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## Technology matters
 
+* [5/8 Blackboard basics](Technology/5-8-tech.md)
 * [4/20 Tech training schedule](Technology/4-20-training)
 * [4/20 Maintaining balance workshop](Technology/4-20-balance)
 * [4/14 To async or not to async...](Technology/4-14-blackboard)
