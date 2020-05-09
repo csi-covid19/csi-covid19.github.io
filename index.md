@@ -2,13 +2,24 @@
 
 !!! Note
 
-[link](/CCFS/ccfs-letter-may-6.pdf) The College Council and Faculty Senate Executive Committees sent a letter to the President and Provost with the plea to create an inclusive, effective committee to address the likely budgetary crisis of the next several semesters.
 
-[link](https://zoom.us/rec/share/wJRJEbrC1n9JRrfBtFzwQ7EGB97hX6a823RL8_VYykYL5XspEN6B5255h0jhjtPS) (with password: 3T+15673) Link to  the May 4th zoom  recording of the  Faculty Senate Town  Hall.  Next best thing to being there....
+
+[link]( https://www.psc-cuny.org/psc-impact-bargaining-proposals) The  PSC lists its proposals  including:
+
+There will be no non-reappointments or dismissals of PSC-represented employees during the pandemic except for just cause, pursuant to Article 21 of the Collective Bargaining Agreement.
+	
+Class-size limits and minimum required class enrollments will not change from past practice for financial reasons during the COVID emergency. If social distancing is still required when on-site instruction resumes, the University will create additional faculty positions rather than reducing course offerings, increasing faculty workload or relying on technological solutions.
+
+* [5/9 President Fritz email  on budget task force ... no](/CCFS/5-9-president)
+
+* [5/9 College Council Chair's personal response to President Fritz](/CCFS/5-9-CC-chair-response.md)
+----
 
 Campus access is strictly regulated
 
 All persons entering campus must wear a facial protective barrier. [link](College/4-16-face-cover)
+
+----
 
 [link](https://psc-cuny.org/InMemoriam) PSC  CUNY's in memoriam site
 
@@ -104,6 +115,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## PSC
 
+* [5/8 PSC Bargaining proposals](https://www.psc-cuny.org/psc-impact-bargaining-proposals) 
 * [5/4  email  from CSI Chapter Chair](PSC/5-4-cchair)
 * [4/24 PSC Chair Video](https://www.youtube.com/watch?v=SSFwWk6DAjw&feature=youtu.be)
 * [4/21 New contract provisions from PSC and CUNY](4-21-contract)
