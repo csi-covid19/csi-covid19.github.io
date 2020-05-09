@@ -12,7 +12,7 @@ Class-size limits and minimum required class enrollments will not change from pa
 
 * [5/9 President Fritz email  on budget task force ... no](/CCFS/5-9-president)
 
-* [5/9 College Council Chair's personal response to President Fritz](/CCFS/5-9-CC-chair-response.md)
+* [5/9 College Council Chair's personal response to President Fritz](/CCFS/5-9-CC-chair-response)
 ----
 
 Campus access is strictly regulated
