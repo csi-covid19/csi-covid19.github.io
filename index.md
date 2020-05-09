@@ -18,6 +18,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [5/10 News of the day (in  progress...)](Today/5-10-today)
 * [5/8 News of the day](Today/5-8-today)
 * [5/6 News of the day](Today/5-6-today)
 * [5/4 News of the day](Today/5-4-today)
@@ -87,6 +88,8 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College Council Faculty Senate
 
+* [5/9 President Fritz email  on budget task force](/CCFS/5-9-president)
+* [5/9 President Fritz email  on clarity of process](/CCFS/5-9-president-2)
 * [5/7 Budget options for FGLs](/CCFS/5-7-budget.pdf)
 * [5/6 College Council and Faculty Senate Executive Committee letter to the President and Provost regarding the college response to the pending budgetary crisis](/CCFS/ccfs-letter-may-6.pdf) 
 * [4/29 Faculty Senate Town Hall May 4th at 1pm](CCFS/4-29-fs-townhall)
