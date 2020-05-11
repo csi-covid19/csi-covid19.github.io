@@ -4,6 +4,11 @@
 
 
 
+[5/9 memo to CSI Chairs -- adjuncts cuts](/College/5-9-provost-adjuncts)
+
+Carlos Serrano has provided each Dean with financial targets that show the dollar amounts that would correspond to a 35% cut within each school/division. The Deans have discretion to provide for variation within departments, but each school/division should aim to meet the specified targets for Fall 2020.
+
+
 [link]( https://www.psc-cuny.org/psc-impact-bargaining-proposals) The  PSC lists its proposals  including:
 
 There will be no non-reappointments or dismissals of PSC-represented employees during the pandemic except for just cause, pursuant to Article 21 of the Collective Bargaining Agreement.
@@ -29,7 +34,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
-* [5/10 News of the day (in  progress...)](Today/5-10-today)
+* [5/11 News of the day](Today/5-11-today)
 * [5/8 News of the day](Today/5-8-today)
 * [5/6 News of the day](Today/5-6-today)
 * [5/4 News of the day](Today/5-4-today)
@@ -115,6 +120,9 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## PSC
 
+* [5/11 PSC Chapter Chair's email  on adjuncts](/PSC/5-11-chapter) 
+* [5/11 Act Now: No Cuts to CUNY!](/PSC/5-11-psc) 
+* [5/11 Adjunct email](/PSC/5-11-adjunct)1
 * [5/8 PSC Bargaining proposals](https://www.psc-cuny.org/psc-impact-bargaining-proposals) 
 * [5/4  email  from CSI Chapter Chair](PSC/5-4-cchair)
 * [4/24 PSC Chair Video](https://www.youtube.com/watch?v=SSFwWk6DAjw&feature=youtu.be)
@@ -148,6 +156,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College matters
 
+* [5/9 memo to CSI Chairs -- adjuncts cuts](/College/5-9-provost-adjuncts)
 * [5/8  CR/NCR  grade info](College/5-8-cr)
 * [5/6 transform ... email](College/5-6-transform)
 * [5/6 CSI Careers email](College/5-6-careers)
@@ -302,6 +311,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## CUNY
 
+* [5/8 memo to JJ Chairs -- no reappointment of 6-month adjuncts](5-11-jj.md)
 * [5/6 BCC values expressed in a time of crisis](/CUNY/5-6-bcc.pdf)
 * [5/7 Chancellor interview...No decisions have been made about tuition for next year](https://www.ny1.com/nyc/all-boroughs/news/2020/05/07/no-decision-yet-on-tuition-hike--cuny-chancellor-says?cid)
 * [5/6 Letter by Assembly member Glick arguing not to raise CUNY tuition in F20.](/CUNY/5-6-glick.pdf)
