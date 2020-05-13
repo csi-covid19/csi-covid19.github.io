@@ -3,6 +3,8 @@
 !!! Note
 
 
+PSC Sponsored Zoom Town Hall this Thursday, May 14 from 2:30-4:30
+
 
 [5/9 memo to CSI Chairs -- adjuncts cuts](/College/5-9-provost-adjuncts)
 
@@ -14,10 +16,6 @@ Carlos Serrano has provided each Dean with financial targets that show the dolla
 There will be no non-reappointments or dismissals of PSC-represented employees during the pandemic except for just cause, pursuant to Article 21 of the Collective Bargaining Agreement.
 	
 Class-size limits and minimum required class enrollments will not change from past practice for financial reasons during the COVID emergency. If social distancing is still required when on-site instruction resumes, the University will create additional faculty positions rather than reducing course offerings, increasing faculty workload or relying on technological solutions.
-
-* [5/9 President Fritz email  on budget task force ... no](/CCFS/5-9-president)
-
-* [5/9 College Council Chair's personal response to President Fritz](/CCFS/5-9-CC-chair-response)
 ----
 
 Campus access is strictly regulated
@@ -34,6 +32,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [5/13 News of the day](Today/5-13-today)
 * [5/11 News of the day](Today/5-11-today)
 * [5/8 News of the day](Today/5-8-today)
 * [5/6 News of the day](Today/5-6-today)
@@ -63,6 +62,10 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 * [3/10 COVID at John Jay](CUNY/3-10-john-jay)
 
 ## Press
+
+## News
+
+* [5/12 California State University to Conduct Most Fall Classes Online](https://www.nytimes.com/2020/05/12/us/coronavirus-live-news-updates.html?referringSource=articleShare) 
 
 * [5/8 Gothamist article on the budget](https://gothamist.com/news/cuny-braces-anticipated-budget-cuts-due-coronavirus-pandemic)
 * [5/8 article CUNY pressed on to release more data](https://www.politico.com/states/new-york/city-hall/story/2020/05/07/cuny-pressed-to-release-more-data-on-coronavirus-related-deaths-1283102)
@@ -104,6 +107,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College Council Faculty Senate
 
+* [5/13 email from Course and Standing committee on CR/NCR...](/College/5-13-cs)
 * [5/9 President Fritz email  on budget task force](/CCFS/5-9-president)
 * [5/9 President Fritz email  on clarity of process](/CCFS/5-9-president-2)
 * [5/7 Budget options for FGLs](/CCFS/5-7-budget.pdf)
@@ -120,6 +124,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## PSC
 
+* [5/12 Email from Chapter Chair on town hall, adjuncts](/PSC/5-12-cchair)
 * [5/11 PSC Chapter Chair's email  on adjuncts](/PSC/5-11-chapter) 
 * [5/11 Act Now: No Cuts to CUNY!](/PSC/5-11-psc) 
 * [5/11 Adjunct email](/PSC/5-11-adjunct)1
@@ -156,6 +161,9 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College matters
 
+* [5/12 email from President on the budget](/College/5-12-president)
+* [5/12 email from Provost to budget committee (CC) explaining adjunct budget adjustments](/College/5-12-provost)
+* [5/12 email from registrar on grades](/College/5-12-registrar)
 * [5/9 memo to CSI Chairs -- adjuncts cuts](/College/5-9-provost-adjuncts)
 * [5/8  CR/NCR  grade info](College/5-8-cr)
 * [5/6 transform ... email](College/5-6-transform)
