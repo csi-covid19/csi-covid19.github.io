@@ -32,6 +32,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [5/15 News of the day (in progress...)](Today/5-15-today)
 * [5/13 News of the day](Today/5-13-today)
 * [5/11 News of the day](Today/5-11-today)
 * [5/8 News of the day](Today/5-8-today)
@@ -65,8 +66,11 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [5/14 Gothamist opinion piece  on CUNY cuts](https://gothamist.com/news/cuny-adjunct-layoffs-are-already-happening-ahead-cuomos-expected-budget-cuts)
+* [5/13 President Fritz says CSI is here for you...](https://www.silive.com/news/2020/05/graduating-seniors-and-their-parents-debating-remote-college-education-csi-is-here-for-you-opinion.html)
+* [5/14 IHE.com: Cal State Stands Alone](https://www.insidehighered.com/news/2020/05/14/cal-state-pursuing-online-fall?utm_source=Inside+Higher+Ed&utm_campaign=c8c4331066-DNU_2019_COPY_02&utm_medium=email&utm_term=0_1fcbc04421-c8c4331066-197464749&mc_cid=c8c4331066&mc_eid=50634a26f0)
+* [5/14 oped by Brooklyn College Faculty on Spare CUNY](https://citylimits.org/2020/05/13/opinion-spare-cuny-and-save-the-education-our-heroes-deserve/)
 * [5/12 California State University to Conduct Most Fall Classes Online](https://www.nytimes.com/2020/05/12/us/coronavirus-live-news-updates.html?referringSource=articleShare) 
-
 * [5/8 Gothamist article on the budget](https://gothamist.com/news/cuny-braces-anticipated-budget-cuts-due-coronavirus-pandemic)
 * [5/8 article CUNY pressed on to release more data](https://www.politico.com/states/new-york/city-hall/story/2020/05/07/cuny-pressed-to-release-more-data-on-coronavirus-related-deaths-1283102)
 * [5/8 Advance article on pending CUNY budget cuts](https://www.silive.com/news/2020/05/cuny-bracing-for-possible-budget-cuts-report-says.html) 
