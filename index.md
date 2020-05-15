@@ -3,7 +3,7 @@
 !!! Note
 
 
-PSC Sponsored Zoom Town Hall this Thursday, May 14 from 2:30-4:30
+[link](https://psc-cuny.org/issues/form/caravan-save-jobs-and-fund-cuny) CARAVAN to SAVE JOBS and FUND CUNY
 
 
 [5/9 memo to CSI Chairs -- adjuncts cuts](/College/5-9-provost-adjuncts)
@@ -32,7 +32,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
-* [5/15 News of the day (in progress...)](Today/5-15-today)
+* [5/15 News of the day](Today/5-15-today)
 * [5/13 News of the day](Today/5-13-today)
 * [5/11 News of the day](Today/5-11-today)
 * [5/8 News of the day](Today/5-8-today)
@@ -128,6 +128,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## PSC
 
+* [5/15 PSC  Car caravan](https://psc-cuny.org/issues/form/caravan-save-jobs-and-fund-cuny)
 * [5/12 Email from Chapter Chair on town hall, adjuncts](/PSC/5-12-cchair)
 * [5/11 PSC Chapter Chair's email  on adjuncts](/PSC/5-11-chapter) 
 * [5/11 Act Now: No Cuts to CUNY!](/PSC/5-11-psc) 
@@ -165,6 +166,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College matters
 
+* [5/14 Online tutoring](/College/5-14-tutoring.pdf)
 * [5/12 email from President on the budget](/College/5-12-president)
 * [5/12 email from Provost to budget committee (CC) explaining adjunct budget adjustments](/College/5-12-provost)
 * [5/12 email from registrar on grades](/College/5-12-registrar)
@@ -323,6 +325,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## CUNY
 
+* [5/15 chair  response to  JJ provost](/CUNY/5-15-jj.pdf) 
 * [5/8 memo to JJ Chairs -- no reappointment of 6-month adjuncts](5-11-jj.md)
 * [5/6 BCC values expressed in a time of crisis](/CUNY/5-6-bcc.pdf)
 * [5/7 Chancellor interview...No decisions have been made about tuition for next year](https://www.ny1.com/nyc/all-boroughs/news/2020/05/07/no-decision-yet-on-tuition-hike--cuny-chancellor-says?cid)
