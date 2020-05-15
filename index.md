@@ -356,8 +356,9 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 * [3/2 Chancellor email to CUNY](CUNY/chancellor-3-2)
 
 
-## Calendar
+## Calendar  of  announcements  outside  of CUNY
 
+* [5/15  MIT  gives  a  demonstration of disaster management](/News/5-15-mit-style)
 * [5/7 SUNY President letter on Fall](/CUNY/5-7-suny.pdf)
 * [3/20 NYS   on Pause announcement](News/3-20-NYS-on-Pause)
 * [3/20 NYS Essential Personnel](https://www.governor.ny.gov/news/governor-cuomo-issues-guidance-essential-services-under-new-york-state-pause-executive-order)

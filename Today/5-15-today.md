@@ -21,6 +21,8 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 ## News
 
+* [5/15  MIT  gives  a  demonstration of disaster management](/News/5-15-mit-style)
+
 * [5/15 Coronavirus: Will colleges reopen in the fall?](https://www.silive.com/coronavirus/2020/05/coronavirus-will-colleges-reopen-in-the-fall.html)
 
 ...High school seniors on Staten Island are trying to plan for their first year of college during the global pandemic.
