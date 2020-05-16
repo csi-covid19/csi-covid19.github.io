@@ -67,6 +67,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [5/16 Advance article: College of Staten Island urged not to cut staff amid potential budget cuts](https://www.silive.com/coronavirus/2020/05/college-of-staten-island-urged-not-to-cut-staff-amid-potential-budget-cuts.html)
 * [5/16 Daily News article on  adjunct layoff plans](https://www.nydailynews.com/coronavirus/ny-coronavirus-cuny-adjuncts-20200515-44lr5omlgzdwbanuytf6ta75hi-story.html)
 * [5/14 Gothamist opinion piece  on CUNY cuts](https://gothamist.com/news/cuny-adjunct-layoffs-are-already-happening-ahead-cuomos-expected-budget-cuts)
 * [5/13 President Fritz says CSI is here for you...](https://www.silive.com/news/2020/05/graduating-seniors-and-their-parents-debating-remote-college-education-csi-is-here-for-you-opinion.html)
