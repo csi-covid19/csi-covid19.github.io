@@ -3,6 +3,11 @@
 !!! Note
 
 
+
+[link](/CCFS/MayMeeting/) Documents for May 21 College Council and Faculy Senate meetings
+
+----
+
 New  [Guidance from CUNY  #12](CUNY/5-18-guidance-12) and  [link](/CUNY/guidance-12.pdf)
 
 [link](https://psc-cuny.org/issues/form/caravan-save-jobs-and-fund-cuny) CARAVAN to SAVE JOBS and FUND CUNY
@@ -71,6 +76,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [5/19 Exigency outlook](https://www.insidehighered.com/news/2020/05/19/college-leaders-consider-exigency-summer-nears-drawbacks-may-outweigh-benefits-many)
 * [5/19 Fall Scenarios](https://www.insidehighered.com/digital-learning/blogs/learning-innovation/15-fall-scenarios) 15 Fall Scenarios
 * [5/16 Advance article: College of Staten Island urged not to cut staff amid potential budget cuts](https://www.silive.com/coronavirus/2020/05/college-of-staten-island-urged-not-to-cut-staff-amid-potential-budget-cuts.html)
 * [5/16 Daily News article on  adjunct layoff plans](https://www.nydailynews.com/coronavirus/ny-coronavirus-cuny-adjuncts-20200515-44lr5omlgzdwbanuytf6ta75hi-story.html)
@@ -136,6 +142,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## PSC
 
+* [5/18 PSC Chair letter  to  Board and Chancellory](/PSC/5-18-psc-letter.pdf) 
 * [5/15 PSC  Car caravan](https://psc-cuny.org/issues/form/caravan-save-jobs-and-fund-cuny)
 * [5/12 Email from Chapter Chair on town hall, adjuncts](/PSC/5-12-cchair)
 * [5/11 PSC Chapter Chair's email  on adjuncts](/PSC/5-11-chapter) 
@@ -174,6 +181,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College matters
 
+* [5/19 email about VP of Facilities](College/5-19-president)
 * [5/18 email about the food pantry](College/5-18-pantry)
 * [5/18 email  about covid-19 cases  in the CSI community](/College/5-18-covid-cases) 
 * [5/14 Online tutoring](/College/5-14-tutoring.pdf)
