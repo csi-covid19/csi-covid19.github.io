@@ -1,3 +1,5 @@
+## Facilities Committee Report
+
 Meeting was held May 19th
 
 The committee discussed many topics. The following is listed in discussion order.

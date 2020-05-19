@@ -24,6 +24,7 @@
 * [Grad Studies](/CCFS/MayMeeting/fs-gsc.docx)
 * [FFP report](/CCFS/MayMeeting/fs-ffp.pdf)
 * [Library report](/CCFS/MayMeeting/fs-library.docx)
-
+* [Academic Technology Committee](/CCFS/MayMeeting/fs-atc-1.pdf) [ATC Committee 2](/CCFS/MayMeeting/fs-atc.pdf)
+* [Department of Nursing on CR/NCR  policy](/CCFS/MayMeeting/fs-cr.docx)
 
 
