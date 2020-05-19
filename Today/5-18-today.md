@@ -8,10 +8,34 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 ## College
 
+* [5/18 email  about covid-19 cases  in the CSI community](/College/5-18-covid-cases) 
+
 ## CUNY
+
+New [Guidance from CUNY  #12](/CUNY/5-18-guidance-12) and  [link](/CUNY/guidance-12.pdf). Including:
+
+#### Conversion to Distance Learning
+* Fall 2020 Term(s)
+*  Summer 2020 Term(s)
+* MSCHE Annual Institutional Update
+*  SPS Online Teaching Essentials
+#### Academic Policies, Requirements, and Deadlines
+* Final Exams for Developmental Courses
+*  CR/NC Grading Policy
+#### Shared Governance and HR Issues
+* Supplemental CUNY-PSC Agreement Regarding Adjunct Reappointment/Non-Reappointment Dates
+
+The UFS  chair notes:   under the "Conversion to Distance Learning" header, para 4 notes that on 5/15, the USDoE extended its waiver for the "conversion of in person courses/programs to distance education to Fall 2020 terms." With this waiver granted, NYSED shall soon grant its own waiver. Once both are granted, CUNY (and other institutions) will be permitted to offer courses currently registered as face-2-face with NYSED in fully online and/or hybrid formats.  As a public institution, the approval of the Governor would also be required.
+
+----
 
 
 ## News
+
+
+[link](https://www.insidernj.com/press-release/program-personnel-changes-kean-university-response-covid-19-pandemic/) Kean  Univeristy eliminated four chronically low-enrolled academic programs and their faculty, as well as six managers:
+ 
+The elimination of the University’s bachelor’s degree programs in music, sustainability sciences, theatre and economics will not impact current students who will be supported through their graduations. The program changes are expected to save the University more than \$2 million annually.
 
 * [5/16 Advance article: College of Staten Island urged not to cut staff amid potential budget cuts](https://www.silive.com/coronavirus/2020/05/college-of-staten-island-urged-not-to-cut-staff-amid-potential-budget-cuts.html)
 

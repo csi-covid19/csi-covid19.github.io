@@ -3,8 +3,11 @@
 !!! Note
 
 
+New  [Guidance from CUNY  #12](CUNY/5-18-guidance-12) and  [link](/CUNY/guidance-12.pdf)
+
 [link](https://psc-cuny.org/issues/form/caravan-save-jobs-and-fund-cuny) CARAVAN to SAVE JOBS and FUND CUNY
 
+[link](/College/5-18-covid-cases) Email about covid-19 cases  in the CSI community.
 
 [5/9 memo to CSI Chairs -- adjuncts cuts](/College/5-9-provost-adjuncts)
 
@@ -32,7 +35,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
-* [5/18 News of the day (in progress...)](Today/5-18-today)
+* [5/18 News of the day](Today/5-18-today)
 * [5/15 News of the day](Today/5-15-today)
 * [5/13 News of the day](Today/5-13-today)
 * [5/11 News of the day](Today/5-11-today)
@@ -169,6 +172,8 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College matters
 
+* [5/18 email about the food pantry](College/5-18-pantry)
+* [5/18 email  about covid-19 cases  in the CSI community](/College/5-18-covid-cases) 
 * [5/14 Online tutoring](/College/5-14-tutoring.pdf)
 * [5/12 email from President on the budget](/College/5-12-president)
 * [5/12 email from Provost to budget committee (CC) explaining adjunct budget adjustments](/College/5-12-provost)
@@ -274,6 +279,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 * [CUNY guidance website](https://www.cuny.edu/academics/faculty-affairs/faculty-related-academic-continuity-guidance/)
 
+* [5/18 Guidance from CUNY  #12](CUNY/5-18-guidance-12) and  [link](/CUNY/guidance-12.pdf)
 * [5/3  Guidaance from  CUNY #11](/College/5-3-update-11.pdf)
 * [4/22 Guidance from CUNY #10](/CUNY/4-22-guidance-10.pdf) 
 * [4/4 Guidance from CUNY #9](CUNY/4-4-guidance-9.pdf)
