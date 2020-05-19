@@ -35,6 +35,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [5/20 News of the day (in progres...)](Today/5-20-today)
 * [5/18 News of the day](Today/5-18-today)
 * [5/15 News of the day](Today/5-15-today)
 * [5/13 News of the day](Today/5-13-today)
@@ -70,6 +71,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [5/19 Fall Scenarios](https://www.insidehighered.com/digital-learning/blogs/learning-innovation/15-fall-scenarios) 15 Fall Scenarios
 * [5/16 Advance article: College of Staten Island urged not to cut staff amid potential budget cuts](https://www.silive.com/coronavirus/2020/05/college-of-staten-island-urged-not-to-cut-staff-amid-potential-budget-cuts.html)
 * [5/16 Daily News article on  adjunct layoff plans](https://www.nydailynews.com/coronavirus/ny-coronavirus-cuny-adjuncts-20200515-44lr5omlgzdwbanuytf6ta75hi-story.html)
 * [5/14 Gothamist opinion piece  on CUNY cuts](https://gothamist.com/news/cuny-adjunct-layoffs-are-already-happening-ahead-cuomos-expected-budget-cuts)
