@@ -9,7 +9,7 @@
 * [Minutes of April  meeting](/CCFS/MayMeeting/cc-minutes.docx)
 * [Chair's report](/CCFS/MayMeeting/cc-chair)
 * [Facilities report](/CCFS/MayMeeting/cc-facilities)
-
+* [Budget Committee report](/CCFS/MayMeeting/cc-budget)
 
 
 
