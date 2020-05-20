@@ -76,6 +76,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [5/20 How Will COVID-19 Affect Community College Funding?](https://ccrc.tc.columbia.edu/easyblog/community-college-funding-covid-19.html)
 * [5/19 Exigency outlook](https://www.insidehighered.com/news/2020/05/19/college-leaders-consider-exigency-summer-nears-drawbacks-may-outweigh-benefits-many)
 * [5/19 Fall Scenarios](https://www.insidehighered.com/digital-learning/blogs/learning-innovation/15-fall-scenarios) 15 Fall Scenarios
 * [5/16 Advance article: College of Staten Island urged not to cut staff amid potential budget cuts](https://www.silive.com/coronavirus/2020/05/college-of-staten-island-urged-not-to-cut-staff-amid-potential-budget-cuts.html)

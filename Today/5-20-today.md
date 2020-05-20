@@ -22,6 +22,9 @@ There is no justification for the terminations of employment and, in many cases,
 
 ## News
 
+* [link](https://ccrc.tc.columbia.edu/easyblog/community-college-funding-covid-19.html) How Will COVID-19 Affect Community College Funding?
+
+The CARES Act provided some relief to community colleges and their students, but the funding formula placed institutions that serve large numbers of part-time students at a disadvantage. Specifically, community colleges received only 21%, or $2.6 billion, of the $12.5 billion allocated to postsecondary education, even though they enroll over 40% of undergraduates.
 
  [link](https://www.insidehighered.com/news/2020/05/19/college-leaders-consider-exigency-summer-nears-drawbacks-may-outweigh-benefits-many) Insider  Higher Ed article on exigency -- retrenchment
  

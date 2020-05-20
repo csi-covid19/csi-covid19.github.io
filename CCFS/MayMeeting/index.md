@@ -5,11 +5,15 @@
 
 ## College Council Documents  (2:30)
 
-* [agenda](/CCFS/MayMeeting/cc-agenda.docx)
-* [Minutes of April  meeting](/CCFS/MayMeeting/cc-minutes.docx)
+* [Agenda and  minutes](/CCFS/MayMeeting/cc-agenda-minutes.docx)
 * [Chair's report](/CCFS/MayMeeting/cc-chair)
 * [Facilities report](/CCFS/MayMeeting/cc-facilities)
-* [Budget Committee report](/CCFS/MayMeeting/cc-budget)
+* [Budget Committee report (May 19)](/CCFS/MayMeeting/cc-budget)
+----
+* [Chair's Report (April)](/CCFS/MayMeeting/cc-chair-apr.docx)
+* [Budget Committee report (April 16)](/CCFS/MayMeeting/cc-budget.docx)
+* [HEO Steering Committee (4/20)](/CCFS/MayMeeting/cc-heo.docx)
+* [Auxiliary report (4/23)](/CCFS/MayMeeting/cc-aux.pdf)
 
 
 
