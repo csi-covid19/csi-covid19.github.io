@@ -182,6 +182,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College matters
 
+* [5/20 CSI Film Festival](College/5-20-film)
 * [5/19 email about VP of Facilities](College/5-19-president)
 * [5/18 email about the food pantry](College/5-18-pantry)
 * [5/18 email  about covid-19 cases  in the CSI community](/College/5-18-covid-cases) 
