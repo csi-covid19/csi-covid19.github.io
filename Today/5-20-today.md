@@ -19,6 +19,7 @@ There is no justification for the terminations of employment and, in many cases,
 
 ## CUNY
 
+* [5/20 virtual Celebration of the Book Completion Award Winners](/CUNY/5-20-virtual-book) [flyer](/CUNY/5-20-book.pdf)
 
 ## News
 

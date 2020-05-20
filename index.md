@@ -8,11 +8,6 @@
 
 ----
 
-New  [Guidance from CUNY  #12](CUNY/5-18-guidance-12) and  [link](/CUNY/guidance-12.pdf)
-
-[link](https://psc-cuny.org/issues/form/caravan-save-jobs-and-fund-cuny) CARAVAN to SAVE JOBS and FUND CUNY
-
-[link](/College/5-18-covid-cases) Email about covid-19 cases  in the CSI community.
 
 [5/9 memo to CSI Chairs -- adjuncts cuts](/College/5-9-provost-adjuncts)
 
@@ -31,6 +26,8 @@ Campus access is strictly regulated
 All persons entering campus must wear a facial protective barrier. [link](College/4-16-face-cover)
 
 ----
+
+[link](/College/5-18-covid-cases) Email about covid-19 cases  in the CSI community.
 
 [link](https://psc-cuny.org/InMemoriam) PSC  CUNY's in memoriam site
 
@@ -182,6 +179,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College matters
 
+* [5/20  Commencement news](College/5-20-commencement)
 * [5/20 CSI Film Festival](College/5-20-film)
 * [5/19 email about VP of Facilities](College/5-19-president)
 * [5/18 email about the food pantry](College/5-18-pantry)
@@ -346,6 +344,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## CUNY
 
+* [5/20 virtual Celebration of the Book Completion Award Winners](CUNY/5-20-virtual-book)
 * [5/15 chair  response to  JJ provost](/CUNY/5-15-jj.pdf) 
 * [5/8 memo to JJ Chairs -- no reappointment of 6-month adjuncts](5-11-jj.md)
 * [5/6 BCC values expressed in a time of crisis](/CUNY/5-6-bcc.pdf)
