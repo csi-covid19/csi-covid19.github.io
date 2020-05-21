@@ -38,27 +38,27 @@ College Council and Faculty Senate Executive Committee sent a  [letter](https://
 
 [Email](https://csi-covid19.github.io/CCFS/5-9-president) from president in response:
 
-I have given your letter serious consideration and must respectfully decline implementation of this approach. 
+>  I have given your letter serious consideration and must respectfully decline implementation of this approach. 
 
 ----
 
 [Email](https://csi-covid19.github.io/CCFS/5-9-CC-chair-response) from the College Council Chair to the President 
 
 
- The plan proposed by the College Council and Faculty Senate gave a mechanism and a foundation to give the campus meaningful input into the campus response, which due to the scale, must be widespread. Now you have personally assumed ownership of the process, its results, and the inevitable fallout.
+>   The plan proposed by the College Council and Faculty Senate gave a mechanism and a foundation to give the campus meaningful input into the campus response, which due to the scale, must be widespread. Now you have personally assumed ownership of the process, its results, and the inevitable fallout.
  
 ----
 
 [Memo to chairs](https://csi-covid19.github.io/College/5-9-provost-adjuncts/) 
  
- Carlos Serrano has provided each Dean with financial targets that show the dollar amounts that would correspond to a 35% cut within each school/division. The Deans have discretion to provide for variation within departments, but each school/division should aim to meet the specified targets for Fall 2020.
+> Carlos Serrano has provided each Dean with financial targets that show the dollar amounts that would correspond to a 35% cut within each school/division. The Deans have discretion to provide for variation within departments, but each school/division should aim to meet the specified targets for Fall 2020.
 
 
 ## May 12th
 
 5/12:  [Email](https://csi-covid19.github.io/College/5-12-president/)  from President on the budget
 
-we are exploring various budget scenarios. ...  I and my administrative team will continue to communicate and consult with these as well.
+>  we are exploring various budget scenarios. ...  I and my administrative team will continue to communicate and consult with these as well.
 
 
 Since that day, I have been involved in discussions at the IPC  and the Budget Committee. I believe it accurate to say that I have not heard any specific additional detail on further budget  reductions from the administration, though the  IPC  die  hear  very detailed   reports  on the costs  of  research  and  the costs  of instruction and the budget committee was solicited  for ideas on  savings  areas.
