@@ -27,6 +27,7 @@
 * [Minutes of April  meeting](/CCFS/MayMeeting/fs-minutes.docx)
 * Chair's report
 * [Research Committee Resolution](/CCFS/MayMeeting/fs-rc.docx)
+* [Research Committeed addendum](/CCFS/MayMeeting/fs-research-comm)
 * [Consent Agenda](/CCFS/MayMeeting/fs-consent.docx)
 * [Grad Studies](/CCFS/MayMeeting/fs-gsc.docx)
 * [FFP report](/CCFS/MayMeeting/fs-ffp.pdf)
