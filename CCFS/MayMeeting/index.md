@@ -36,7 +36,7 @@
 * [Academic Technology Committee Statement on Enrollment Caps](/CCFS/MayMeeting/fs-atc-1.pdf)
 * [Department of Nursing on CR/NCR  policy](/CCFS/MayMeeting/fs-cr.docx)
 
-
+* [UGCC comnment](/CCFS/MayMeeting/fs-ucc.pdf)
 ----
 
 * [5/21 email from Provost on State and Accrediting Body Guidance on grading policies](/College/5-21-provost-state)
