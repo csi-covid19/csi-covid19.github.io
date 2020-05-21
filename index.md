@@ -37,7 +37,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
-* [5/20 News of the day (in progres...)](Today/5-20-today)
+* [5/20 News of the day](Today/5-20-today)
 * [5/18 News of the day](Today/5-18-today)
 * [5/15 News of the day](Today/5-15-today)
 * [5/13 News of the day](Today/5-13-today)
@@ -73,6 +73,8 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [5/21  Nation article: If Cuomo Cuts Funding, CUNY Layoffs Will Be a ‘Bloodbath’](https://www.thenation.com/article/society/new-york-cuomo-cuny-cuts/)
+* [5/21 Another voice  against a tuition  increase](https://www.queenscountypolitics.com/2020/05/19/stavisky-students-request-cuny-tuition-hike-freeze/)
 * [5/20 How Will COVID-19 Affect Community College Funding?](https://ccrc.tc.columbia.edu/easyblog/community-college-funding-covid-19.html)
 * [5/19 Exigency outlook](https://www.insidehighered.com/news/2020/05/19/college-leaders-consider-exigency-summer-nears-drawbacks-may-outweigh-benefits-many)
 * [5/19 Fall Scenarios](https://www.insidehighered.com/digital-learning/blogs/learning-innovation/15-fall-scenarios) 15 Fall Scenarios
@@ -124,6 +126,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 ## College Council Faculty Senate
 
 * [5/13 email from Course and Standing committee on CR/NCR...](/College/5-13-cs)
+* [5/9 College Council Chair response to President Fritz](/CCSF/5-9-CC-chair-response)
 * [5/9 President Fritz email  on budget task force](/CCFS/5-9-president)
 * [5/9 President Fritz email  on clarity of process](/CCFS/5-9-president-2)
 * [5/7 Budget options for FGLs](/CCFS/5-7-budget.pdf)

@@ -9,6 +9,7 @@
 * [Chair's report](/CCFS/MayMeeting/cc-chair)
 * [Facilities report](/CCFS/MayMeeting/cc-facilities)
 * [Budget Committee report (May 19)](/CCFS/MayMeeting/cc-budget)
+* [Auxiliary report (5/21)](/CCFS/MayMeeting/cc-aux-report.docx)
 * [Resolution of Appreciation](/CCFS/MayMeeting/cc-fs-resolution.docx)
 ----
 * [Chair's Report (April)](/CCFS/MayMeeting/cc-chair-apr.docx)

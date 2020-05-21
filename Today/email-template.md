@@ -5,9 +5,7 @@ Could you arrange for this to be sent out to the College Council mailing list? M
 
 A summary of recent news over the past few days from various sources is now online at
 
-https://csi-covid19.github.io/Today/5-18-today/
-
-(I've also copied into the end of this message)
+https://csi-covid19.github.io/Today/5-20-today/
 
 
 This is taken from a running collection of news being compiled by the College Council and Faculty Senate Executive Committees at:
