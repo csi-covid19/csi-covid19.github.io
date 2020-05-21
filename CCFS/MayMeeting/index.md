@@ -36,3 +36,6 @@
 * [Department of Nursing on CR/NCR  policy](/CCFS/MayMeeting/fs-cr.docx)
 
 
+----
+
+* [5/21 email from Provost on State and Accrediting Body Guidance on grading policies](/College/5-21-provost-state)
