@@ -39,7 +39,7 @@ Meanwhile, the hope that the  second half of  the CARES act funding  (~6M) would
 
 Cuomo has governed New York state since 2011. State aid to CUNY, adjusted for inflation, has declined by nearly 5 percent during his tenure, though the state’s gross domestic product has increased.
 
-At the same time, CUNY tuition has steadily risen. A New York State resident who is a full-time student at a four-year CUNY school now pays $6,930 a year, up from $5,130 in 2011. New York’s Tuition Assistance Program, which provides aid to students below a certain income threshold, no longer covers the full cost of tuition, and Cuomo forces individual colleges to make up the difference. Another tuition increase of $200 per year, along with a $120 “health and wellness” fee, is set to be voted on by the CUNY Board of Trustees in June.
+At the same time, CUNY tuition has steadily risen. A New York State resident who is a full-time student at a four-year CUNY school now pays \$6,930 a year, up from \$5,130 in 2011. New York’s Tuition Assistance Program, which provides aid to students below a certain income threshold, no longer covers the full cost of tuition, and Cuomo forces individual colleges to make up the difference. Another tuition increase of \$200 per year, along with a \$120 “health and wellness” fee, is set to be voted on by the CUNY Board of Trustees in June.
 
 * [5/21 Another voice  against a tuition  increase](https://www.queenscountypolitics.com/2020/05/19/stavisky-students-request-cuny-tuition-hike-freeze/)
 

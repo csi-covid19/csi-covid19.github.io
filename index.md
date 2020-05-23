@@ -2,6 +2,21 @@
 
 !!! Note
 
+On 5/22, at  General Chairs  it was  announced that the Plan to  Eliminate the Gap
+
+* targeting non-reappointment - \$4.8M worth of adjuncts
+* Reduce NTAs - \$500,000  
+* CA budget by 2M – July 1 – 30% of budget. (~ 130  CAs)
+* \$500,000 from unsponsored research 
+* Gains from vacancies - +1.2 M from attrition; 
+* \$400,000 in savings from transportation – eliminate tax levy – because not students using. 
+* Energy savings – some energy savings - \$250,000 (or about 5%  of that budgett)
+
+
+(Contrast  to  the framework set out at [City  College](https://www.ccny.cuny.edu/presidentsoffice/blog/budget-memo-president-boudreau); [reduction framework](https://www.ccny.cuny.edu/presidentsoffice/blog/framework-budget-reductions))
+
+
+----
 
 [link]( https://www.psc-cuny.org/psc-impact-bargaining-proposals) The  PSC lists its proposals  including:
 
@@ -26,6 +41,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [5/25 News of the day (in progress)](Today/5-25-today)
 * [5/22 News of the day](Today/5-22-today)
 * [5/20 News of the day](Today/5-20-today)
 * [5/18 News of the day](Today/5-18-today)
@@ -337,6 +353,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## CUNY
 
+* [5/13 City  College Memo on budget](https://www.ccny.cuny.edu/presidentsoffice/blog/budget-memo-president-boudreau)
 * [5/20 virtual Celebration of the Book Completion Award Winners](CUNY/5-20-virtual-book)
 * [5/15 chair  response to  JJ provost](/CUNY/5-15-jj.pdf) 
 * [5/8 memo to JJ Chairs -- no reappointment of 6-month adjuncts](5-11-jj.md)
