@@ -3,17 +3,6 @@
 !!! Note
 
 
-
-[link](/CCFS/MayMeeting/) Documents for May 21 College Council and Faculy Senate meetings
-
-----
-
-
-[5/9 memo to CSI Chairs -- adjuncts cuts](/College/5-9-provost-adjuncts)
-
-Carlos Serrano has provided each Dean with financial targets that show the dollar amounts that would correspond to a 35% cut within each school/division. The Deans have discretion to provide for variation within departments, but each school/division should aim to meet the specified targets for Fall 2020.
-
-
 [link]( https://www.psc-cuny.org/psc-impact-bargaining-proposals) The  PSC lists its proposals  including:
 
 There will be no non-reappointments or dismissals of PSC-represented employees during the pandemic except for just cause, pursuant to Article 21 of the Collective Bargaining Agreement.
@@ -37,6 +26,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [5/22 News of the day](Today/5-22-today)
 * [5/20 News of the day](Today/5-20-today)
 * [5/18 News of the day](Today/5-18-today)
 * [5/15 News of the day](Today/5-15-today)

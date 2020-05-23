@@ -8,12 +8,29 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 ## College
 
+### College Council and  Faculty Senate meeting
+
+On 5/21 we had a  College Council meeting. In the  chairs  report we saw this prediction:
 
 
-## PSC
+> As for other less drastic means, I have yet to hear of contingency plans by the college beyond this, but you can be sure the next areas that **would** be announced come from the temporary personnel budget are: College Assistants, Graduate Assistants,  and research infrastructure  (animal lab facility, HPCC,...)
 
 
-## CUNY
+
+(Pardon the editorial   comments below,  but  it was  all  so predictable):
+
+On 5/22, at  General Chairs  it was  announced that the Plan to  Eliminate the Gap (PEG II, as we  already had   PEG):
+
+* targeting non-reappointment - \$4.8M worth of adjuncts
+* Reduce NTAs - \$500,000   (BTW,  graduate  students can be so  classified)
+* CA budget by 2M – July 1 – 30% of budget. That  is about  130  CAs!
+* 500,000 from unsponsored research (that is research infrastructure)
+* Gains from vacancies - +1.2 M from attrition; (that is  we  aren't replacing any faculty that separate)
+* \$400,000 in savings from transportation – eliminate tax levy – because not students using. (The students  will be paying for  less)
+* Energy savings – some energy savings - \$250,000 (or about 5%  of that budgett)
+
+
+Meanwhile, the hope that the  second half of  the CARES act funding  (~6M) would be directly beneficial for  the campus appears not  to  be  the case, as the college will  need  to demonstrate past or  future expenses related to the coronavirus. This may be a boon  for  addressing  infrastructure  needs, but less likely,  it  appears,  to address  the pending state budget cut to the tax levy allocation.
 
 
 ## News
