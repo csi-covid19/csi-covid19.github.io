@@ -80,6 +80,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+*  [5/26 PSC  Chapter Chair  email](/PSC/5-26-cchair)
 *  [5/26 Faculty union launches ad campaign opposing anticipated CUNY adjunct and part-time staff layoffs](https://www.amny.com/education-2/faculty-union-launches-ad-campaign-opposing-anticipated-cuny-adjunct-and-part-staff-layoffs/)
 * [5/24 Union Increases Pressure in Effort to Prevent CUNY Layoffs](https://www.ny1.com/nyc/all-boroughs/news/2020/05/23/union-increases-pressure-to-prevent-cuny-layoffs)
 * [5/24 PSC Blasts 'Horrible' CUNY Plan To Lay Off 437 John Jay Adjuncts](https://thechiefleader.com/news/news_of_the_week/psc-blasts-horrible-cuny-plan-to-lay-off-437-john-jay-adjuncts/article_8c10caa6-9c46-11ea-a0f6-ebc7157b7d80.html)

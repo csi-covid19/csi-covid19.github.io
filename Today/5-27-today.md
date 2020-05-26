@@ -8,7 +8,15 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 ## College
 
 
+##   PSC
+
+[5/26 PSC  Chapter Chair  email](/PSC/5-26-cchair)
+
+Clarifies the  PSC  position on a grade strike (defeated  twice by  vote)  and mentions  upcoming meeting  with President Fritz.
+
+
 ##  CUNY
+
 
 
 ## News
