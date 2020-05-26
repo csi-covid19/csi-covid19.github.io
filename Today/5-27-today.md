@@ -1,0 +1,26 @@
+# Recent news
+
+A summary of some new news related to CUNY's and CSI's response to the COVID-19 pandemic. See [https://csi-covid19.github.io](https://csi-covid19.github.io/) for the archive.
+
+To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
+
+
+## College
+
+
+##  CUNY
+
+
+## News
+
+	
+[5/26 Faculty union launches ad campaign opposing anticipated CUNY adjunct and part-time staff layoffs](https://www.amny.com/education-2/faculty-union-launches-ad-campaign-opposing-anticipated-cuny-adjunct-and-part-staff-layoffs/)
+
+
+>Despite funding from the CARES Act, which allocated $237 million to CUNY to split equally for direct student aid and institutional needs stemming from the pandemic, some faculty and CUNY colleges are preparing for the worst. Brooklyn College, College of Staten Island, John Jay College, and Queens College have all announced plans to make significant cuts to their adjunct faculty and part-time staff.  
+
+>“There is no justification for the terminations of employment and, in many cases, of health insurance that CUNY colleges have announced,” said President of the Professional Staff Congress Barbara Bowen.“Taking such actions at any time would be alarming; doing so in the midst of a pandemic after receiving hundreds of millions of dollars in federal aid is inexcusable. CUNY must do better.”
+
+[5/26 NYPost OPED: Top-earning public officials should cut their pay amid NY's fiscal crisis](https://nypost.com/2020/05/25/top-earning-public-officials-should-cut-pay-amid-nys-fiscal-crisis/)
+
+> And CUNY Chancellor Felix Matos Rodriguez’s salary is $623,500; joining the cap (200K maximum salary) could pay for a dozen adjunct profs.
