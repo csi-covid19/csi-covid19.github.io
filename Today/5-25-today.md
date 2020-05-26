@@ -8,7 +8,8 @@ https://www.ccny.cuny.edu/presidentsoffice/blog/framework-budget-reductions
 
 ## College
 
-### College Council and  Faculty Senate meeting
+The  opening up committee  is  now  full,  with 39  members, and  commences its work Tuesday May 26th.
+
 
 ##  CUNY
 
@@ -31,3 +32,18 @@ https://www.ccny.cuny.edu/presidentsoffice/blog/framework-budget-reductions
 
 
 ## News
+
+* [5/24 Union Increases Pressure in Effort to Prevent CUNY Layoffs](https://www.ny1.com/nyc/all-boroughs/news/2020/05/23/union-increases-pressure-to-prevent-cuny-layoffs)
+
+At the College of Staten Island, the plan calls for cutting the adjunct budget by 35%, according to Professor Michael Paris, chair of the political science department. He says it's the outcome of a process that has not been inclusive.
+
+“Nothing we’ve said about protecting the integrity of our program and protecting our students has made one damn bit of difference,” Paris said. 
+
+
+*  [PSC Blasts 'Horrible' CUNY Plan To Lay Off 437 John Jay Adjuncts](https://thechiefleader.com/news/news_of_the_week/psc-blasts-horrible-cuny-plan-to-lay-off-437-john-jay-adjuncts/article_8c10caa6-9c46-11ea-a0f6-ebc7157b7d80.html)
+
+Michael Paris, the chair of CSI’s Political Science and Global Affairs Department, said CUNY administrators told the college to find \$10 million in savings. He said he was told to come up with a list of adjuncts to be cut, but he and nine other chairs refused.
+
+“They worked their tails off all semester, and now this is such a slap in the face, to be targeted first and foremost for these deep cuts," he said, referring to CUNY’s shift to remote-learning this past March after campuses were closed because the number of coronavirus cases began to grow.
+
+Mr. Paris added that adjuncts were an “easy” target because of their part-time status. "We will not be complicit in this immoral and unnecessary decision," he said.

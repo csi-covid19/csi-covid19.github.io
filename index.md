@@ -41,7 +41,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
-* [5/25 News of the day (in progress)](Today/5-25-today)
+* [5/25 News of the day](Today/5-25-today)
 * [5/22 News of the day](Today/5-22-today)
 * [5/20 News of the day](Today/5-20-today)
 * [5/18 News of the day](Today/5-18-today)
@@ -79,6 +79,8 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [5/24 Union Increases Pressure in Effort to Prevent CUNY Layoffs](https://www.ny1.com/nyc/all-boroughs/news/2020/05/23/union-increases-pressure-to-prevent-cuny-layoffs)
+* [5/24 PSC Blasts 'Horrible' CUNY Plan To Lay Off 437 John Jay Adjuncts](https://thechiefleader.com/news/news_of_the_week/psc-blasts-horrible-cuny-plan-to-lay-off-437-john-jay-adjuncts/article_8c10caa6-9c46-11ea-a0f6-ebc7157b7d80.html)
 * [5/21  Nation article: If Cuomo Cuts Funding, CUNY Layoffs Will Be a ‘Bloodbath’](https://www.thenation.com/article/society/new-york-cuomo-cuny-cuts/)
 * [5/21 Another voice  against a tuition  increase](https://www.queenscountypolitics.com/2020/05/19/stavisky-students-request-cuny-tuition-hike-freeze/)
 * [5/20 How Will COVID-19 Affect Community College Funding?](https://ccrc.tc.columbia.edu/easyblog/community-college-funding-covid-19.html)
