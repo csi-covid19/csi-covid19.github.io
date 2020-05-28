@@ -29,6 +29,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [5/29 News of the day](Today/5-29-today)
 * [5/27 News of the day](Today/5-27-today)
 * [5/25 News of the day](Today/5-25-today)
 * [5/22 News of the day](Today/5-22-today)
@@ -68,6 +69,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [5/28  Facing Budget Cuts, CUNY May Keep Distance Learning Through "Virtual" Fall Semester](https://gothamist.com/news/facing-budget-cuts-cuny-may-keep-distance-learning-through-virtual-fall-semester)
 * [5/26 CUNY Distinguished faculty Ben  Lerner on the cuts](https://www.nytimes.com/2020/05/26/opinion/cuny-cuts-ben-lerner.html)
 * [5/26 PSC  Chapter Chair  email](/PSC/5-26-cchair)
 * [5/26 Faculty union launches ad campaign opposing anticipated CUNY adjunct and part-time staff layoffs](https://www.amny.com/education-2/faculty-union-launches-ad-campaign-opposing-anticipated-cuny-adjunct-and-part-staff-layoffs/)
@@ -108,7 +110,10 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## FAQ
 
-
+* [list  of colleges](https://www.chronicle.com/article/Here-s-a-List-of-Colleges-/248626/#.Xs_AoCt_sRs.email)
+* [cupahr.org resources](https://www.cupahr.org/knowledge-center/covid-19-resources/)
+* [US Chamber of Commerce reopening guidance](https://www.uschamber.com/article/state-by-state-business-reopening-guidance)
+* [CSI library coronavirus  FAQ](https://library.csi.cuny.edu/coronavirus)
 * [CSI FAQ](FAQ/frequently-asked-questions)
 * [CSI coronavirus message webpage](https://www.csi.cuny.edu/about-csi/president-leadership/office-president/presidential-communications/coronavirus-message)
 * [CUNY FAQ for faculty/staff](https://www.cuny.edu/coronavirus/faq-for-faculty-and-staff/)

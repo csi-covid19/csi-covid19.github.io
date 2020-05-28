@@ -22,15 +22,15 @@ At a  5/27  Town Hall over  250 members of the  community showed up. None were  
 
 The words "retrenchment" and "furlough" were used  as  an  alternate possibility  to  dramatic cuts to the temporary  personnel  budget   (Adjuncts, CAs, graduate  assistants, NTAs...). 
 
-In  comments  about the 5/27 P&B meeting, it was heard that 128 CAs were on the bubble; that the president wants  credit for saving money  on positions he chose not to  have but  is  "chartered" to have (whatevere that means); and that some feel  the  "consultation" process is not real.
+In  comments  about the 5/27 P&B meeting, it was heard that 128 CAs were on the bubble; that the president wants  credit for saving money  on positions he chose not to  have but  is  "chartered" to have (whatever that means); and that some feel  the  "consultation" process is not real.
 
 It was  heard  that  despite  calling 40+  people together  for the  reopening  committee  on  5/26;  at least   two   committees were being  formed in  parallel  for  research and  many  more  may  be needed.
 
-May 28th would have been our day for graduation and the announcement  of Dolphin Awards. Sadly these  seem to  have been an unitended victim of the pandemic.
+May 28th would have been our day for graduation and the awarding of Dolphin Awards. Sadly these  seem to  have been an unitended victim of the pandemic.
 
 ##   PSC
 
-[5/27 email  calling for special meeting](https://csi-covid19.github.io/PSC/5-27-meeting-call) Several members of the  college   community ask for a special meeting to,  the purpose of the meeting is  to debate  and vote on a resolution.
+	[5/27 email  calling for special meeting](https://csi-covid19.github.io/PSC/5-27-meeting-call) Several members of the  college   community ask for a special meeting to,  the purpose of the meeting is  to debate  and vote on a resolution.
 
 [5/26 PSC  Chapter Chair  email](https://csi-covid19.github.io/PSC/5-26-cchair)
 

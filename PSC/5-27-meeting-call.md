@@ -20,17 +20,17 @@ WHEREAS the wellbeing of the faculty and staff are inextricably linked to the we
 
 WHEREAS, the federal government has since March, 2020 given away trillions of dollars in public money to bankrupt banks and corporations, while draconian cuts are imposed on education and other public services, and 
 
-WHEREAS, America's billionaires, the largest recipients of this public money, saw their wealth increase by $434 billion during the course of the global pandemic, and  
+WHEREAS, America's billionaires, the largest recipients of this public money, saw their wealth increase by \$434 billion during the course of the global pandemic, and  
 
-WHEREAS, New York State has 122 billionaires with a total wealth of over $525 billion; the wealth of those in New York with over $2 Million in net worth is over $1 Trillion.
+WHEREAS, New York State has 122 billionaires with a total wealth of over \$525 billion; the wealth of those in New York with over \$2 Million in net worth is over \$1 Trillion.
 
-THEREFORE BE IT RESOLVED by the members of the College of Staten Island Chapter of the PSC that we join other workers in demanding that the State of New York TAKE BACK New York’s share of the trillions given to the rich by immediately imposing a graduated tax averaging 5% per annum on the wealth of all those with more than $2 million in net worth, and
+THEREFORE BE IT RESOLVED by the members of the College of Staten Island Chapter of the PSC that we join other workers in demanding that the State of New York TAKE BACK New York’s share of the trillions given to the rich by immediately imposing a graduated tax averaging 5% per annum on the wealth of all those with more than \$2 million in net worth, and
 
 RESOLVED that the members of the College of Staten Island Chapter of the PSC join with other workers to demand that these new taxes be used to finance a massive direct-government employment public works and services to guarantee  free, quality education through university, health care,  housing, mass transportation and clean energy—FOR ALL who live here, including all immigrants and the formerly incarcerated and,
 
 RESOLVED, that as immediate measures to prepare for such an expansion of public education, we demand that the college and university place an immediate and indefinite moratorium on all layoffs, furloughs, pay-cuts, and non-reappointments, and
 
-RESOLVED that we demand Equal Pay, Rights and Working Conditions for Equal Work—full time faculty, adjuncts, graduate students and staff. This means ending all two-tier and multi-tier schemes. No Pay Below $20 an hour. Adequate staffing in all areas and
+RESOLVED that we demand Equal Pay, Rights and Working Conditions for Equal Work—full time faculty, adjuncts, graduate students and staff. This means ending all two-tier and multi-tier schemes. No Pay Below \$20 an hour. Adequate staffing in all areas and
 
 RESOLVED that we demand compensation for hours spent transitioning to remote labor. We own all materials we produce for online work. 
 
