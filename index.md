@@ -2,18 +2,6 @@
 
 !!! Note
 
-On 5/22, at  General Chairs  it was  announced that the Plan to  Eliminate the Gap
-
-* targeting non-reappointment - \$4.8M worth of adjuncts
-* Reduce NTAs - \$500,000  
-* CA budget by 2M – July 1 – 30% of budget. (~ 130  CAs)
-* \$500,000 from unsponsored research 
-* Gains from vacancies - +1.2 M from attrition; 
-* \$400,000 in savings from transportation – eliminate tax levy – because not students using. 
-* Energy savings – some energy savings - \$250,000 (or about 5%  of that budgett)
-
-
-(Contrast  to  the framework set out at [City  College](https://www.ccny.cuny.edu/presidentsoffice/blog/budget-memo-president-boudreau); [reduction framework](https://www.ccny.cuny.edu/presidentsoffice/blog/framework-budget-reductions))
 
 
 ----
@@ -41,7 +29,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
-* [5/27 News of the day  (in progress...)](Today/5-27-today)
+* [5/27 News of the day](Today/5-27-today)
 * [5/25 News of the day](Today/5-25-today)
 * [5/22 News of the day](Today/5-22-today)
 * [5/20 News of the day](Today/5-20-today)
@@ -80,8 +68,9 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
-*  [5/26 PSC  Chapter Chair  email](/PSC/5-26-cchair)
-*  [5/26 Faculty union launches ad campaign opposing anticipated CUNY adjunct and part-time staff layoffs](https://www.amny.com/education-2/faculty-union-launches-ad-campaign-opposing-anticipated-cuny-adjunct-and-part-staff-layoffs/)
+* [5/26 CUNY Distinguished faculty Ben  Lerner on the cuts](https://www.nytimes.com/2020/05/26/opinion/cuny-cuts-ben-lerner.html)
+* [5/26 PSC  Chapter Chair  email](/PSC/5-26-cchair)
+* [5/26 Faculty union launches ad campaign opposing anticipated CUNY adjunct and part-time staff layoffs](https://www.amny.com/education-2/faculty-union-launches-ad-campaign-opposing-anticipated-cuny-adjunct-and-part-staff-layoffs/)
 * [5/24 Union Increases Pressure in Effort to Prevent CUNY Layoffs](https://www.ny1.com/nyc/all-boroughs/news/2020/05/23/union-increases-pressure-to-prevent-cuny-layoffs)
 * [5/24 PSC Blasts 'Horrible' CUNY Plan To Lay Off 437 John Jay Adjuncts](https://thechiefleader.com/news/news_of_the_week/psc-blasts-horrible-cuny-plan-to-lay-off-437-john-jay-adjuncts/article_8c10caa6-9c46-11ea-a0f6-ebc7157b7d80.html)
 * [5/21  Nation article: If Cuomo Cuts Funding, CUNY Layoffs Will Be a ‘Bloodbath’](https://www.thenation.com/article/society/new-york-cuomo-cuny-cuts/)
