@@ -143,6 +143,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## PSC
 
+* [5/27 email  calling for special meeting](/PSC/5-27-meeting-call)
 *  [5/26 Faculty union launches ad campaign opposing anticipated CUNY adjunct and part-time staff layoffs](https://www.amny.com/education-2/faculty-union-launches-ad-campaign-opposing-anticipated-cuny-adjunct-and-part-staff-layoffs/)
 * [5/18 PSC Chair letter  to  Board and Chancellory](/PSC/5-18-psc-letter.pdf) 
 * [5/15 PSC  Car caravan](https://psc-cuny.org/issues/form/caravan-save-jobs-and-fund-cuny)

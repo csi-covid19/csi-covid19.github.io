@@ -5,7 +5,7 @@ Could you arrange for this to be sent out to the College Council mailing list? M
 
 A summary of recent news over the past few days from various sources is now online at
 
-https://csi-covid19.github.io/Today/5-25-today/
+https://csi-covid19.github.io/Today/5-27-today/
 
 
 This is taken from a running collection of news being compiled by the College Council and Faculty Senate Executive Committees at:
@@ -15,48 +15,53 @@ https://csi-covid19.github.io/
 
 ----
 
+
 ## College
 
-The  opening up committee  is  now  full,  with 39  members, and  commences its work Tuesday May 26th.
+At a  5/27  Town Hall over  250 members of the  community showed up. None were  happy coming in and none had any reason to  be happy on leaving.
 
+The words "retrenchment" and "furlough" were used  as  an  alternate possibility  to  dramatic cuts to the temporary  personnel  budget   (Adjuncts, CAs, graduate  assistants, NTAs...). 
 
-##  CUNY
+In  comments  about the 5/27 P&B meeting, it was heard that 128 CAs were on the bubble; that the president wants  credit for saving money  on positions he chose not to  have but  is  "chartered" to have (whatevere that means); and that some feel  the  "consultation" process is not real.
 
-[City  College  Budget  Memo from their president](https://www.ccny.cuny.edu/presidentsoffice/blog/budget-memo-president-boudreau)  [Framework principles](https://www.ccny.cuny.edu/presidentsoffice/blog/framework-budget-reductions)
+It was  heard  that  despite  calling 40+  people together  for the  reopening  committee  on  5/26;  at least   two   committees were being  formed in  parallel  for  research and  many  more  may  be needed.
 
+May 28th would have been our day for graduation and the announcement  of Dolphin Awards. Sadly these  seem to  have been an unitended victim of the pandemic.
 
-> We have, in the past, waited too long to make the kinds of cuts necessary to navigate our crises.  We have also perhaps been insufficiently consultative.  I would like to do things differently this year—embarking upon an early effort to develop a strategy for next year and mobilizing the energies and commitments of the campus to achieve our goals. I am therefore launching a budget process that is both timely, clear-eyed, and open to the participation of the whole campus.  
+##   PSC
 
-> It is my hope that by acting early and moving as a campus, we will be able to do the best and fairest job possible. 
+[5/27 email  calling for special meeting](https://csi-covid19.github.io/PSC/5-27-meeting-call) Several members of the  college   community ask for a special meeting to,  the purpose of the meeting is  to debate  and vote on a resolution.
 
-> I am not able, at this moment, to present a fully realized budget plan for next year, and would not want to develop that plan without significant input from the campus. 
+[5/26 PSC  Chapter Chair  email](https://csi-covid19.github.io/PSC/5-26-cchair)
 
-> College-wide values during this crisis will be prioritized, at least preliminarily, in the following ways:
+Clarifies the  PSC  position on a grade strike (defeated  twice by  vote)  and mentions  upcoming meeting  with President Fritz.
 
-*  Teach every student admitted to the college, and make sure that, insofar as possible, the quality of our teaching is maintained. Do not interrupt progress to graduation.
-*  Preserve the employment of employees insofar as possible, and try to ensure the welfare of everyone in our community. Think about the relationship between salaries we can offer and public benefits so that nobody is left without some means of support.
-* Sustain research, writing, and the development of our intellectual life.
-*  Remain engaged with students, with public service efforts
 
 
 
 ## News
 
-* [5/24 Union Increases Pressure in Effort to Prevent CUNY Layoffs](https://www.ny1.com/nyc/all-boroughs/news/2020/05/23/union-increases-pressure-to-prevent-cuny-layoffs)
-
-At the College of Staten Island, the plan calls for cutting the adjunct budget by 35%, according to Professor Michael Paris, chair of the political science department. He says it's the outcome of a process that has not been inclusive.
-
-“Nothing we’ve said about protecting the integrity of our program and protecting our students has made one damn bit of difference,” Paris said. 
+[5/26 CUNY Distinguished faculty Ben  Lerner on the cuts](https://www.nytimes.com/2020/05/26/opinion/cuny-cuts-ben-lerner.html) (thanks  to Alyson B. for pointing this   out)
 
 
-*  [PSC Blasts 'Horrible' CUNY Plan To Lay Off 437 John Jay Adjuncts](https://thechiefleader.com/news/news_of_the_week/psc-blasts-horrible-cuny-plan-to-lay-off-437-john-jay-adjuncts/article_8c10caa6-9c46-11ea-a0f6-ebc7157b7d80.html)
+It doesn't take a Guggenheim Fellow  or MacArthur fellow to  know  this, but it helps get the impact across
 
-Michael Paris, the chair of CSI’s Political Science and Global Affairs Department, said CUNY administrators told the college to find \$10 million in savings. He said he was told to come up with a list of adjuncts to be cut, but he and nine other chairs refused.
+> ...Remaining classes will then  swell, which  is  bad for in-person education, but worse if classes  remain  online, as anybody who has tried to  teach on Zoom can attest.
 
-“They worked their tails off all semester, and now this is such a slap in the face, to be targeted first and foremost for these deep cuts," he said, referring to CUNY’s shift to remote-learning this past March after campuses were closed because the number of coronavirus cases began to grow.
+Cuts to the adjunct budget have *no other*  translation.
 
-Mr. Paris added that adjuncts were an “easy” target because of their part-time status. "We will not be complicit in this immoral and unnecessary decision," he said.
 
+	
+[5/26 Faculty union launches ad campaign opposing anticipated CUNY adjunct and part-time staff layoffs](https://www.amny.com/education-2/faculty-union-launches-ad-campaign-opposing-anticipated-cuny-adjunct-and-part-staff-layoffs/)
+
+
+>Despite funding from the CARES Act, which allocated \$237 million to CUNY to split equally for direct student aid and institutional needs stemming from the pandemic, some faculty and CUNY colleges are preparing for the worst. Brooklyn College, College of Staten Island, John Jay College, and Queens College have all announced plans to make significant cuts to their adjunct faculty and part-time staff.  
+
+>“There is no justification for the terminations of employment and, in many cases, of health insurance that CUNY colleges have announced,” said President of the Professional Staff Congress Barbara Bowen.“Taking such actions at any time would be alarming; doing so in the midst of a pandemic after receiving hundreds of millions of dollars in federal aid is inexcusable. CUNY must do better.”
+
+[5/26 NYPost OPED: Top-earning public officials should cut their pay amid NY's fiscal crisis](https://nypost.com/2020/05/25/top-earning-public-officials-should-cut-pay-amid-nys-fiscal-crisis/)
+
+> And CUNY Chancellor Felix Matos Rodriguez’s salary is \$623,500; joining the cap (200K maximum salary) could pay for a dozen adjunct profs.
 
 
 -----

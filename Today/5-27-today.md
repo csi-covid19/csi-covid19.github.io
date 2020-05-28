@@ -19,6 +19,8 @@ May 28th would have been our day for graduation and the announcement  of Dolphin
 
 ##   PSC
 
+[5/27 email  calling for special meeting](/PSC/5-27-meeting-call) Several members of the  college   community ask for a special meeting to,  the purpose of the meeting is  to debate  and vote on a resolution.
+
 [5/26 PSC  Chapter Chair  email](/PSC/5-26-cchair)
 
 Clarifies the  PSC  position on a grade strike (defeated  twice by  vote)  and mentions  upcoming meeting  with President Fritz.
