@@ -2,7 +2,15 @@
 
 !!! Note
 
+[5/28 Testimony by Chancellor to Reimagining Education Committee](/CUNY/5-28-testimony)
 
+We know there are many factors to be considered, and numerous entities to be aligned prior to deciding and communicating a final way forward for CUNY but I thought it would be good to share why our thinking today is that a mostly online semester is our most prudent option for the fall. We believe it is the best way for CUNY to secure safety, ensure equity, maintain academic momentum for our students and continue to be the nation’s leading engine of social mobility. It is consistent with the advice of an increasing number of health experts, and it is the course being adopted by institutions such as the California State University, the nation’s largest system of public higher education with 23 campuses and half a million students.
+
+ 
+
+Let me be clear that no final decision has been made but in determining what the best possible course of action for the Fall could be, we are considering a range of factors.
+
+**No decision until the ink dries**
 
 ----
 
@@ -354,6 +362,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## CUNY
 
+* [5/28 Testimony by Chancellor](/CUNY/5-28-testimony)
 * [5/13 City  College Memo on budget](https://www.ccny.cuny.edu/presidentsoffice/blog/budget-memo-president-boudreau)
 * [5/20 virtual Celebration of the Book Completion Award Winners](CUNY/5-20-virtual-book)
 * [5/15 chair  response to  JJ provost](/CUNY/5-15-jj.pdf) 
