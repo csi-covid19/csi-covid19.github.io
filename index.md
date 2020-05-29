@@ -41,7 +41,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
-* [5/29 News of the day  (in progress...)](Today/5-29-today)
+* [5/29 News of the day](Today/5-29-today)
 * [5/27 News of the day](Today/5-27-today)
 * [5/25 News of the day](Today/5-25-today)
 * [5/22 News of the day](Today/5-22-today)
@@ -164,6 +164,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## PSC
 
+*  [5/29 PSC Chair email](/PSC/5-29-psc)
 * [5/29 Adjunct agreement](/PSC/5-29-adjunct.pdf)
 * [5/27 email  calling for special meeting](/PSC/5-27-meeting-call)
 *  [5/26 Faculty union launches ad campaign opposing anticipated CUNY adjunct and part-time staff layoffs](https://www.amny.com/education-2/faculty-union-launches-ad-campaign-opposing-anticipated-cuny-adjunct-and-part-staff-layoffs/)
