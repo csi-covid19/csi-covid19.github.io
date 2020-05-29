@@ -22,9 +22,35 @@ Let me be clear that no final decision has been made but in determining what the
 
 ##   PSC
 
+[5/29 Adjunct agreement](/PSC/5-29-adjunct.pdf)
+
+Ajunct  appoints  letters  deferred...
 
 
 ## News
+
+[5/26 NYPOST: Behind Andrew Cuomo’s stall on slashing spending to balance NY’s budget](https://nypost.com/2020/05/26/behind-andrew-cuomos-stall-on-slashing-spending-to-balance-nys-budget/)
+
+The governor assumes that Republicans and Democrats in Washington will agree to a fourth huge stimulus bill, including general budget relief for states and localities. That’s probably a safe bet, although the final deal may not come until late June.
+
+Meanwhile, egged on by the state’s teachers’ unions, the Legislature’s income-redistribution fantasists have introduced bills they claim can balance the budget with massive tax hikes on “millionaires and billionaires.”
+
+Cuomo knows better. In the past, he has warned: “God forbid the rich leave” — and now, fleeing COVID-19, many have done just that. Fear of a resurgent ­virus, or the prospect of tax hikes, or both, could prompt more than a few to stay away.
+
+[5/28  Cutting us to the bone is no way to run a university system]( https://queenseagle.com/all/karen-weingarten-queens-college-cuny-cutting-to-the-bone)
+
+“We are at the bone,” she said, “There’s no more flesh.” (And that was then...)
+
+There was the time in 1976 when the state decided that Hunter and City College, the two original city universities, should cut their budgets by 10 percent, but Brooklyn and Queens, the newer kids on the block, would face a 15 percent cut. 
+
+In response, the Provost and all five Academic Deans of Queens College quit.
+
+[5/28 Amid the Pandemic, Some Universities Plan to Continue Tuition Hikes](https://diverseeducation.com/article/178588/)
+
+Despite student protests, the City University of New York (CUNY) system has yet to change course on a tuition increase approved before the pandemic, in December. In the 2020-2021 academic year, CUNY’s tuition will go up by $200 and it will charge an additional $120 ‘wellness fee.’
+
+In an interview with Spectrum News 1 earlier this month, CUNY chancellor Dr. Félix Matos Rodríguez acknowledged students’ financial struggles and that “the world is a different place today” than when the increase was proposed. However, “we’re also aware that the state, the city might be facing tough budgeting times. So, no decisions have been made about tuition for next year …” he said. “We are waiting to see what the landscape is closer to the end of June when we have to enact our budget to make that decision.”
+
 
 [5/28 Demanding End to 'Failed Billionaire-Backed' Policies...](https://www.commondreams.org/news/2020/05/26/demanding-end-failed-billionaire-backed-policies-200-teachers-and-activists-urge)
 
