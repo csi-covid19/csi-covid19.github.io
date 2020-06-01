@@ -126,6 +126,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## FAQ
 
+* [CSI Covid Cases graph (by Nora Santiago)]https://bit.ly/csicovid19)
 * [list  of colleges](https://www.chronicle.com/article/Here-s-a-List-of-Colleges-/248626/#.Xs_AoCt_sRs.email)
 * [cupahr.org resources](https://www.cupahr.org/knowledge-center/covid-19-resources/)
 * [US Chamber of Commerce reopening guidance](https://www.uschamber.com/article/state-by-state-business-reopening-guidance)
@@ -207,6 +208,8 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College matters
 
+* [6/1 Food Pantry email](/College/6-1-pantry)
+* [5/31 President email regarding George Floyd](/College/5-31-pres)
 * [5/20  Commencement news](College/5-20-commencement)
 * [5/20 CSI Film Festival](College/5-20-film)
 * [5/19 email about VP of Facilities](College/5-19-president)
@@ -317,6 +320,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 * [CUNY guidance website](https://www.cuny.edu/academics/faculty-affairs/faculty-related-academic-continuity-guidance/)
 
+* [5/31 Guidance from CUNY #13](/CUNY/guidance-13.pdf)
 * [5/18 Guidance from CUNY  #12](CUNY/5-18-guidance-12) and  [link](/CUNY/guidance-12.pdf)
 * [5/3  Guidaance from  CUNY #11](/College/5-3-update-11.pdf)
 * [4/22 Guidance from CUNY #10](/CUNY/4-22-guidance-10.pdf) 
@@ -336,6 +340,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## Technology matters
 
+* [6/1 Tech Training](/Technology/6-1-tech)
 * [5/8 Blackboard basics](Technology/5-8-tech.md)
 * [4/20 Tech training schedule](Technology/4-20-training)
 * [4/20 Maintaining balance workshop](Technology/4-20-balance)
@@ -408,6 +413,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## Calendar  of  announcements  outside  of CUNY
 
+* [5/30 Seton Hall plan to reopen](https://www.app.com/story/news/education/2020/05/27/seton-hall-coronavirus-fall-semester/5264854002/)
 * [5/15  MIT  gives  a  demonstration of disaster management](/News/5-15-mit-style)
 * [5/7 SUNY President letter on Fall](/CUNY/5-7-suny.pdf)
 * [3/20 NYS   on Pause announcement](News/3-20-NYS-on-Pause)
