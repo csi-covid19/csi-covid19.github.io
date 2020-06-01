@@ -77,8 +77,6 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 * [3/12 COVID case at Brooklyn](News/brooklyn-covid-3-13)
 * [3/10 COVID at John Jay](CUNY/3-10-john-jay)
 
-## Press
-
 ## News
 
 
@@ -165,6 +163,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## PSC
 
+* [6/1 Chapter Chair email](/PSC/6-1-cchair)
 *  [5/29 PSC Chair email](/PSC/5-29-psc)
 * [5/29 Adjunct agreement](/PSC/5-29-adjunct.pdf)
 * [5/27 email  calling for special meeting](/PSC/5-27-meeting-call)

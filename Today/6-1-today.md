@@ -21,6 +21,12 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 >  ... we continue to prepare for a Fall 2020 were the proportion of online courses and remote services will in all likelihood be higher than in the pre-COVID 19 era.
 
+## PSC
+
+[6/1 email from CSI Chapter Chair](/PSC/6-1-cchair)
+
+
+
 
 ## News
 
