@@ -4,7 +4,7 @@
 
 [link](/CUNY/guidance-13.pdf) CUNY releases guidance number 13
 
->  ... we continue to prepare for a Fall 2020 were the proportion of online courses and remote services will in all likelihood be higher than in the pre-COVID 19 era.
+>  ... we continue to prepare for a Fall 2020 where the proportion of online courses and remote services will in all likelihood be higher than in the pre-COVID 19 era.
 
 ---
 
