@@ -2,28 +2,12 @@
 
 !!! Note
 
-[5/29 Adjunct agreement](/PSC/5-29-adjunct.pdf)
+[link](/CUNY/guidance-13.pdf) CUNY releases guidance number 13
 
-Ajunct  appoints  letters  deferred...
+>  ... we continue to prepare for a Fall 2020 were the proportion of online courses and remote services will in all likelihood be higher than in the pre-COVID 19 era.
 
-[5/28 Testimony by Chancellor to Reimagining Education Committee](/CUNY/5-28-testimony)
+---
 
-We know there are many factors to be considered, and numerous entities to be aligned prior to deciding and communicating a final way forward for CUNY but I thought it would be good to share why our thinking today is that a mostly online semester is our most prudent option for the fall. We believe it is the best way for CUNY to secure safety, ensure equity, maintain academic momentum for our students and continue to be the nation’s leading engine of social mobility. It is consistent with the advice of an increasing number of health experts, and it is the course being adopted by institutions such as the California State University, the nation’s largest system of public higher education with 23 campuses and half a million students.
-
- 
-
-Let me be clear that no final decision has been made but in determining what the best possible course of action for the Fall could be, we are considering a range of factors.
-
-(No decision until the ink dries... ed.)
-
-----
-
-[link]( https://www.psc-cuny.org/psc-impact-bargaining-proposals) The  PSC lists its proposals  including:
-
-There will be no non-reappointments or dismissals of PSC-represented employees during the pandemic except for just cause, pursuant to Article 21 of the Collective Bargaining Agreement.
-	
-Class-size limits and minimum required class enrollments will not change from past practice for financial reasons during the COVID emergency. If social distancing is still required when on-site instruction resumes, the University will create additional faculty positions rather than reducing course offerings, increasing faculty workload or relying on technological solutions.
-----
 
 Campus access is strictly regulated
 
