@@ -1,0 +1,31 @@
+# Recent news
+
+A summary of some new news related to CUNY's and CSI's response to the COVID-19 pandemic. See [https://csi-covid19.github.io](https://csi-covid19.github.io/) for the archive.
+
+To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
+
+## College
+
+##  CUNY
+
+
+## PSC
+
+[6/2 email from Chair: the power of 30,000 union members....](/PSC/6-2-chair)
+
+
+
+
+## News
+
+
+* [6/3 Tax the rich to save CUNY: An economic and social justice imperative](https://www.nydailynews.com/opinion/ny-oped-tax-the-rich-to-save-cuny-20200603-75idlehjejbi5lwdrk6fcb7b2u-story.html)
+
+
+> Why is this happening? Instead of raising revenue from those who can afford it, the state may enact cuts as high as \$95 million from CUNY’s budget. And note, if CUNY were simply funded at the same per-student rate it received in the 1990s, its budget would be a billion dollars greater than it is now. Before 1975, a bachelor’s degree was free to residents of New York City; now it costs \$6,930 in-state and \$18,600 out-of-state.
+
+* [6/3  2,000 Instructors Tell Cuomo CUNY Must Be Protected From Budget Cuts](https://www.chronicle.com/article/2000-Instructors-Tell-Cuomo/248903)
+
+* [6/3 SUN Chief getting out of town before the budget axe swings](https://www.timesunion.com/news/article/SUNY-Chancellor-Kristina-Johnson-to-resign-15311801.php)
+
+[6/2 CUNY Moves Quickly to Distribute \$118M in Federal Aid Directly to Students at Same Time It Faces Ire Over Potentially Deep Course Cuts](https://www.the74million.org/article/cuny-moves-quickly-to-distribute-118m-in-federal-aid-directly-to-students-at-same-time-it-faces-ire-over-potentially-deep-course-cuts/)
