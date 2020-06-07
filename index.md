@@ -25,7 +25,8 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
-* [6/3 News of the day (in progress...)](Today/6-3-today)
+* [6/8 News of the day](Today/6-8-today)
+* [6/3 News of the day](Today/6-3-today)
 * [6/1 News of the day](Today/6-1-today)
 * [5/29 News of the day](Today/5-29-today)
 * [5/27 News of the day](Today/5-27-today)
@@ -65,6 +66,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [6/7  CUNY union fights adjunct job cuts](https://riverdalepress.com/stories/cuny-union-fights-adjunct-job-cuts,71936)
 * [6/3 Tax the rich to save CUNY: An economic and social justice imperative](https://www.nydailynews.com/opinion/ny-oped-tax-the-rich-to-save-cuny-20200603-75idlehjejbi5lwdrk6fcb7b2u-story.html)
 * [6/3  2,000 Instructors Tell Cuomo CUNY Must Be Protected From Budget Cuts](https://www.chronicle.com/article/2000-Instructors-Tell-Cuomo/248903)
 * [6/3 SUN Chief getting out of town before the budget axe swings](https://www.timesunion.com/news/article/SUNY-Chancellor-Kristina-Johnson-to-resign-15311801.php)
@@ -113,7 +115,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## FAQ
 
-* [CSI Covid Cases graph (by Nora Santiago)]https://bit.ly/csicovid19) ([backstory](https://csitoday.com/2020/05/nysbdc-leads-the-covid-19-economic-recovery/))
+* [CSI Covid Cases graph (by Nora Santiago)](https://bit.ly/csicovid19) ([backstory](https://csitoday.com/2020/05/nysbdc-leads-the-covid-19-economic-recovery/))
 * [list  of colleges](https://www.chronicle.com/article/Here-s-a-List-of-Colleges-/248626/#.Xs_AoCt_sRs.email)
 * [cupahr.org resources](https://www.cupahr.org/knowledge-center/covid-19-resources/)
 * [US Chamber of Commerce reopening guidance](https://www.uschamber.com/article/state-by-state-business-reopening-guidance)
