@@ -25,6 +25,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [6/10 News of the day](Today/6-10-today)
 * [6/8 News of the day](Today/6-8-today)
 * [6/3 News of the day](Today/6-3-today)
 * [6/1 News of the day](Today/6-1-today)
@@ -66,6 +67,8 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [6/10 Funding CCs post Covid](https://ccrc.tc.columbia.edu/easyblog/community-college-funding-covid-19.html)
+* [6/10 How CUNY helps dismantle racism](https://www.nydailynews.com/opinion/ny-oped-how-cuny-helps-dismantle-racism-20200610-4detwncevfhjdjtufcv4pvtliu-story.html)
 * [6/7  CUNY union fights adjunct job cuts](https://riverdalepress.com/stories/cuny-union-fights-adjunct-job-cuts,71936)
 * [6/3 Tax the rich to save CUNY: An economic and social justice imperative](https://www.nydailynews.com/opinion/ny-oped-tax-the-rich-to-save-cuny-20200603-75idlehjejbi5lwdrk6fcb7b2u-story.html)
 * [6/3  2,000 Instructors Tell Cuomo CUNY Must Be Protected From Budget Cuts](https://www.chronicle.com/article/2000-Instructors-Tell-Cuomo/248903)
@@ -154,6 +157,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## PSC
 
+* [6/10 email Fight this Friday](/PSC/6-10-fight)
 * [6/2 email from Chair: the power of 30,000 union members....](/PSC/6-2-chair)
 * [6/1 Chapter Chair email](/PSC/6-1-cchair)
 *  [5/29 PSC Chair email](/PSC/5-29-psc)
@@ -368,6 +372,9 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## CUNY
 
+
+* [6/10 State guidelines for opening  up  research](/CUNY/6-10-research-guidelines.pdf)
+* [6/9  Chancellor remarks on reopening](/CUNY/6-9-reopen)
 * [5/28 Testimony by Chancellor](/CUNY/5-28-testimony)
 * [5/13 City  College Memo on budget](https://www.ccny.cuny.edu/presidentsoffice/blog/budget-memo-president-boudreau)
 * [5/20 virtual Celebration of the Book Completion Award Winners](CUNY/5-20-virtual-book)

@@ -4,11 +4,6 @@ A summary of some new news related to CUNY's and CSI's response to the COVID-19 
 
 To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
-## College
-
-
-## PSC
-
 
 ## News
 
