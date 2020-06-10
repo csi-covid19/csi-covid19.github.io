@@ -157,6 +157,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## PSC
 
+* [6/10 email on charter revisions](/PCS/6-10-charter)
 * [6/10 email Fight this Friday](/PSC/6-10-fight)
 * [6/2 email from Chair: the power of 30,000 union members....](/PSC/6-2-chair)
 * [6/1 Chapter Chair email](/PSC/6-1-cchair)
@@ -203,6 +204,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College matters
 
+* [6/10 The opening up committee formed subcommittees.](/College/6-10-reentry.pptx) [charges](/College/6-10-charges.docx)
 * [6/1 Food Pantry email](/College/6-1-pantry)
 * [5/31 President email regarding George Floyd](/College/5-31-pres)
 * [5/20  Commencement news](College/5-20-commencement)

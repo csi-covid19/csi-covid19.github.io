@@ -7,13 +7,16 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 ## College
 
-
+[link](/College/6-10-reentry.pptx)The opening up committee formed subcommittees. [charges](/College/6-10-charges.docx)
 
 ## PSC
 
 * [6/10 email Fight this Friday](/PSC/6-10-fight)
 
 >  We want as many members as possible to be at a press conference on Friday at noon to show these legislators that there are thousands of us who are watching and who appreciate and need their continued support.
+
+* [6/10 email on charter revisions](/PCS/6-10-charter)
+
 
 ## CUNY
 
@@ -23,9 +26,18 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 > As you know all 12 sessions of our Summer Term are being conducted by distance learning, and student support services that are currently being provided remotely — including mental health counseling; advisement; library, enrollment management, and career engagement services; student life; development; and inclusion programming — will continue to be delivered in the same way until further notice.  
 
+Some reports presented to the Fiscal Affairs Committee, including current budget  numbers.
+
+[3rd Quarter Report](https://csi-covid19.github.io/CUNY/6-9-FY2020.pdf); [Fiscal Summary](https://csi-covid19.github.io/CUNY/6-9-fiscal-report.pdf)
+
+> The university is working with several colleges on multiyear plans to reduce structural deficits. These include John Jay College, Medgar Evers, College of Staten Island, York and Kingsborough. These plans include hiring restrictions, Other Than Personal Service (OTPS) spending reductions and improved revenue collections. Colleges are also receiving loans as temporary assistance that will enable them to restructure for financial stability.
+
+
+
 ## News
 
-* [6/10 How CUNY helps dismantle racism](https://www.nydailynews.com/opinion/ny-oped-how-cuny-helps-dismantle-racism-20200610-4detwncevfhjdjtufcv4pvtliu-story.html)
+* [6/10 How CUNY helps dismantle racism](https://www.nydailynews.com/opinion/ny-oped-how-cuny-helps-dismantle-racism-20200610-4detwncevfhjdjtufcv4pvtliu-story.htm
+l)
 
 
 * [6/10 Funding CCs post Covid](https://ccrc.tc.columbia.edu/easyblog/community-college-funding-covid-19.html)
