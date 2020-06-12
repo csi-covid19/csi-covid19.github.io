@@ -7,22 +7,22 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 ## College
 
-[link](/College/6-10-reentry.pptx)The opening up committee formed subcommittees. [charges](/College/6-10-charges.docx)
+[link](https://csi-covid19.github.io/College/6-10-reentry.pptx)The opening up committee formed subcommittees. [charges](https://csi-covid19.github.io/College/6-10-charges.docx)
 
 ## PSC
 
-* [6/10 email Fight this Friday](/PSC/6-10-fight)
+* [6/10 email Fight this Friday](https://csi-covid19.github.io/PSC/6-10-fight)
 
 >  We want as many members as possible to be at a press conference on Friday at noon to show these legislators that there are thousands of us who are watching and who appreciate and need their continued support.
 
-* [6/10 email on charter revisions](/PCS/6-10-charter)
+* [6/10 email on charter revisions](https://csi-covid19.github.io/PCS/6-10-charter)
 
 
 ## CUNY
 
-* [6/10 State guidelines for opening  up  research](/CUNY/6-10-research-guidelines.pdf)
+* [6/10 State guidelines for opening  up  research](https://csi-covid19.github.io/CUNY/6-10-research-guidelines.pdf)
 
-* [6/9  Chancellor remarks on reopening](/CUNY/6-9-reopen)
+* [6/9  Chancellor remarks on reopening](https://csi-covid19.github.io/CUNY/6-9-reopen)
 
 > As you know all 12 sessions of our Summer Term are being conducted by distance learning, and student support services that are currently being provided remotely — including mental health counseling; advisement; library, enrollment management, and career engagement services; student life; development; and inclusion programming — will continue to be delivered in the same way until further notice.  
 

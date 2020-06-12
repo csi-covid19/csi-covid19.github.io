@@ -67,6 +67,8 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [6/12 Challenges at CUNY](https://www.gothamgazette.com/state/9483-challenges-uncertainty-cuny-schools-students-faculty-staff-coronavirus)
+* [6/12 Wasted years of President Crew](https://www.bkreader.com/2020/06/11/an-open-letter-the-wasted-years-of-president-crew/)
 * [6/10 Funding CCs post Covid](https://ccrc.tc.columbia.edu/easyblog/community-college-funding-covid-19.html)
 * [6/10 How CUNY helps dismantle racism](https://www.nydailynews.com/opinion/ny-oped-how-cuny-helps-dismantle-racism-20200610-4detwncevfhjdjtufcv4pvtliu-story.html)
 * [6/7  CUNY union fights adjunct job cuts](https://riverdalepress.com/stories/cuny-union-fights-adjunct-job-cuts,71936)
