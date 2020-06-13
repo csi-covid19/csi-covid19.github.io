@@ -13,6 +13,10 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 ## CUNY
 
+[6/12 Lehman College President address](https://youtu.be/0yjBAykhGPA)
+
+Draft budget on CUNY First around June 15; 6/29 vote on the budget
+
 [6/13 Guidance from CUNY #14](/CUNY/6-13-guidance-14.pdf)
 
 > In order to begin reopening, the city, as with the other regions of New York State, was required to meet seven health-related metrics involving COVID-19 hospitalizations, testing and contact tracing. The plan’s stipulated trajectory prescribes the in-person reopening of educational institutions in the fourth and final phase, but there are important exceptions that could enable other facets of the University, such as research activity, to return sooner, if the city continues to meet all metrics.

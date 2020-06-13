@@ -374,7 +374,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## CUNY
 
-
+* [6/12 Lehman College President address](https://youtu.be/0yjBAykhGPA)
 * [6/10 State guidelines for opening  up  research](/CUNY/6-10-research-guidelines.pdf)
 * [6/9  Chancellor remarks on reopening](/CUNY/6-9-reopen)
 * [5/28 Testimony by Chancellor](/CUNY/5-28-testimony)

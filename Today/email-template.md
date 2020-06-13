@@ -5,56 +5,12 @@ Could you arrange for this to be sent out to the College Council mailing list? M
 
 A summary of recent news over the past few days from various sources is now online at
 
-https://csi-covid19.github.io/Today/6-10-today/
+https://csi-covid19.github.io/Today/6-12-today/
 
 
 This is taken from a running collection of news being compiled by the College Council and Faculty Senate Executive Committees at:
 
 https://csi-covid19.github.io/
-
------
-
-
-## College
-
-[link](https://csi-covid19.github.io/College/6-10-reentry.pptx) The opening up committee formed subcommittees. [charges](https://csi-covid19.github.io/College/6-10-charges.docx)
-
-## PSC
-
-* [6/10 email Fight this Friday](https://csi-covid19.github.io/PSC/6-10-fight)
-
->  We want as many members as possible to be at a press conference on Friday at noon to show these legislators that there are thousands of us who are watching and who appreciate and need their continued support.
-
-* [6/10 email on charter revisions](https://csi-covid19.github.io/PCS/6-10-charter)
-
-
-## CUNY
-
-* [6/10 State guidelines for opening  up  research](https://csi-covid19.github.io/CUNY/6-10-research-guidelines.pdf)
-
-* [6/9  Chancellor remarks on reopening](https://csi-covid19.github.io/CUNY/6-9-reopen)
-
-> As you know all 12 sessions of our Summer Term are being conducted by distance learning, and student support services that are currently being provided remotely — including mental health counseling; advisement; library, enrollment management, and career engagement services; student life; development; and inclusion programming — will continue to be delivered in the same way until further notice.  
-
-Some reports presented to the Fiscal Affairs Committee, including current budget  numbers.
-
-[3rd Quarter Report](https://csi-covid19.github.io/CUNY/6-9-FY2020.pdf); [Fiscal Summary](https://csi-covid19.github.io/CUNY/6-9-fiscal-report.pdf)
-
-> The university is working with several colleges on multiyear plans to reduce structural deficits. These include John Jay College, Medgar Evers, College of Staten Island, York and Kingsborough. These plans include hiring restrictions, Other Than Personal Service (OTPS) spending reductions and improved revenue collections. Colleges are also receiving loans as temporary assistance that will enable them to restructure for financial stability.
-
-
-
-## News
-
-* [6/10 How CUNY helps dismantle racism](https://www.nydailynews.com/opinion/ny-oped-how-cuny-helps-dismantle-racism-20200610-4detwncevfhjdjtufcv4pvtliu-story.htm
-l)
-
-
-* [6/10 Funding CCs post Covid](https://ccrc.tc.columbia.edu/easyblog/community-college-funding-covid-19.html)
-
-
-> The Great Recession brought many more students—and more state budget cuts—to community colleges. College leaders turned to tuition and fees, federal stimulus, and other revenue sources to partially make up for these state funding shortfalls. But the magnitude of the shocks caused by COVID-19 suggests that colleges may experience even steeper and more rapid cuts in state funding and be less able to draw on tuition and other revenue sources as a back-up this time around.
-
 
 
 -----
