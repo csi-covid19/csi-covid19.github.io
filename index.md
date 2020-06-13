@@ -2,9 +2,6 @@
 
 !!! Note
 
-[link](/CUNY/guidance-13.pdf) CUNY releases guidance number 13
-
->  ... we continue to prepare for a Fall 2020 where the proportion of online courses and remote services will in all likelihood be higher than in the pre-COVID 19 era.
 
 ---
 
@@ -15,7 +12,6 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ----
 
-[link](/College/5-18-covid-cases) Email about covid-19 cases  in the CSI community.
 
 [link](https://psc-cuny.org/InMemoriam) PSC  CUNY's in memoriam site
 
@@ -25,6 +21,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [6/12 News of the day](Today/6-12-today)
 * [6/10 News of the day](Today/6-10-today)
 * [6/8 News of the day](Today/6-8-today)
 * [6/3 News of the day](Today/6-3-today)
@@ -319,6 +316,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 * [CUNY guidance website](https://www.cuny.edu/academics/faculty-affairs/faculty-related-academic-continuity-guidance/)
 
+* [6/13 Guidance from CUNY #14](/CUNY/6-13-guidance-14.pdf)
 * [5/31 Guidance from CUNY #13](/CUNY/guidance-13.pdf)
 * [5/18 Guidance from CUNY  #12](CUNY/5-18-guidance-12) and  [link](/CUNY/guidance-12.pdf)
 * [5/3  Guidaance from  CUNY #11](/College/5-3-update-11.pdf)
