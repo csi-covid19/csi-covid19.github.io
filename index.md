@@ -3,6 +3,8 @@
 !!! Note
 
 
+From zero to hero at CUNY [...cheating on  final exams](https://nypost.com/2020/06/13/cuny-professors-uncover-scandalous-level-of-cheating-in-final-exams/)
+
 ---
 
 
@@ -21,6 +23,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [6/15 News of the day (in progress...)](Today/6-15-today)
 * [6/12 News of the day](Today/6-12-today)
 * [6/10 News of the day](Today/6-10-today)
 * [6/8 News of the day](Today/6-8-today)
@@ -64,6 +67,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [6/13 NY  Post article ...found a “scandalous” lack of academic integrity during recent final exams](https://nypost.com/2020/06/13/cuny-professors-uncover-scandalous-level-of-cheating-in-final-exams/)
 * [6/12 Challenges at CUNY](https://www.gothamgazette.com/state/9483-challenges-uncertainty-cuny-schools-students-faculty-staff-coronavirus)
 * [6/12 Wasted years of President Crew](https://www.bkreader.com/2020/06/11/an-open-letter-the-wasted-years-of-president-crew/)
 * [6/10 Funding CCs post Covid](https://ccrc.tc.columbia.edu/easyblog/community-college-funding-covid-19.html)
