@@ -23,7 +23,8 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
-* [6/15 News of the day (in progress...)](Today/6-15-today)
+* [6/17 News of the day (in progress...)](Today/6-17-today)
+* [6/15 News of the day](Today/6-15-today)
 * [6/12 News of the day](Today/6-12-today)
 * [6/10 News of the day](Today/6-10-today)
 * [6/8 News of the day](Today/6-8-today)
@@ -67,6 +68,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [6/16 Gotham Op Ed By G. Sanchez](https://www.gothamgazette.com/opinion/9497-having-a-child-arrested-peacefully-protesting-nypd)
 * [6/13 NY  Post article ...found a “scandalous” lack of academic integrity during recent final exams](https://nypost.com/2020/06/13/cuny-professors-uncover-scandalous-level-of-cheating-in-final-exams/)
 * [6/12 Challenges at CUNY](https://www.gothamgazette.com/state/9483-challenges-uncertainty-cuny-schools-students-faculty-staff-coronavirus)
 * [6/12 Wasted years of President Crew](https://www.bkreader.com/2020/06/11/an-open-letter-the-wasted-years-of-president-crew/)
@@ -142,6 +144,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College Council Faculty Senate
 
+* [6/15 email from UFS Research Foundation Faculty Advisory Council ](/CCFS/6-15-UFS-research)
 * [5/13 email from Course and Standing committee on CR/NCR...](/College/5-13-cs)
 * [5/9 College Council Chair response to President Fritz](/CCSF/5-9-CC-chair-response)
 * [5/9 President Fritz email  on budget task force](/CCFS/5-9-president)
@@ -160,6 +163,8 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## PSC
 
+* [6/16 email from Chair](/PSC/6-15-op-ed)
+* [6/15 email about press conference](/PSC/6-15-nc)
 * [6/10 email on charter revisions](/PCS/6-10-charter)
 * [6/10 email Fight this Friday](/PSC/6-10-fight)
 * [6/2 email from Chair: the power of 30,000 union members....](/PSC/6-2-chair)
@@ -207,6 +212,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College matters
 
+* [6/15 Food pantry updates](/College/6-15-food)
 * [6/10 The opening up committee formed subcommittees.](/College/6-10-reentry.pptx) [charges](/College/6-10-charges.docx)
 * [6/1 Food Pantry email](/College/6-1-pantry)
 * [5/31 President email regarding George Floyd](/College/5-31-pres)
@@ -414,6 +420,10 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 * [3/15 Chancellor telecommuting email](CUNY/chancellor-3-15)
 * [3/2 Chancellor email to CUNY](CUNY/chancellor-3-2)
 
+## NYS
+
+* [NYS Higher Ed reopening](https://www.governor.ny.gov/sites/governor.ny.gov/files/atoms/files/HigherEdResearch_ShortGuidelines.pdf)
+* [NYS Research reopening guidelines](https://csi-covid19.github.io/CUNY/6-10-research-guidelines.pdf)
 
 ## Calendar  of  announcements  outside  of CUNY
 
