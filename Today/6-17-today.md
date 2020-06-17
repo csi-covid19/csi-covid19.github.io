@@ -10,6 +10,7 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 [Illumira Video Repository Contract ending on June 30, 2020](/College/6-17-illumira) (You'll need to host  videos on  dropbox,zoom, ...)
  
  
+[View a long discussion   on CSI by CSIsolidarity](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/csisolidarity/q6MsAkX0QCI/9xPaFrs_AwAJ)
 
 ## PSC
 
