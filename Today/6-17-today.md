@@ -22,13 +22,17 @@ Rumor is  that the  Governor is hiring (has hired?)  consultants to  discuss whe
 
 ## News
 
-* [6/17 Safety plans border on delusional and could lead to outbreaks of Covid-19 among students, faculty and staff.](https://www.nytimes.com/2020/06/15/opinion/coronavirus-college-safe.html?smid=em-share) (Thanks  to A. Zimmerman)
+* [6/17 Safety plans border on delusional and could lead to outbreaks of Covid-19 among students, faculty and staff.](https://www.nytimes.com/2020/06/15/opinion/coronavirus-college-safe.html?smid=em-share) (hat tip  to A. Zimmerman)
+
+>  A number of American colleges and universities have decided to bring students back to campus this fall, believing they can diminish the risk of coronavirus transmission if everyone wears masks, uses hand sanitizer and social distances. Some schools also plan to reconfigure dorms to create family-sized clusters of uninfected students, who could socialize in relative safety, if only with their suite mates.
+
+> These plans are so unrealistically optimistic that they border on delusional and could lead to outbreaks of Covid-19 among students, faculty and staff.
 
 * [6/16 Gotham Op Ed By G. Sanchez](https://www.gothamgazette.com/opinion/9497-having-a-child-arrested-peacefully-protesting-nypd)
 
 > On Thursday, June 4 at the protest in Mott Haven for George Floyd’s murder at the knee of a police officer, my daughter, a 20-year-old Latina, and her three friends were about to leave as the time was approaching the 8 p.m. curfew. At 7:53 they found themselves completely surrounded by the NYPD, unaware of the “kettling” technique encircling them. They edged to the side but the police said “it’s too late.”
 
-* [6/5 oped in NYT on free college](https://www.nytimes.com/2020/06/05/opinion/sunday/free-college-tuition-coronavirus.html) (thanks to S. Toor)
+* [6/5 oped in NYT on free college](https://www.nytimes.com/2020/06/05/opinion/sunday/free-college-tuition-coronavirus.html) (hat  tip to S. Toor)
 
 > Will college be free under a Democratic president? Probably not. But we can reduce the bill significantly if we imagine that education as part of an economic New Deal. That means more than just making college free or inexpensive for most students. It means re-evaluating the place that higher education occupies in our society.
 

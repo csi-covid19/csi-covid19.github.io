@@ -23,7 +23,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
-* [6/17 News of the day (in progress...)](Today/6-17-today)
+* [6/17 News of the day](Today/6-17-today)
 * [6/15 News of the day](Today/6-15-today)
 * [6/12 News of the day](Today/6-12-today)
 * [6/10 News of the day](Today/6-10-today)
@@ -68,6 +68,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## News
 
+* [6/17 Safety plans border on delusional and could lead to outbreaks of Covid-19 among students, faculty and staff.](https://www.nytimes.com/2020/06/15/opinion/coronavirus-college-safe.html?smid=em-share)
 * [6/16 Gotham Op Ed By G. Sanchez](https://www.gothamgazette.com/opinion/9497-having-a-child-arrested-peacefully-protesting-nypd)
 * [6/13 NY  Post article ...found a “scandalous” lack of academic integrity during recent final exams](https://nypost.com/2020/06/13/cuny-professors-uncover-scandalous-level-of-cheating-in-final-exams/)
 * [6/12 Challenges at CUNY](https://www.gothamgazette.com/state/9483-challenges-uncertainty-cuny-schools-students-faculty-staff-coronavirus)
@@ -163,6 +164,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## PSC
 
+* [6/17 email about  a June 22 Chapter meeting](/PSC/6-17-psc)
 * [6/16 email from Chair](/PSC/6-15-op-ed)
 * [6/15 email about press conference](/PSC/6-15-nc)
 * [6/10 email on charter revisions](/PCS/6-10-charter)
@@ -212,6 +214,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## College matters
 
+*  [6/17 Illumira Video Repository Contract ending on June 30, 2020](/College/6-17-illumira) 
 * [6/15 Food pantry updates](/College/6-15-food)
 * [6/10 The opening up committee formed subcommittees.](/College/6-10-reentry.pptx) [charges](/College/6-10-charges.docx)
 * [6/1 Food Pantry email](/College/6-1-pantry)
