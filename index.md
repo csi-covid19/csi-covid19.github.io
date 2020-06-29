@@ -3,26 +3,16 @@
 !!! Note
 
 
-From zero to hero at CUNY [...cheating on  final exams](https://nypost.com/2020/06/13/cuny-professors-uncover-scandalous-level-of-cheating-in-final-exams/)
-
 ---
 
 
 Campus access is strictly regulated
 
-All persons entering campus must wear a facial protective barrier. [link](College/4-16-face-cover)
-
-----
-
-
-[link](https://psc-cuny.org/InMemoriam) PSC  CUNY's in memoriam site
-
-[link](https://www.dignitymemorial.com/obituaries/staten-island-ny/richard-currie-9136629​) Professor Richard Currie Memorial Site
-
-
 
 ## News
 
+* [6/29 News of the day](Today/6-29-today)
+* [6/19 News of the day](Today/6-19-today)
 * [6/17 News of the day](Today/6-17-today)
 * [6/15 News of the day](Today/6-15-today)
 * [6/12 News of the day](Today/6-12-today)
@@ -425,6 +415,7 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## NYS
 
+* [NYS Higher Ed guidelines](/NYS/6-26-state-guidelines.pdf)
 * [NYS Higher Ed reopening](https://www.governor.ny.gov/sites/governor.ny.gov/files/atoms/files/HigherEdResearch_ShortGuidelines.pdf)
 * [NYS Research reopening guidelines](https://csi-covid19.github.io/CUNY/6-10-research-guidelines.pdf)
 
@@ -446,6 +437,10 @@ All persons entering campus must wear a facial protective barrier. [link](Colleg
 
 ## How uncertainty in the budget is being handled elsewhere
 
+
+* [6/29 AAUP: Principles of Academic Governance during the COVID-19 Pandemic](https://www.aaup.org/news/principles-academic-governance-during-covid-19-pandemic#.Xvn_iihKhPY?link_id=3&can_id=d7d24a15fea3d53e023ed0939ba85395&source=email-aaup-releases-principles-on-academic-governance-during-the-covid-19-pandemic&email_referrer=email_845059&email_subject=aaup-releases-principles-on-academic-governance-during-the-covid-19-pandemic
+
+* [6/25 Rutgers holds off on raises](https://www.rutgersaaup.org/wp-content/uploads/securepdfs/2020/06/AAUP-AFT-letter-and-budget-statement.pdf)
 * [4/13 MIT  Community email](News/4-15-mit)
 * [3/30 Cornell budget  announcement](https://www.cornell.edu/coronavirus/statements-news/20200330-financial-impact.cfm)
 
