@@ -12,13 +12,13 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 ## PSC
 
-* [PSC says: Hundreds of layoffs threatened Tuesday.  Fight back!](/PSC/6-28-layoffs)
+* [PSC says: Hundreds of layoffs threatened Tuesday.  Fight back!](https://csi-covid19.github.io/PSC/6-28-layoffs)
 
 This [chart](https://www.psc-cuny.org/sites/default/files/AdjunctHealthInsurancePlanEligibilityFall2020Summary.pdf) shows the number of adjuncts who will lose health insurance benefits
 
 ## CUNY/NYS
 
-* [NYS Higher Ed guidelines](/NYS/6-26-state-guidelines.pdf)
+* [NYS Higher Ed guidelines](https://csi-covid19.github.io/NYS/6-26-state-guidelines.pdf)
 
 * CUNY Budget news:
 
@@ -27,7 +27,7 @@ We have heard that: colleges will be receiving a temporary allocation for FY20, 
 The state has the option of *adjusting* the budget 6/30. On 4/30 they exercised this option. No word as to this time.
 
 
-* [141 CUNY Researchers request  a call...](/UFS/6-29-research-zoom-call.pdf)  (to happend 6/30)
+* [141 CUNY Researchers request  a call...](https://csi-covid19.github.io/UFS/6-29-research-zoom-call.pdf)  (to happend 6/30)
 
 > It has been more than two weeks since NY State allowed academic research to re-open as part of phase 1 of the state re-opening plan, and yet our campus labs remain offline for research operations while numerous public and private peer institutions have done so. Meanwhile, progress towards reopening remains unclear to virtually all of us, leading to widespread frustration and concern.
 

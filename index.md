@@ -11,6 +11,7 @@ Campus access is strictly regulated
 
 ## News
 
+* [7/1 News of the day (in progress...)](Today/7-1-today)
 * [6/29 News of the day](Today/6-29-today)
 * [6/19 News of the day](Today/6-19-today)
 * [6/17 News of the day](Today/6-17-today)
@@ -135,6 +136,7 @@ Campus access is strictly regulated
 
 ## College Council Faculty Senate
 
+* [6/24 notes for Budget Committee](/CCFS/6-24-budget)
 * [6/15 email from UFS Research Foundation Faculty Advisory Council ](/CCFS/6-15-UFS-research)
 * [5/13 email from Course and Standing committee on CR/NCR...](/College/5-13-cs)
 * [5/9 College Council Chair response to President Fritz](/CCSF/5-9-CC-chair-response)
