@@ -157,6 +157,9 @@ Campus access is strictly regulated
 
 ## PSC
 
+* [7/2 email from PSC Chair](/PSC/7-2-chair)
+* [7/2 email from Chapter Chair](/PSC/7-2-cchair)
+* [7/1 PSC Sues CUNY](https://news.bloomberglaw.com/daily-labor-report/cuny-sued-by-union-over-staff-faculty-laid-off-during-pandemic)
 * [6/17 email about  a June 22 Chapter meeting](/PSC/6-17-psc)
 * [6/16 email from Chair](/PSC/6-15-op-ed)
 * [6/15 email about press conference](/PSC/6-15-nc)
