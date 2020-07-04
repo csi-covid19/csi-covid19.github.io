@@ -14,6 +14,8 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 ## PSC
 
+* [7/3 Gothamist article on lawsuit](https://gothamist.com/news/faculty-union-sues-cuny-demands-injunction-rehire-laid-adjuncts)
+
 * [7/1 PSC Sues CUNY](https://news.bloomberglaw.com/daily-labor-report/cuny-sued-by-union-over-staff-faculty-laid-off-during-pandemic)
 
 > COURT: S.D.N.Y; TRACK DOCKET: 1:20-cv-05060: The City University of New York violated its obligations under the Coronavirus Aid, Relief and Economic Security Act by laying off thousands of adjunct faculty and staff within weeks of being awarded \$251 million in relief money, according to a new suit filed in New York federal court Wednesday.
@@ -38,4 +40,22 @@ Includes very high level numbers for CUNY.
 
 
 ## News
+
+(Many thanks to Deborah Franzblau)
+
+* [7/3 Colleges Face Rising Revolt by Professors](https://www.nytimes.com/2020/07/03/us/coronavirus-college-professors.html) 
+
+> Thousands of instructors at American colleges and universities have told administrators in recent days that they are unwilling to resume in-person classes because of the pandemic.
+
+> More than three-quarters of colleges and universities have decided students can return to campus this fall. But they face a growing faculty revolt.
+
+* [Read the Cal State reopening policies](/News/7-3-csu-policy.pdf)
+
+> Limited Exceptions to Virtual Instruction
+
+> The granting of limited exceptions to permit in-person activities will be informed initially by consultation with academic senates, associated students, staff councils and union leadership, and align with local public health officials and government agencies, and will be based on compelling needs, while continuing to meet safety benchmarks.
+
+* [Read the SUNY petition](/News/7-3-SUNY-petition.pdf)
+
+> We call on incoming President Maurie McInnis and the Interim President Micheal Bernstein to immediately withdraw the recently announced proposed hybrid instructional plan and replace it with explicit policies for safe, equitable, and inclusive online-centric teaching as other major ​public universities have done.​ ​All classes, both undergraduate and graduate, should be taught remotely. The only exceptions are courses which cannot be adequately taught this way such as labs and experiential learning classes. Even for these courses, however, we call for full autonomy for faculty and students to opt for remote instruction if they so choose. This call aligns with​ UUP's telecommuting agreement with New York State​, which calls for telecommuting requests of employees to be granted to the greatest extent possible. Below are reasons why we have reached this conviction.
 
