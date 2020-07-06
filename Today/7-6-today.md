@@ -14,33 +14,24 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 ## PSC
 
-* [7/3 Gothamist article on lawsuit](https://gothamist.com/news/faculty-union-sues-cuny-demands-injunction-rehire-laid-adjuncts)
-
-* [7/1 PSC Sues CUNY](https://news.bloomberglaw.com/daily-labor-report/cuny-sued-by-union-over-staff-faculty-laid-off-during-pandemic)
-
-> COURT: S.D.N.Y; TRACK DOCKET: 1:20-cv-05060: The City University of New York violated its obligations under the Coronavirus Aid, Relief and Economic Security Act by laying off thousands of adjunct faculty and staff within weeks of being awarded \$251 million in relief money, according to a new suit filed in New York federal court Wednesday.
-
-* [7/2 email from Chapter Chair](/PSC/7-2-cchair)
-
-* [7/2 email from PSC Chair](/PSC/7-2-chair)
-
-> Yesterday was a shameful day for the CUNY administration. According to the information the union has, the University laid off nearly 3,000 employees and cut 422 from health insurance.
- 
-> Late last night, the PSC filed a major lawsuit against CUNY seeking an injunction against the layoffs.
-
-> And this week, the union's Executive Council decided that the PSC leadership and membership must also begin an assessment and systematic conversations with our members about escalating actions. It's time to talk seriously about whether the union needs to consider disruptive job action during the fall semester in order to save lives, save jobs and save CUNY. There will be extensive conversation with members about the risks and potential power of such action before any plans are made, but faced with a central administration that has failed to comply with state and federal safety requirements during the pandemic, that has dragged its feet in responding to the union's demands for contractual adjustments during the emergency, that has laid off close to 3,000 adjunct faculty and staff, and that has repeatedly failed to stand up for CUNY at a moment of unprecedented crisis, we decided that further escalation may be needed.
-
-> CUNY faculty and staff knew going into this summer that it would be a fight unlike any the PSC has seen since the 1975 fiscal crisis, a crisis that provided an excuse to begin the dismantling of CUNY. I believe we are united in the fight to prevent CUNY from being dismantled again. All of us are recovering from a traumatic spring and trying to respond to this moment of national grief, uprising and transformation. And 3,000 of us are absorbing the news of being laid off, sometimes after decades of service.
-
 ## CUNY/NYC/NYS
-
-* [7/2 City budget changes](/NYS/7-2-city-budget.pdf)
-
-Includes very high level numbers for CUNY.
 
 
 ## News
 
-(Many thanks to Catherine Lavender)
+* [ 7/6  Changing Course for the Fall](https://www.insidehighered.com/news/2020/07/06/coronavirus-roundup-surge-cases-forces-universities-change-their-fall-plans)
 
-* [7/2 Cornell University president makes the case for reopening in the fall](https://youtu.be/Xz9eMbr1Jqo)
+> Two universities that were planning on in-person fall terms are now backing away from those plans due to the rise in coronavirus cases, and a third university is shifting its second summer session courses online.
+
+> Meanwhile, Florida State University clarified that employees can care for children while working from home after facing a backlash over a memo it sent June 26 suggesting employees working remotely would need to secure childcare by Aug. 7.
+
+
+* [7/2 Cornell University president makes the case for reopening in the fall](https://youtu.be/Xz9eMbr1Jqo) (Many thanks to Catherine Lavender)
+
+
+* [7/5 College Is Worth It, but Campus Isn’t](https://www.nytimes.com/2020/06/29/business/college-campus-coronavirus-danger.html)  In print 7/5:
+
+> Colleges will have to look very different this fall if they are to avoid accelerating the pandemic. But financial and political pressures are forcing many schools to make choices involving difficult trade-offs between their students’ education, public health and their own economic well-being.
+
+> Colleges were among the first institutions to respond when much of the world went into lockdown this spring: Campuses closed, and students finished their interrupted semesters online. Now, college administrators are pondering how they will reboot this fall.
+
