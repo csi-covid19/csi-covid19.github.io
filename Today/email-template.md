@@ -5,7 +5,7 @@ Could you arrange for this to be sent out to the College Council mailing list? M
 
 A summary of recent news over the past few days from various sources is now online at
 
-https://csi-covid19.github.io/Today/7-1-today/
+https://csi-covid19.github.io/Today/7-3-today/
 
 
 This is taken from a running collection of news being compiled by the College Council and Faculty Senate Executive Committees at:
@@ -14,84 +14,6 @@ https://csi-covid19.github.io/
 
 
 -----
-
-
-
-## College
-
-
-
-* [6/24 notes for Budget Committee](https://csi-covid19.github.io/CCFS/6-24-budget)
-
-> We heard that the following was shared with P&B: **contingency** plans for bad scenarios include 3M reduction in the CA budget. (Emphasize, this is part of a plan and may not come to pass). (3M in CAs is *about* 200 1020-hour lines).
-
-(Sadly, this does appear to be happening...)
-
-
-[CSI website on   why  race matters](https://library.csi.cuny.edu/racematters/)  (thanks Wilma)
-
-
-
-## UFS
-
-* [7/1 UFS Research Committee query](https://csi-covid19.github.io/CUNY/7-1-rf) Please weigh in on
-
-> We write to ask about the “Procuring Cloud-Based Applications and Services” policy that seems to have recently appeared on the RF website: https://www.rfcuny.org/RFWebsite/principal-investigators/procuring-goods-services/procuring-cloud-based-applications-and-services/
-
-
-## PSC
-
-* [Concerned About Layoffs and Safety, PSC Takes to the Streets](https://thechiefleader.com/news/news_of_the_week/concerned-about-layoffs-and-safety-psc-takes-to-the-streets/article_2896dc14-b7fc-11ea-bd4e-db4554232cb7.html)
-
-## CUNY/NYC/NYS
-
-* [Adopted Expense Budget Adjustment](/NYS/7-1-city-budget-addons.pdf)The NYC budget has been passed. For you policy wonks, have a read at the member items. CSI did not get its big ask funded, but does get support for several things.
-
-> Each year, Council Members allocate discretionary funds to not-for-profit organizations and designate funding directly to City agencies in order to meet local needs and fill gaps in City services. While not a large part of the budget, this funding allows the City to take advantage of Council Members’ localized knowledge to better target services to residents.  
-
-Here we can find for CUNY, several things, including good news on:
-
-> (p4) LGBTQ Rights – Particularly during Pride, the Council is proud that the budget will include \$1.8 million for the LGBTQ curriculum at the DOE and \$1 million at the City University of New York (CUNY), as well as \$1.4 million for LGBTQ senior services in every borough and \$1.9 million for Trans Equity Programs.
-
-> (p5) Helping College Students Graduate – Because of the Council’s Advocacy, the CUNY Accelerated Study in Associate Programs (ASAP) will be maintained with \$34.3 million to help students stay on track and graduate and the CUNY Remediation Program will be funded at \$1.7 million.
-
-> (p31) This funding supports programs that expand access to healthy food and improve understanding of nutrition and wholesome food choices, while engaging communities to make positive changes related to food and lifestyle to improve health outcomes. Efforts include farmers markets, urban farms, community gardens, programs to expand the use of SNAP benefits for healthier, less processed food, and educational workshops and training programs. ... Funding of \$1 million supports the continuation of the pilot program at CUNY to increase food access for food insecure CUNY students.
-
-
-> (p44) \$20,924,719 for Peter F. Vallone Academic Scholarship; CUNY Research Institutes; CUNY School of Labor and Urban Studies (SLU); CUNY Child Care Expansion; Creative Arts Team (CUNY CAT); CUNY Diversity Incubator
-
-> (p55) 3M for CUNY Citizenship NOW! Program 
-
-> (p82) 1.19M for Create New Technology Incubators 
-
-> (p86) 0.146M for Worker Cooperative Business Development Initiative
-
-> (p89) 0.225M for Veterans Community Development 
-
-> (p95) 0.425M for Afterschool Enrichment Initiative 
-
-And several specific items in an appendix starting on p56
-
-
-
-## News
-
-* [Looming Budget Cuts Threaten Proven Program](https://www.insidehighered.com/news/2020/06/30/experts-worry-proposed-cuts-cuny-asap-foreshadow-trend-higher-ed)
-
-> A City University of New York program considered a national model for improving graduation rates of disadvantaged students is facing budget cuts. Higher ed experts worry this may be the first of many disinvestments in student success due to the recession caused by the pandemic.
-
-Rumor, err the [NY Post](https://nypost.com/2020/06/29/details-de-blasio-council-near-budget-deal-with-1-billion-nypd-cut/) has it this funding was restored, but we will know more soon.
-
-
-
-* [Cuomo’s Budget Strategy: A Long Game Of Chicken With Donald Trump](https://gothamist.com/news/cuomos-budget-strategy-a-long-game-of-chicken-with-donald-trump)
-
-> Since Governor Andrew Cuomo announced in April that New York State’s budget could be slashed by as much as \$10 billion because of the pandemic, local governments across the state have been left to wonder how much money would be left over for public schools, transportation, roadways, and social services when the cutting is done.
-
-> Two months later, they still have no idea. 
-
-
-----
 
 If you wish to highlight any information for the college community, please share with John Verzani <jverzani@gmail.com>.
 
