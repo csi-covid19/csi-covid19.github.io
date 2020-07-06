@@ -61,6 +61,7 @@ Campus access is strictly regulated
 
 ## News
 
+* [7/6 As Covid-19 Pummels Budgets, Colleges Are Resorting to Layoffs and Furloughs.](https://www.chronicle.com/article/As-Covid-19-Pummels-Budgets/248779)
 * [6/17 Safety plans border on delusional and could lead to outbreaks of Covid-19 among students, faculty and staff.](https://www.nytimes.com/2020/06/15/opinion/coronavirus-college-safe.html?smid=em-share)
 * [6/16 Gotham Op Ed By G. Sanchez](https://www.gothamgazette.com/opinion/9497-having-a-child-arrested-peacefully-protesting-nypd)
 * [6/13 NY  Post article ...found a “scandalous” lack of academic integrity during recent final exams](https://nypost.com/2020/06/13/cuny-professors-uncover-scandalous-level-of-cheating-in-final-exams/)
@@ -327,6 +328,7 @@ Campus access is strictly regulated
 
 * [CUNY guidance website](https://www.cuny.edu/academics/faculty-affairs/faculty-related-academic-continuity-guidance/)
 
+* [7/6  Guidance from CUNY #15](/CUNY/7-6-guidance-15.pdf)
 * [6/13 Guidance from CUNY #14](/CUNY/6-13-guidance-14.pdf)
 * [5/31 Guidance from CUNY #13](/CUNY/guidance-13.pdf)
 * [5/18 Guidance from CUNY  #12](CUNY/5-18-guidance-12) and  [link](/CUNY/guidance-12.pdf)

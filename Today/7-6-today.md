@@ -16,8 +16,30 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 ## CUNY/NYC/NYS
 
+* [7/6  Guidance from CUNY #15](/CUNY/7-6-guidance-15.pdf)
+
+Guidance #15 is out from CUNY with some new things:
+
+> NEW Zoom: We are in negotiation with Zoom for an enterprise contract for Zoom Education License for CUNYwide access. Zoom was identified by many CUNY faculty as the preferred platform to supplement Blackboard Collaborate for video-based classes. The current proposal also includes Zoom accounts for CUNY students so they can host their own Zoom virtual meetings for group work, student organization meetings or social activities. Our CUNY partners are all working to complete this procurement and have the accounts implemented for Fall Semester.
+
+> NEW Labster: Labster is web based virtual laboratory solution to provide an alternative experiential learning environmentforactivitiesthatwouldnormallytakeplaceincampussciencelabs. TheLabstersystemhasbeen licensed for eleven campuses that indicated need and will be deployed through Blackboard Integration for the Fall Semester. Labster will also provide direct support for faculty to integrate the Labster simulations into specific courses. More information will be forthcoming through campus CIOs and Centers for Teaching and Learning.
+
+> NEW Camtasia and SnagIt: We have begun negotiation with TechSmith, the publisher of Camtasia and Snagit, for a university wide license for these powerful online content development tools to ensure they are available to all university faculty to enrich and enhance online instruction offerings. We hope to have this procurement completed in time for Fall Semester.
+
+
+> NEW Domestic Travel: Student and employee domestic travel should be postponed until further notice.
+
+> NEW Considerations for International Students and Scholars: ...
+
+> NEW Admissions Policy – Nursing Programs: ...
+
+
 
 ## News
+
+* [7/6 As Covid-19 Pummels Budgets, Colleges Are Resorting to Layoffs and Furloughs.](https://www.chronicle.com/article/As-Covid-19-Pummels-Budgets/248779)
+
+> The Chronicle has identified 224 institutions associated with a layoff, a furlough, or a contract nonrenewal resulting from Covid-19. At least 51,793 employees in academe are known to have been affected by those actions. 
 
 * [ 7/6  Changing Course for the Fall](https://www.insidehighered.com/news/2020/07/06/coronavirus-roundup-surge-cases-forces-universities-change-their-fall-plans)
 
