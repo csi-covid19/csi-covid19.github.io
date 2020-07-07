@@ -431,6 +431,7 @@ Campus access is strictly regulated
 
 ## Calendar  of  announcements  outside  of CUNY
 
+* [7/7 MIT decision](News/7-7-mit)
 * [7/6 Ivys weigh in](https://www.washingtonpost.com/education/2020/07/06/harvard-reopen-with-fewer-than-half-undergrads-campus-because-coronavirus/)
 * [7/2 Cornell University president makes the case for reopening in the fall](https://youtu.be/Xz9eMbr1Jqo)
 * [7/3  Read the Cal State reopening policies](/News/7-3-csu-policy.pdf)
