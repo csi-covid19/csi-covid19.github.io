@@ -8,7 +8,7 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 ## College
 
 
-* [7/6: Notes from the 6/23 meeting between the College Council Executive Committee and the President and Provost](/CCFS/6-23-cc-xc-president.md)
+* [7/6: Notes from the 6/23 meeting between the College Council Executive Committee and the President and Provost](/CCFS/6-23-cc-xc-president)
 
 These include plans at the Cabinet level to create an *interim* position of Vice Presdient for  Budget Strategy and External Affairs rather than leave vacant the position of Vice President for Economic Development, Continuing Studies, and Government Relations.
 
