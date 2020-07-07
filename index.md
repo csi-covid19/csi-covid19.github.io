@@ -11,7 +11,7 @@ Campus access is strictly regulated
 
 ## News
 
-* [7/6 News of the day  (in progress)](Today/7-6-today)
+* [7/6 News of the day](Today/7-6-today)
 * [7/3 News of the day](Today/7-3-today)
 * [7/1 News of the day](Today/7-1-today)
 * [6/29 News of the day](Today/6-29-today)
@@ -431,6 +431,7 @@ Campus access is strictly regulated
 
 ## Calendar  of  announcements  outside  of CUNY
 
+* [7/6 Ivys weigh in](https://www.washingtonpost.com/education/2020/07/06/harvard-reopen-with-fewer-than-half-undergrads-campus-because-coronavirus/)
 * [7/2 Cornell University president makes the case for reopening in the fall](https://youtu.be/Xz9eMbr1Jqo)
 * [7/3  Read the Cal State reopening policies](/News/7-3-csu-policy.pdf)
 * [5/30 Seton Hall plan to reopen](https://www.app.com/story/news/education/2020/05/27/seton-hall-coronavirus-fall-semester/5264854002/)

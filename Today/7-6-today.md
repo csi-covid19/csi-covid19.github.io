@@ -8,11 +8,11 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 ## College
 
 
+* [7/6: Notes from the 6/23 meeting between the College Council Executive Committee and the President and Provost](/CCFS/6-23-cc-xc-president.md)
+
+These include plans at the Cabinet level to create an *interim* position of Vice Presdient for  Budget Strategy and External Affairs rather than leave vacant the position of Vice President for Economic Development, Continuing Studies, and Government Relations.
 
 
-## UFS
-
-## PSC
 
 ## CUNY/NYC/NYS
 
@@ -29,13 +29,28 @@ Guidance #15 is out from CUNY with some new things:
 
 > NEW Domestic Travel: Student and employee domestic travel should be postponed until further notice.
 
-> NEW Considerations for International Students and Scholars: ...
-
 > NEW Admissions Policy – Nursing Programs: ...
+
+> NEW Considerations for International Students and Scholars: 
+
+Here we find:
+
+> The waiver from the Student Exchange and Visitor Program (SEVP) allowing international students to participate in distance learning must be renewed for fall 2020 to allow current arrangements for continuing students to be sustained. Updates will be disseminated here and with College International Student Advisors.
+
+However, there are huge issues, it appears [WSJ](https://www.wsj.com/articles/new-rules-detail-how-foreign-students-canand-canttake-classes-at-u-s-colleges-this-fall-11594056119) where:
+
+> International students **can’t** take all their classes online if their college offers a mix of on-campus and remote classes, according to new guidelines from Immigration and Customs Enforcement,
+
 
 
 
 ## News
+
+* [7/6 Ivys weigh in](https://www.washingtonpost.com/education/2020/07/06/harvard-reopen-with-fewer-than-half-undergrads-campus-because-coronavirus/)
+
+> The Harvard and Princeton plans resemble others that have been unveiled in recent days by prominent residential universities. But there are vast differences in approach among schools nationwide. Some are bringing nearly all students back to campus for at least some face-to-face instruction, while others are planning for nearly all courses to be remote.
+
+
 
 * [7/6 As Covid-19 Pummels Budgets, Colleges Are Resorting to Layoffs and Furloughs.](https://www.chronicle.com/article/As-Covid-19-Pummels-Budgets/248779)
 
