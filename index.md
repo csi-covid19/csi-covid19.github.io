@@ -11,6 +11,7 @@ Campus access is strictly regulated
 
 ## News
 
+* [7/8 News of the day (in progress...)](Today/7-8-today)
 * [7/6 News of the day](Today/7-6-today)
 * [7/3 News of the day](Today/7-3-today)
 * [7/1 News of the day](Today/7-1-today)
@@ -160,6 +161,7 @@ Campus access is strictly regulated
 
 ## PSC
 
+* [7/7 Summer of struggle email by PSC](/PSC/7-7-summer)
 * [7/2 email from PSC Chair](/PSC/7-2-chair)
 * [7/2 email from Chapter Chair](/PSC/7-2-cchair)
 * [7/1 PSC Sues CUNY](https://news.bloomberglaw.com/daily-labor-report/cuny-sued-by-union-over-staff-faculty-laid-off-during-pandemic)
@@ -387,6 +389,7 @@ Campus access is strictly regulated
 
 ## CUNY
 
+* [7/7 Chancellor's response to ICE ruling](/CUNY/7-7-chancellor)
 * [6/12 Lehman College President address](https://youtu.be/0yjBAykhGPA)
 * [6/10 State guidelines for opening  up  research](/CUNY/6-10-research-guidelines.pdf)
 * [6/9  Chancellor remarks on reopening](/CUNY/6-9-reopen)
