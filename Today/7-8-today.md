@@ -18,6 +18,8 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 ## CUNY/NYC/NYS
 
+* [7/7 Zoom meeting at GC for CUNY students on the 8th](/CUNY/7-8-zoom-meeting)
+
 * [7/7 Chancellor's response to ICE ruling](/CUNY/7-7-chancellor)
 
 > ... CUNY campuses have thousands of international students whose status is threatened by the new rule. These students are a valuable and a vital part of our community.  I have instructed my administration to explore and pursue measures that would help these students remain in the country and continue their education at CUNY. We will also be joining forces with other universities and national organizations to further support those affected by these restrictions and pursue all viable legal remedies to humanize these rules.

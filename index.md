@@ -455,7 +455,7 @@ Campus access is strictly regulated
 ## How uncertainty in the budget is being handled elsewhere
 
 
-* [6/29 AAUP: Principles of Academic Governance during the COVID-19 Pandemic](https://www.aaup.org/news/principles-academic-governance-during-covid-19-pandemic#.Xvn_iihKhPY?link_id=3&can_id=d7d24a15fea3d53e023ed0939ba85395&source=email-aaup-releases-principles-on-academic-governance-during-the-covid-19-pandemic&email_referrer=email_845059&email_subject=aaup-releases-principles-on-academic-governance-during-the-covid-19-pandemic
+* [6/29 AAUP: Principles of Academic Governance during the COVID-19 Pandemic](https://www.aaup.org/news/principles-academic-governance-during-covid-19-pandemic#.Xvn_iihKhPY?link_id=3&can_id=d7d24a15fea3d53e023ed0939ba85395&source=email-aaup-releases-principles-on-academic-governance-during-the-covid-19-pandemic&email_referrer=email_845059&email_subject=aaup-releases-principles-on-academic-governance-during-the-covid-19-pandemic]
 
 * [6/25 Rutgers holds off on raises](https://www.rutgersaaup.org/wp-content/uploads/securepdfs/2020/06/AAUP-AFT-letter-and-budget-statement.pdf)
 * [4/13 MIT  Community email](News/4-15-mit)
