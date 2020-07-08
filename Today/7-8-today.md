@@ -7,6 +7,9 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 ## College
 
+* [7/8 email from President Fritz](/College/7-8-president)
+* [7/8 email from Provost Parrish](/College/7-8-provost)
+
 ## PSC
 
 * [7/7 Summer of struggle email by PSC](/PSC/7-7-summer)
