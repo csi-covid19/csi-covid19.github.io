@@ -389,6 +389,7 @@ Campus access is strictly regulated
 
 ## CUNY
 
+* [7/9 Board resolution re F20](/CUNY/7-9-resolution-distance.pdf)
 * [7/7 Chancellor's response to ICE ruling](/CUNY/7-7-chancellor)
 * [6/12 Lehman College President address](https://youtu.be/0yjBAykhGPA)
 * [6/10 State guidelines for opening  up  research](/CUNY/6-10-research-guidelines.pdf)

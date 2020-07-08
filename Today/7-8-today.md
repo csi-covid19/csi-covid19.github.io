@@ -18,6 +18,12 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 ## CUNY/NYC/NYS
 
+* [7/9 Board resolution re F20](/CUNY/7-9-resolution-distance.pdf)
+
+> RESOLVED, That the Board of Trustees endorses the University’s decision to extend the offering of its academic courses and programs for as many of its academic courses and support services as is reasonably practicable, in an online modality and remote format for the Fall Semester 2020 — with exceptions being made for courses that cannot be effectively delivered at a distance, such as those courses which are highly experiential, or services that involve some form of tangible exchange, such as food pantries, provided they meet New York State and University guidelines for on-site instruction or delivery; and that the Chancellor shall take such actions as are reasonable and necessary to give effect to the foregoing;
+
+> RESOLVED, Subject to the prevailing conditions and circumstances of the COVID-19 pandemic emergency and the approval of NYSED to extend such offerings of online courses in academic programs at that time, the University’s decision for the extension of the online and distance learning modality and remote services for the majority of the University’s academic courses, programs and support services for the Fall Semester 2020, shall be conditionally extended to the Spring Semester 2021, as reasonably necessary
+
 * [7/7 Zoom meeting at GC for CUNY students on the 8th](/CUNY/7-8-zoom-meeting)
 
 * [7/7 Chancellor's response to ICE ruling](/CUNY/7-7-chancellor)
@@ -26,7 +32,11 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 ## News
 
-[7/7 MIT decides](/News/7-7-mit) (Thanks to Deborah Franzblau)
+* [7/8 International Students May Be Forced To Leave U.S. Under New ICE Policy On Remote Learning](https://gothamist.com/news/international-students-may-be-forced-leave-us-under-new-ice-policy-remote-learning)
+
+> New York University is home to the highest number of international students in the United States with over 17,000 international students and scholars from over 140 different countries,” the school’s website boasts. CUNY’s schools also **have more than “9,000+ international students** in F and J immigration status representing more than 100 countries.” Columbia University had 11,845 enrolled international students (1,814 Undergrads, 9,973 Graduate students, 108 Non-degree) from 152 countries.
+
+* [7/7 MIT decides](/News/7-7-mit) (Thanks to Deborah Franzblau)
 
 > What we decided
  
