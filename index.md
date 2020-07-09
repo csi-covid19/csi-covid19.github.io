@@ -162,6 +162,7 @@ Campus access is strictly regulated
 
 ## PSC
 
+* [7/9 PSC Chair letter in response to board to prevent resolution](/PSC/7-9-chair-response)
 * [7/9 PSC Chair letter to board to prevent resolution](/PSC/7-9-chair-response)
 * [7/7 Summer of struggle email by PSC](/PSC/7-7-summer)
 * [7/2 email from PSC Chair](/PSC/7-2-chair)

@@ -18,6 +18,10 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 ## PSC
 
+* [7/9 PSC Chair letter in response to board to prevent resolution](/PSC/7-9-chair-response)
+
+> First, if the resolution is “simply a delegation of authority to allow for the necessary planning for the Fall,” why does it have to be passed with such urgency?  The last-minute publication of the resolution and the one-day notice of an emergency meeting do not comport with your suggestion that the resolution is a formality, in order to facilitate planning.  Thus, the PSC does not accept the position you appear to take that the vote on the resolution must go ahead today - leaving no time for the legal requirement of consultation with the PSC.   Your response fails to demonstrate that there is such urgency about passing this resolution that the vote could not be postponed. ...
+
 * [7/9 PSC Chair letter to board to prevent resolution](/PSC/7-9-chair-response)
 
 PSC Chair mails the Board requesting consultation prior to voting on instruction for fall.
