@@ -20,4 +20,6 @@ PSC Chair mails the Board requesting consultation prior to voting on instruction
 
 ## News
 
+* [7/9 Harvard and MIT sue](https://www.insidehighered.com/news/2020/07/09/harvard-and-mit-sue-block-new-rule-international-students-and-online-enrollment)
 
+> Harvard and MIT argue in their lawsuit that the policy change announced Monday by U.S. Immigration and Customs Enforcement threw virtually all of U.S. higher education “into chaos.” They say the decision, which would make international students enrolled exclusively in online courses subject to deportation, puts colleges in “the untenable situation of either moving forward with their carefully calibrated, thoughtful, and difficult decisions to proceed with their curricula fully or largely online in the fall of 2020 … or to attempt, with just weeks before classes resume, to provide in-person education despite the grave risk to public health and safety that such a change would entail.”
