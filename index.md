@@ -11,6 +11,7 @@ Campus access is strictly regulated
 
 ## News
 
+* [7/10 News of the day (in progress...)](Today/7-10-today)
 * [7/8 News of the day](Today/7-8-today)
 * [7/6 News of the day](Today/7-6-today)
 * [7/3 News of the day](Today/7-3-today)
@@ -161,6 +162,7 @@ Campus access is strictly regulated
 
 ## PSC
 
+* [7/9 PSC Chair letter to board to prevent resolution](/PSC/7-9-chair-response)
 * [7/7 Summer of struggle email by PSC](/PSC/7-7-summer)
 * [7/2 email from PSC Chair](/PSC/7-2-chair)
 * [7/2 email from Chapter Chair](/PSC/7-2-cchair)
