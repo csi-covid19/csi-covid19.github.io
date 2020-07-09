@@ -2,10 +2,9 @@
 
 -----
 
-To Sign Petition, Use this Link:
-https://docs.google.com/forms/d/e/1FAIpQLSdnPCrwDiU5Nq7kFNXDzIaI3Eu3zLvbQPC-MUpSIoR3nk5mUw/viewform​
+To Sign Petition, Use this [Link](https://docs.google.com/forms/d/e/1FAIpQLSdnPCrwDiU5Nq7kFNXDzIaI3Eu3zLvbQPC-MUpSIoR3nk5mUw/viewform​)
 
-Students Against CUNY Faculty Layoffs Petition
+# Students Against CUNY Faculty Layoffs Petition
 
 CSI Students, we deserve better. 
 

@@ -217,7 +217,7 @@ Campus access is strictly regulated
 
 ## College matters
 
-* [7/9 Student petition agains cuts to adjuncts](/College/7-9-student-petition)
+* [7/9 Student petition against cuts to adjuncts](/College/7-9-student-petition)
 *  [6/17 Illumira Video Repository Contract ending on June 30, 2020](/College/6-17-illumira) 
 * [6/15 Food pantry updates](/College/6-15-food)
 * [6/10 The opening up committee formed subcommittees.](/College/6-10-reentry.pptx) [charges](/College/6-10-charges.docx)
