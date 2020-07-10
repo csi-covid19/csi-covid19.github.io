@@ -11,7 +11,7 @@ Campus access is strictly regulated
 
 ## News
 
-* [7/10 News of the day (in progress...)](Today/7-10-today)
+* [7/10 News of the day](Today/7-10-today)
 * [7/8 News of the day](Today/7-8-today)
 * [7/6 News of the day](Today/7-6-today)
 * [7/3 News of the day](Today/7-3-today)
@@ -163,6 +163,7 @@ Campus access is strictly regulated
 
 ## PSC
 
+* [7/10 email for PSC Chapter Chair](/PSC/7-10-cchair)
 * [7/9 PSC Chair letter in response to board to prevent resolution](/PSC/7-9-chair-response)
 * [7/9 PSC Chair letter to board to prevent resolution](/PSC/7-9-chair-response)
 * [7/7 Summer of struggle email by PSC](/PSC/7-7-summer)
@@ -394,6 +395,7 @@ Campus access is strictly regulated
 
 ## CUNY
 
+* [7/10 Chancellor's remarks on reopening](/CUNY/7-10-chancellor)
 * [7/9 Board resolution re F20](/CUNY/7-9-resolution-distance.pdf)
 * [7/7 Chancellor's response to ICE ruling](/CUNY/7-7-chancellor)
 * [6/12 Lehman College President address](https://youtu.be/0yjBAykhGPA)

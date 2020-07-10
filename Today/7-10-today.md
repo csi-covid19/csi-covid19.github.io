@@ -18,6 +18,12 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 ## PSC
 
+* [7/10 email for PSC Chapter Chair](/PSC/7-10-cchair)
+
+> Of course, adjunct layoffs mean a reduction in the quality of services to our students: fewer courses offered and/or larger class sizes in those courses that are offered. This also means *more work* for those of us lucky enough to remain on payroll.
+ 
+> But there is hope in the middle of this crisis. We need greater collective power to turn that hope into money for CUNY. Let's show CUNY that we are more organized than ever before by gathering virtually or in your car on July 18th for a fight back caravan across the boroughs. The action will run from 11 am - 1 pm. For those who do not have cars, it is possible to participate digitally or by bicycle. At our last action, we trended on Twitter thanks to our hundreds of digital participants!
+
 * [7/9 PSC Chair letter in response to board to prevent resolution](/PSC/7-9-chair-response)
 
 > First, if the resolution is “simply a delegation of authority to allow for the necessary planning for the Fall,” why does it have to be passed with such urgency?  The last-minute publication of the resolution and the one-day notice of an emergency meeting do not comport with your suggestion that the resolution is a formality, in order to facilitate planning.  Thus, the PSC does not accept the position you appear to take that the vote on the resolution must go ahead today - leaving no time for the legal requirement of consultation with the PSC.   Your response fails to demonstrate that there is such urgency about passing this resolution that the vote could not be postponed. ...
@@ -29,6 +35,14 @@ PSC Chair mails the Board requesting consultation prior to voting on instruction
 > While it may be that the PSC would not disagree with many of the provisions of the proposed resolution, submitting the resolution for a vote without any consultation with the PSC is a violation of the Collective Bargaining Agreement, quite possibly a violation of the NYS reopening guidelines, and a profound insult to the faculty and professional staff on whose work the University depends.  
 
 ## CUNY/NYC/NYS
+
+* [7/10 Chancellor's remarks on reopening](/CUNY/7-10-chancellor)
+
+> Last night the CUNY Board of Trustees approved a resolution that gives us the most flexibility in making decisions and planning what the Fall semester will look like once New York City enters Phase 4, which signals the start of the reopening for CUNY.
+
+> We are preparing for a range of scenarios that combine in-person, virtual and hybrid instructional modalities. Thanks to the diligent work of so many in our system, 48 percent of the Fall 2020 courses that are open for student registration are already scheduled for hybrid or online delivery. We hope to increase this percentage in the weeks ahead in preparation for the start of the semester. I want to acknowledge and thank everyone across our university who has committed endless hours to getting the work done during these extraordinary times.   
+
+> We are also getting ready to deliver a range of in-person courses and services, provided they meet New York State and University guidelines for re-opening and assuming that New York City enters Phase 4 over the next few weeks, as is the plan.
 
 ## News
 
