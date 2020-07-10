@@ -32,6 +32,14 @@ PSC Chair mails the Board requesting consultation prior to voting on instruction
 
 ## News
 
+* [Attacking CUNY at the worst moment possible](https://www.nydailynews.com/opinion/ny-oped-attacking-cuny-at-the-worst-moment-possible-20200710-42w4loa5hfcnpbe2l54ziruhjq-story.html)
+
+By  Deborah Glick a nd Toby Ann Stavisky. Glick represents parts of lower Manhattan in the state Assembly, and Stavisky, who represents parts of Queens in the state Senate, are chairs of the Higher Education Committees in their respective chambers.
+
+> In one swift move this month, the City University of New York eliminated health care for hundreds of CUNY adjunct faculty, income for thousands, and reduced the quality of education it provides to its 245,000 undergraduates — all at a moment when residents of New York City are increasingly drawn to attend one of CUNY’s 25 colleges. Summer enrollment at CUNY is up 16%, and first-year enrollments for the fall are up in much of the system as well.
+
+> CUNY’s decision to lay off thousands of workers is counterproductive and devastating. It can and must be reversed, first by securing the \$136 million in federal money that has been allocated to CUNY and remains untapped, and second by raising taxes on the ultra-wealthy and investing in our public higher education enterprise.
+
 * [7/9 Harvard and MIT sue](https://www.insidehighered.com/news/2020/07/09/harvard-and-mit-sue-block-new-rule-international-students-and-online-enrollment)
 
 > Harvard and MIT argue in their lawsuit that the policy change announced Monday by U.S. Immigration and Customs Enforcement threw virtually all of U.S. higher education “into chaos.” They say the decision, which would make international students enrolled exclusively in online courses subject to deportation, puts colleges in “the untenable situation of either moving forward with their carefully calibrated, thoughtful, and difficult decisions to proceed with their curricula fully or largely online in the fall of 2020 … or to attempt, with just weeks before classes resume, to provide in-person education despite the grave risk to public health and safety that such a change would entail.”
