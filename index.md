@@ -11,6 +11,7 @@ Campus access is strictly regulated
 
 ## News
 
+* [7/14 News of the day](Today/7-14-today)
 * [7/10 News of the day](Today/7-10-today)
 * [7/8 News of the day](Today/7-8-today)
 * [7/6 News of the day](Today/7-6-today)
@@ -63,6 +64,7 @@ Campus access is strictly regulated
 
 ## News
 
+* [7/14 CSI Emerita Professor letter](https://www.insidehighered.com/views/2020/07/13/layoffs-cuny-target-faculty-should-focus-overstuffed-administration-letter)
 * [Attacking CUNY at the worst moment possible](https://www.nydailynews.com/opinion/ny-oped-attacking-cuny-at-the-worst-moment-possible-20200710-42w4loa5hfcnpbe2l54ziruhjq-story.html)
 * [7/6 As Covid-19 Pummels Budgets, Colleges Are Resorting to Layoffs and Furloughs.](https://www.chronicle.com/article/As-Covid-19-Pummels-Budgets/248779)
 * [6/17 Safety plans border on delusional and could lead to outbreaks of Covid-19 among students, faculty and staff.](https://www.nytimes.com/2020/06/15/opinion/coronavirus-college-safe.html?smid=em-share)
@@ -220,6 +222,7 @@ Campus access is strictly regulated
 
 ## College matters
 
+* [ 7/14 email on tutoring](/College/7-14-tutoring)
 * [7/9 Student petition against cuts to adjuncts](/College/7-9-student-petition)
 *  [6/17 Illumira Video Repository Contract ending on June 30, 2020](/College/6-17-illumira) 
 * [6/15 Food pantry updates](/College/6-15-food)
@@ -336,6 +339,7 @@ Campus access is strictly regulated
 
 * [CUNY guidance website](https://www.cuny.edu/academics/faculty-affairs/faculty-related-academic-continuity-guidance/)
 
+* [7/14 Guidance from CUNY #16](7-14-guidance-16.pdf)
 * [7/6  Guidance from CUNY #15](/CUNY/7-6-guidance-15.pdf)
 * [6/13 Guidance from CUNY #14](/CUNY/6-13-guidance-14.pdf)
 * [5/31 Guidance from CUNY #13](/CUNY/guidance-13.pdf)
