@@ -48,6 +48,11 @@ Includes modifications to the original resolution on opening up.
 
 ## News
 
+* [7/14 Trump Admin backs down on International Students](https://www.politico.com/news/2020/07/14/trump-administration-drops-plan-to-deport-international-students-in-online-only-classes-361053)
+
+> Two of the country’s top universities won a major victory over the Trump administration on Tuesday after the government halted its plan to deport international college students who only use online courses to study this fall.
+
+
 * [7/14 NY State AG is suing](https://ag.ny.gov/press-release/2020/attorney-general-james-sues-trump-administration-reversal-policy-threatens-deport)
 
 The UFS Chair says about this: The suit that NYS AG James is filing in the Federal courts is one that CUNY and SUNY will be providing information/documentation for. Neither SUNY, as a state agency, nor CUNY, as a state supported entity [sic], are able to sue directly in this matter. Rather it is up to the NYS AG to do so, as she has.
