@@ -2,6 +2,7 @@
 
 !!! Note
 
+[7/16 Mandatory (by the state) training](/CUNY/7-16-training)
 
 ---
 
@@ -11,6 +12,7 @@ Campus access is strictly regulated
 
 ## News
 
+* [7/17 News of the day (in progress...)](Today/7-17-today)
 * [7/14 News of the day](Today/7-14-today)
 * [7/10 News of the day](Today/7-10-today)
 * [7/8 News of the day](Today/7-8-today)
@@ -165,6 +167,7 @@ Campus access is strictly regulated
 
 ## PSC
 
+* [7/16 email about 7/18 caravan](/PSC/7-16-car)
 * [7/10 email for PSC Chapter Chair](/PSC/7-10-cchair)
 * [7/9 PSC Chair letter in response to board to prevent resolution](/PSC/7-9-chair-response)
 * [7/9 PSC Chair letter to board to prevent resolution](/PSC/7-9-chair-response)
@@ -222,6 +225,7 @@ Campus access is strictly regulated
 
 ## College matters
 
+* [7/16 Mandatory (by the state) training](/CUNY/7-16-training)
 * [ 7/14 email on tutoring](/College/7-14-tutoring)
 * [7/9 Student petition against cuts to adjuncts](/College/7-9-student-petition)
 *  [6/17 Illumira Video Repository Contract ending on June 30, 2020](/College/6-17-illumira) 
