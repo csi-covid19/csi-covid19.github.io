@@ -4,6 +4,7 @@
 
 [7/16 Mandatory (by the state) training](/CUNY/7-16-training)
 
+[7/17 East Coast Conference suspends intercollegiate competittion](https://www.eccsports.org/information/general-news/2020-21/071720_fall2020)
 ---
 
 
@@ -226,6 +227,7 @@ Campus access is strictly regulated
 
 ## College matters
 
+* [7/17 East Coast Conference suspends intercollegiate competittion](https://www.eccsports.org/information/general-news/2020-21/071720_fall2020)
 * [7/16 Mandatory (by the state) training](/CUNY/7-16-training)
 * [ 7/14 email on tutoring](/College/7-14-tutoring)
 * [7/9 Student petition against cuts to adjuncts](/College/7-9-student-petition)
