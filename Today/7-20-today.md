@@ -22,3 +22,8 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 ## News
 
+* [Interesting covid data site](https://covidamp.org/policymaps)
+
+With interview of [developer](https://alum.mit.edu/slice/how-reopen-tools-visualizing-covid-19-data-provide-concrete-guidance) (Thanks Deb Franzblau)
+
+
