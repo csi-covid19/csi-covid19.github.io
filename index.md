@@ -408,6 +408,9 @@ Campus access is strictly regulated
 
 ## CUNY
 
+* [7/16 CUNY repopening guidelines](/CUNY/7-16-reopening-guidelines.pdf)
+* [7/16 CUNY reopening supplemental guidelines](/CUNY/7-16-reopening-supplemental.pdf)
+* [7/16 CUNY reopening checklist](/CUNY/7-16-reopening-checklist.pdf)
 * [7/10 Chancellor's remarks on reopening](/CUNY/7-10-chancellor)
 * [7/9 Board resolution re F20](/CUNY/7-9-resolution-distance.pdf)
 * [7/7 Chancellor's response to ICE ruling](/CUNY/7-7-chancellor)

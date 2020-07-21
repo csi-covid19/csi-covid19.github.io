@@ -19,6 +19,25 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 ## CUNY/NYC/NYS
 
+Guidance from CUNY is here:
+
+[7/16 CUNY repopening guidelines](/CUNY/7-16-reopening-guidelines.pdf)
+
+> The guidelines in Part 2 follow the outline developed by New York State. They detail
+requirements and recommendations for: People, including physical distancing, gatherings in
+enclosed places, operational activity and movement of goods; Places, including protective
+equipment, hygiene, staged reopening and communications; Processes, including screening,
+testing, tracing and tracking; and Institutional Plans. A
+
+[7/16 CUNY reopening supplemental guidelines](/CUNY/7-16-reopening-supplemental.pdf)
+
+[7/16 CUNY reopening checklist](/CUNY/7-16-reopening-checklist.pdf)
+
+
+
+
+
+
 
 ## News
 
