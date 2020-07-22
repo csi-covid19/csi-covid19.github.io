@@ -46,9 +46,9 @@ The state *seems* to be waiting for the federal government to decide if it will 
 # Tuition increase/Wellness fee
 
 
-In the University Budget [request](https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/administration/offices/budget-and-finance/FY2021-CUNY-Budget-Request_2020-02-10_FINAL.pdf), the university requested increased tuition at the senior colleges by $100 per semester, as it has done for the past several years under the "predictable" tuition policy. This year the university *also* requested the same increase for community college students, which hasn't been the case of late. These increases project to an additional 36M and 16M in resources.
+In the University Budget [request](https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/administration/offices/budget-and-finance/FY2021-CUNY-Budget-Request_2020-02-10_FINAL.pdf), the university requested increased tuition at the senior colleges by \$100 per semester, as it has done for the past several years under the "predictable" tuition policy. This year the university *also* requested the same increase for community college students, which hasn't been the case of late. These increases project to an additional 36M and 16M in resources.
 
-In addition, a $60/semester wellness fee was proposed.
+In addition, a \$60/semester wellness fee was proposed.
 
 CUNY was given authority to impose these costs by the state, but *both* are pending board approval. In the normal order, these two increases would have been voted on in June. Neither vote occurred. Whether a vote will finally happen and if it were to happen, whether either would pass is currently uncertain.
 
