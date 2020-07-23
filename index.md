@@ -2,9 +2,27 @@
 
 !!! Note
 
-[7/16 Mandatory (by the state) training](/CUNY/7-16-training)
+* Town Hall:
 
-[7/17 East Coast Conference suspends intercollegiate competition](https://www.eccsports.org/information/general-news/2020-21/071720_fall2020)
+> You are cordially invited to participate in a College Council/ Faculty Senate Virtual Town Hall Meeting on July 23rd from 2:30-4:30. We hope to have a productive discussion of your concerns about the College's current and future plans for managing the COVID-19 crisis and the eventual re-opening of campus. 
+
+Check your email for a zoom link.
+
+
+* Guidance from CUNY is here:
+
+[7/16 CUNY repopening guidelines](/CUNY/7-16-reopening-guidelines.pdf)
+
+> The guidelines in Part 2 follow the outline developed by New York State. They detail
+requirements and recommendations for: People, including physical distancing, gatherings in
+enclosed places, operational activity and movement of goods; Places, including protective
+equipment, hygiene, staged reopening and communications; Processes, including screening,
+testing, tracing and tracking; and Institutional Plans. A
+
+[7/16 CUNY reopening supplemental guidelines](/CUNY/7-16-reopening-supplemental.pdf)
+
+[7/16 CUNY reopening checklist](/CUNY/7-16-reopening-checklist.pdf)
+
 
 ----
 
@@ -149,6 +167,9 @@ Campus access is strictly regulated
 
 ## College Council Faculty Senate
 
+* [7/22 CSI enrollment dashboard](/UFS/7-22-EnrollmentDashboard.pdf)
+* [7/21 Budget update from UFS](/UFS/7-21-budget.pdf)
+* [7/18 enrollment comparison](/UFS/7-21-enrollment.pdf)
 * [7/1 UFS Research Committee query](/CUNY/7-1-rf)
 * [6/24 notes for Budget Committee](/CCFS/6-24-budget)
 * [6/15 email from UFS Research Foundation Faculty Advisory Council ](/CCFS/6-15-UFS-research)

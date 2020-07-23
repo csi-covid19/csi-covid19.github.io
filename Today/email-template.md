@@ -5,10 +5,7 @@ Could you arrange for this to be sent out to the College Council mailing list? M
 
 A summary of recent news over the past few days from various sources is now online at
 
-https://csi-covid19.github.io/Today/7-17-today/
-
-
-    Inside is a bunch of budget news and some information about Saturday's Car Caravan.
+https://csi-covid19.github.io/Today/7-21-today/
 
 
 This is taken from a running collection of news being compiled by the College Council and Faculty Senate Executive Committees at:
