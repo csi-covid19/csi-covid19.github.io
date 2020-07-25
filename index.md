@@ -2,11 +2,7 @@
 
 !!! Note
 
-* Town Hall:
 
-> You are cordially invited to participate in a College Council/ Faculty Senate Virtual Town Hall Meeting on July 23rd from 2:30-4:30. We hope to have a productive discussion of your concerns about the College's current and future plans for managing the COVID-19 crisis and the eventual re-opening of campus. 
-
-Check your email for a zoom link.
 
 
 * Guidance from CUNY is here:
@@ -32,6 +28,7 @@ Campus access is strictly regulated
 
 ## News
 
+* [7/24 News of the day](Today/7-24-today)
 * [7/21 News of the day](Today/7-21-today)
 * [7/17 News of the day](Today/7-17-today)
 * [7/14 News of the day](Today/7-14-today)
@@ -87,7 +84,9 @@ Campus access is strictly regulated
 
 ## News
 
-* [7/14 CSI Emerita Professor letter](https://www.insidehighered.com/views/2020/07/13/layoffs-cuny-target-faculty-should-focus-overstuffed-administration-letter)
+
+* [7/24 more bad ICE](https://www.wsj.com/articles/ice-says-newly-enrolling-international-students-can-t-come-to-u-s-if-classes-fully-online-11595611772)
+7* [7/14 CSI Emerita Professor letter](https://www.insidehighered.com/views/2020/07/13/layoffs-cuny-target-faculty-should-focus-overstuffed-administration-letter)
 * [Attacking CUNY at the worst moment possible](https://www.nydailynews.com/opinion/ny-oped-attacking-cuny-at-the-worst-moment-possible-20200710-42w4loa5hfcnpbe2l54ziruhjq-story.html)
 * [7/6 As Covid-19 Pummels Budgets, Colleges Are Resorting to Layoffs and Furloughs.](https://www.chronicle.com/article/As-Covid-19-Pummels-Budgets/248779)
 * [6/17 Safety plans border on delusional and could lead to outbreaks of Covid-19 among students, faculty and staff.](https://www.nytimes.com/2020/06/15/opinion/coronavirus-college-safe.html?smid=em-share)
@@ -369,7 +368,8 @@ Campus access is strictly regulated
 
 * [CUNY guidance website](https://www.cuny.edu/academics/faculty-affairs/faculty-related-academic-continuity-guidance/)
 
-* [7/14 Guidance from CUNY #16](7-14-guidance-16.pdf)
+* [7/24 Guidance from CUNY #17](/CUNY/7-24-guidance-17.pdf)
+* [7/14 Guidance from CUNY #16](/CUNY/7-14-guidance-16.pdf)
 * [7/6  Guidance from CUNY #15](/CUNY/7-6-guidance-15.pdf)
 * [6/13 Guidance from CUNY #14](/CUNY/6-13-guidance-14.pdf)
 * [5/31 Guidance from CUNY #13](/CUNY/guidance-13.pdf)
