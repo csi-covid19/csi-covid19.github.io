@@ -28,6 +28,7 @@ Campus access is strictly regulated
 
 ## News
 
+* [7/28 News of the day (in progress....)](Today/7-28-today)
 * [7/24 News of the day](Today/7-24-today)
 * [7/21 News of the day](Today/7-21-today)
 * [7/17 News of the day](Today/7-17-today)
@@ -429,6 +430,7 @@ Campus access is strictly regulated
 
 ## CUNY
 
+* [7/27 BOT Resolution: CUNY test blind for a bit, if not forever...](/CUNY/7-27-test-blind.pdf)
 * [7/16 CUNY repopening guidelines](/CUNY/7-16-reopening-guidelines.pdf)
 * [7/16 CUNY reopening supplemental guidelines](/CUNY/7-16-reopening-supplemental.pdf)
 * [7/16 CUNY reopening checklist](/CUNY/7-16-reopening-checklist.pdf)
