@@ -28,7 +28,7 @@ Campus access is strictly regulated
 
 ## News
 
-* [7/28 News of the day (in progress....)](Today/7-28-today)
+* [7/28 News of the day](Today/7-28-today)
 * [7/24 News of the day](Today/7-24-today)
 * [7/21 News of the day](Today/7-21-today)
 * [7/17 News of the day](Today/7-17-today)

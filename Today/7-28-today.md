@@ -34,3 +34,6 @@ It raises the threat of retrenchment in the context of HEO positions
 
 ## News
 
+[7/28 Communicating risks](https://www.insidehighered.com/news/2020/07/28/how-colleges-are-communicating-students-about-covid-19?utm_source=Inside+Higher+Ed&utm_campaign=708582c960-DNU_2020_COPY_02&utm_medium=email&utm_term=0_1fcbc04421-708582c960-236361981&mc_cid=708582c960&mc_eid=b4df78989a) (Thanks Suzy Shepardson)
+
+> Wearing face masks and practicing social distancing are not what many students had in mind when they pictured their college experience. Yet for students returning to campus this fall, these behaviors must be normalized if institutions stand a chance of slowing the spread of COVID-19.
