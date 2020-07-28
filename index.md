@@ -191,6 +191,7 @@ Campus access is strictly regulated
 
 ## PSC
 
+* [7/28 PSC injuction opposition](/PSC/7-28-psc-injunction.pdf)
 * [7/17 email from chapter chair](/PSC/7-17-cchair)
 * [7/16 email about 7/18 caravan](/PSC/7-16-car)
 * [7/10 email for PSC Chapter Chair](/PSC/7-10-cchair)
