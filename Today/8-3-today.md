@@ -47,3 +47,10 @@ Medger Evers has **dramatically** increased cap size for its fall offerings:
 
 > Those increases, however, are offset by an additional \$25.3 million in efficiency targets above those announced for FY 2020. This means that CUNY’s total savings target from the City for FY 2021 is \$46.3 million, about 9% of the community colleges’ total operating budget.
 
+## NEWS
+
+* [8/3 Reimagining Higher Education Through Socially Engaged Art](https://hyperallergic.com/579853/reimagining-higher-education-through-socially-engaged-art) (Thanks Hugo Fernandez)
+
+> The answer to what happens next for City University of New York (CUNY) post-pandemic will depend on expanding the ideals of low-cost, high-quality liberal studies in which culture, self-reflection, and interdisciplinary learning enrich democratic values.
+
+> As a City University of New York professor at Queens College, I and my colleagues have struggled since 2016 not only with worsening financial austerity, but with falling foreign enrollment as we scrambled to prevent currently enrolled students from Iran and other so-called Muslim countries from being deported. Now, with our ongoing crisis triple header of viral contagion, financial contraction, and top-down political subversion even thinking about a better educational future seems impossible. Still, as a character in John Mandel’s prophetic, post-plague-apocalypse novel Station Eleven insists, “survival is not enough.”
