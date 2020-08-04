@@ -32,6 +32,15 @@ Time: Aug 5, 2020 07:00 PM Eastern Time (US and Canada)
 
 ## CUNY/NYC/NYS
 
+* MEDGER EVERS in the news (for [other reasons](https://nypost.com/2020/08/01/widow-of-medgar-evers-slams-brooklyn-college-named-after-husband/) too):
+
+Medger Evers has **dramatically** increased cap size for its fall offerings:
+
+> Q: confirm or refute the PSC info going around that MEC has increased its course cap to 50?
+
+> A: Yes, they increased the class size to 50 and after some pushback, the deans of each school decreased it to 42 and some at 40.  I am in the process of sending them the governance document that capped class sizes at 30.
+
+
 * [7/30 Budget update from Chancellor](/CUNY/7-30-fiscal)
 
 > We have almost completed the allocation of the \$118 million CARES Act funds in direct aid to students. Because we moved promptly upon receiving the funds, we were one of the first Universities in the nation to distribute the funds starting on May 22. Regarding the \$132 million of CARES Act funding that is to be allocated directly to the campuses, we submitted a plan to the State that prioritized student support and mental health services, reimbursements to campuses for COVID 19-related costs such as refunds, and investments in online infrastructure and training. We are optimistic that this student-centered approach will promote maintenance of our overall enrollment levels and sustain our students’ academic momentum. That plan has been approved by the State, but we have decided to postpone the use of these funds until we conclude our budget process, in case adjustments are required. In light of the financial uncertainties we face, this is the most prudent way to proceed.
