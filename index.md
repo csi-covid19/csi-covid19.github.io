@@ -2,22 +2,7 @@
 
 !!! Note
 
-
-
-
-* Guidance from CUNY is here:
-
-[7/16 CUNY repopening guidelines](/CUNY/7-16-reopening-guidelines.pdf)
-
-> The guidelines in Part 2 follow the outline developed by New York State. They detail
-requirements and recommendations for: People, including physical distancing, gatherings in
-enclosed places, operational activity and movement of goods; Places, including protective
-equipment, hygiene, staged reopening and communications; Processes, including screening,
-testing, tracing and tracking; and Institutional Plans. A
-
-[7/16 CUNY reopening supplemental guidelines](/CUNY/7-16-reopening-supplemental.pdf)
-
-[7/16 CUNY reopening checklist](/CUNY/7-16-reopening-checklist.pdf)
+[8/12 PSC legal challenge suffers a blow](/PSC/8-12-injuction.pdf)
 
 
 ----
@@ -194,6 +179,7 @@ Campus access is strictly regulated
 
 ## PSC
 
+* [8/12 PSC legal challenge suffers a blow](/PSC/8-12-injuction.pdf)
 * [8/11 Union activities](/PSC/8-11-psc)
 * [7/28 PSC injuction opposition](/PSC/7-28-psc-injunction.pdf)
 * [7/17 email from chapter chair](/PSC/7-17-cchair)
