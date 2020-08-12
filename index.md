@@ -28,6 +28,7 @@ Campus access is strictly regulated
 
 ## News
 
+* [8/12 News of the day](Today/8-12-today)
 * [8/3 News of the day](Today/8-3-today)
 * [7/28 News of the day](Today/7-28-today)
 * [7/24 News of the day](Today/7-24-today)
@@ -86,7 +87,8 @@ Campus access is strictly regulated
 
 ## News
 
-
+* [8/8: Judge Jed Rakoff appeared disinclined Friday to force CUNY....](https://www.law360.com/commercialcontracts/articles/1299408/rakoff-skeptical-cuny-must-pay-staff-in-cares-act-case)
+* [8/7 CUNY Fall Semester Enrollment Drops as Financial Outlook Takes Toll on Students and Staff](https://www.thecity.nyc/2020/8/6/21358031/cuny-fall-semester-enrollment-drops)
 * [7/24 more bad ICE](https://www.wsj.com/articles/ice-says-newly-enrolling-international-students-can-t-come-to-u-s-if-classes-fully-online-11595611772)
 7* [7/14 CSI Emerita Professor letter](https://www.insidehighered.com/views/2020/07/13/layoffs-cuny-target-faculty-should-focus-overstuffed-administration-letter)
 * [Attacking CUNY at the worst moment possible](https://www.nydailynews.com/opinion/ny-oped-attacking-cuny-at-the-worst-moment-possible-20200710-42w4loa5hfcnpbe2l54ziruhjq-story.html)
@@ -192,6 +194,7 @@ Campus access is strictly regulated
 
 ## PSC
 
+* [8/11 Union activities](/PSC/8-11-psc)
 * [7/28 PSC injuction opposition](/PSC/7-28-psc-injunction.pdf)
 * [7/17 email from chapter chair](/PSC/7-17-cchair)
 * [7/16 email about 7/18 caravan](/PSC/7-16-car)
