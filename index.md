@@ -466,6 +466,7 @@ Campus access is strictly regulated
 
 ## NYS
 
+* [NYS FY 2021 First Quarterly Update](/NYS/8-14-fy21-fp-q1-1.pdf)
 * [NYS Higher Ed guidelines](/NYS/6-26-state-guidelines.pdf)
 * [NYS Higher Ed reopening](https://www.governor.ny.gov/sites/governor.ny.gov/files/atoms/files/HigherEdResearch_ShortGuidelines.pdf)
 * [NYS Research reopening guidelines](https://csi-covid19.github.io/CUNY/6-10-research-guidelines.pdf)
