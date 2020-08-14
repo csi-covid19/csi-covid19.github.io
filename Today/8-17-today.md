@@ -9,7 +9,9 @@ To add/suggest news, please email [John Verzani](mailto:jverzani@gmail.com)
 
 ## College
 
+* [8/14 Message from the president](/College/8-14-president)
 
+> Importantly, I am pleased to report that our plans for re-starting research activity, re-opening the dorms and the dining area have been approved by CUNY and New York State.  Please keep in mind, however, that while these plans have been approved, and others await approval, any required actions that need to be taken before implementation may take time and could delay our return.  Our initial phase of opening academic buildings is focused on buildings 5N, 5S, and 6S.  Once those buildings are ready for opening, it will allow researchers to return to campus and for faculty to hold limited classes involving laboratory, studio and clinical experiences that require in person instruction.  Apart from these very few exceptions, we anticipate that the rest of our classes will be delivered remotely for the Fall semester.  Academic Affairs will keep students apprised when any of the limited aforementioned courses or experiences will be able to make the transition from remote to in person instruction.
 
 ## PSC
 

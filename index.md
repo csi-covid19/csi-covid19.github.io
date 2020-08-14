@@ -13,6 +13,7 @@ Campus access is strictly regulated
 
 ## News
 
+* [8/17 News of the day (in progress...)](Today/8-17-today)
 * [8/12 News of the day](Today/8-12-today)
 * [8/3 News of the day](Today/8-3-today)
 * [7/28 News of the day](Today/7-28-today)
@@ -241,6 +242,7 @@ Campus access is strictly regulated
 
 ## College matters
 
+* [8/14 Message from the president](/College/8-14-president)
 * [7/17 East Coast Conference suspends intercollegiate competittion](https://www.eccsports.org/information/general-news/2020-21/071720_fall2020)
 * [7/16 Mandatory (by the state) training](/CUNY/7-16-training)
 * [ 7/14 email on tutoring](/College/7-14-tutoring)
