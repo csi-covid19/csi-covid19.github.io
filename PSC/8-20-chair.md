@@ -1,0 +1,46 @@
+8/20 email
+----
+Dear Colleagues,
+ 
+I hope this message finds you in good health. As the PSC continues to press the CUNY administration on such major issues as increased class size, safety in reopening and reversal of adjunct layoffs, the union has also been negotiating agreements on other issues that affect the faculty and staff.
+ 
+I'm writing about two agreements reached this week to address concerns faculty have raised about disruptions caused by the pandemic. The texts of the agreements are included at the end of this letter. Signed copies will be posted on the PSC website.
+Sabbaticals: The first agreement provides for faculty who, because of circumstances related to the pandemic, wish to defer or decline a sabbatical scheduled for the 2020-2021 academic year. Some faculty may find that travel or scholarly or creative activities they had planned for their sabbatical year or semester have been made impossible by the pandemic. The agreement allows you to defer your sabbatical (technically called Fellowship Leave) without having to reapply. Please see the full text of the agreement before you make your decision. The timeframe for notification, however, is very short: faculty who wish to decline or defer a Fall-semester sabbatical must notify their department chair by this Monday, August 24.
+I apologize for the extremely short timeframe. I realize that it may make the agreement less useful than it would have been if announced earlier. The union has been pushing CUNY management for months to show some urgency about our members' demands, especially fairly simple ones like these, but every step in impact-bargaining with Chancellor Matos Rodríguez has been difficult.
+ 
+I want to stress, however, that the agreement to allow faculty to defer or decline sabbaticals does not mean that you are expected to defer or decline your sabbatical. If your Fellowship Leave for the upcoming semester or year has been approved by the Board of Trustees, you should be allowed to take that leave. Your college should not pressure you to defer or deny your approved leave for budgetary reasons. Please contact the PSC immediately by emailing Ida Cheng if you have been pressured by the college to defer or give up your approved Fellowship Leave.
+Schedule of CCE for Lecturers: The second agreement is an option for Lecturers who wish to defer consideration for the Certificate of Continuous Employment (CCE). The option is designed to respond to concerns Lecturers have raised about the disruption in their teaching and their ability to prepare for the CCE review during the period of remote instruction and public health crisis. The agreement follows the structure of the agreement the union reached in April concerning extension of the tenure clock for professorial faculty.
+Lecturers who wish to defer consideration for appointment with a CCE that would start in the fall of 2021 need to notify their college provost by September 15. If you are considering postponement, please read the agreement below carefully, paying special attention to the provision on your next annual appointment. The PSC strongly advises you to contact Pete Zwiebach
+at the union's Legal Affairs Department so that you can have a chance to talk through the implications of the options for your future annual appointments.  
+ 
+These two agreements are in addition to the provision negotiated in April
+to create options for professorial faculty who wish to defer their tenure review.  
+ 
+I will continue to send updates as we reach agreements. The union will need your active support as we press for bargaining on tougher issues, such as the impact of changes in class size, and as we fight to ensure that every college building in which classes are held will be safe for our members and students. Even if the number of in-person classes this fall is relatively small, every one must be held in safe conditions. Join me on Wednesday, August 26, the first day of classes (for most campuses), for the union's 24-hour online action to put power behind our demands to save lives, save jobs and save CUNY.
+
+I wish you well for the coming academic year. As a faculty colleague, I am full of admiration for the intellectual and logistical work you have done to prepare for the challenges of the fall semester.  
+ 
+In unity,
+Barbara Bowen
+President, PSC
+ 
+Fellowship Leave                
+Faculty members who are scheduled to be on Fellowship Leave during either or both semesters of the 2020-2021 academic year but who no longer wish to take their Leave as scheduled, owing to the COVID-19 pandemic, may exercise the option to defer or decline their Fellowship Leave as specified below:
+Faculty members who are scheduled to be on Fellowship Leave during the Fall 2020 semester may request that their Fellowship Leave be deferred and be taken in the Spring 2021 semester or Fall 2021 semester, without having to reapply. Department Chairs shall try to accommodate such requests. The faculty member and Department Chair shall jointly recommend a new effective date for commencement of the Fellowship Leave to the President. As part of such a recommendation, the Department Chair shall confirm that the work of the department can be so arranged as to be carried forward effectively during the proposed period of the leave. The President shall review the proposed effective date and make a final determination. Requests for deferral of Fall 2020 Fellowship Leaves must be received by the Department Chair by August 24, 2020.
+Faculty members may decline Fellowship Leaves that were approved for either the Fall 2020 semester or the Spring 2021 semester or both, and shall be permitted to reapply for a Fellowship Leave to commence at a later date. The declination will not be considered to break service for the purpose of counting years of eligibility for a fellowship leave. Declination of the leave must be received by the Department Chair by August 24 for Fall 2020 semester leaves and by October 15 for Spring 2021 semester leaves.  
+The parties agree that nothing in this agreement is intended to alter the provisions of Article 25.3, except as specifically set forth in this agreement.
+ 
+Lecturer CCE Clock
+ 
+   1.  Lecturers who are candidates for a Certificate of Continuous Employment (CCE) effective upon their reappointment for the 2021-2022 academic year may receive a one-year extension in their CCE review, if they so desire. It is understood that if such a faculty member is reappointed for the 2021- 2022 academic year, the reappointment will be without a CCE and will be deemed the 4threappointment (i.e., fifth consecutive year of service) toward CCE. Such a Lecturer must request a CCE clock extension by emailing their college provost by September 15, 2020. The written record of the request shall be placed in the employee's personnel file. By September 30, 2020, each college provost shall send the CUNY Office of Labor Relations a list of all faculty who elected the one-year extension. CUNY OLR shall forward the list to the PSC by October 15, 2020.
+ 
+Lecturers on the CCE track for consideration in later years who wish to seek a one-year extension based upon the circumstances of the spring 2020 semester must apply to their college provost by February 1 of the spring semester preceding their fall CCE review. Their requests will be considered on a case-by-case basis, in accordance with past college and university practices.
+ 
+   2.  For the annual leave year ending 8/31/20, the August 31 deadline to use annual leave will be extended to 12/31/20, as follows:      
+Annual leave above the contractual cap (normally 45 days) as of the close of business 8/31/20 may be carried into the annual leave year that begins 9/1/20.      
+The annual leave balance in excess of forty-five (45) working days or in excess of the personal accrual maximum as of August 31, 1987, will be deducted from the employee's accrual balance on December 31, 2020.
+The provisions of Article 14.9(b) concerning compensation for an annual leave balance if the employee is separated from service will remain in effect, except that, for the annual leave year ending on 8/31/20 only, the annual leave payment due to the employee upon separation, or to his/her estate, shall be the lesser of: (1) the leave balance to the employee's credit on the date of resignation, retirement or death; or (2) the contractual cap, (45 days or the personal accrual maximum as of August 31, 1987).
+The parties agree that nothing in this agreement is intended to alter the provisions of Article 14.9(b), except as specifically set forth in this agreement.
+The provisions of Article 14.7 concerning unscheduled holidays remain in effect, and unscheduled holidays from the annual leave year ending 8/31/20 will not be carried over.
+The Board of Trustees of the City University of New York approved these matters at a meeting of its Executive Committee on August 12, 2020.
+ 

@@ -2,7 +2,27 @@
 
 !!! Note
 
-[8/12 PSC legal challenge suffers a blow](/PSC/8-12-injuction.pdf)
+* [8/21 College Reentry plan](https://www.csi.cuny.edu/about-csi/president-leadership/office-president/csi-campus-re-entry-plan)
+
+* [8/20 Zoom is finally here](/College/8-20-zoom)
+
+* [8/19 Guidance #19](/CUNY/7-20-guidance-19.pdf)
+
+>  faculty offering classes through web conferencing digital technology like Zoom must not record a student in a class session without the student’s consent.
+
+> NEW Zoom University Licenses
+
+*IMPORTANT* faculty who wish to record their class sessions must provide the following announcement, in emails, and/or class syllabus, to enrolled students and verbally at the opening of the first class session:
+
+ 
+
+>  Students who participate in this class with their camera on or use a profile image are agreeing to have their video or image recorded solely for the purpose of creating a record for students enrolled in the class to refer to, including those enrolled students who are unable to attend live.  If you are unwilling to consent to have your profile or video image recorded, be sure to keep your camera off and do not use a profile image. Likewise, students who un-mute during class and participate orally are agreeing to have their voices recorded.  If you are not willing to consent to have your voice recorded during class, you will need to keep your mute button activated and communicate exclusively using the "chat" feature, which allows students to type questions and comments live.
+
+> NEW Mi-Fi Hotspot Devices
+
+> NEW Covid-19 Student Conduct Protocol
+
+> NEW Student Face Mask Accommodations, Modifications, or Exemptions
 
 
 ----
@@ -13,7 +33,7 @@ Campus access is strictly regulated
 
 ## News
 
-* [8/17 News of the day (in progress...)](Today/8-17-today)
+* [8/21 News of the day](Today/8-21-today)
 * [8/12 News of the day](Today/8-12-today)
 * [8/3 News of the day](Today/8-3-today)
 * [7/28 News of the day](Today/7-28-today)
@@ -180,6 +200,7 @@ Campus access is strictly regulated
 
 ## PSC
 
+* [8/20 Chapter chair email](PSC/8-20-cchair)
 * [8/12 PSC legal challenge suffers a blow](/PSC/8-12-injuction.pdf)
 * [8/11 Union activities](/PSC/8-11-psc)
 * [7/28 PSC injuction opposition](/PSC/7-28-psc-injunction.pdf)
@@ -242,6 +263,8 @@ Campus access is strictly regulated
 
 ## College matters
 
+* [8/21 College Reentry plan](https://www.csi.cuny.edu/about-csi/president-leadership/office-president/csi-campus-re-entry-plan)
+* [8/20 Zoom is finally here](/College/8-20-zoom)
 * [8/14 Message from the president](/College/8-14-president)
 * [7/17 East Coast Conference suspends intercollegiate competittion](https://www.eccsports.org/information/general-news/2020-21/071720_fall2020)
 * [7/16 Mandatory (by the state) training](/CUNY/7-16-training)
@@ -362,6 +385,7 @@ Campus access is strictly regulated
 
 * [CUNY guidance website](https://www.cuny.edu/academics/faculty-affairs/faculty-related-academic-continuity-guidance/)
 
+* [7/19 Guidance from CUNY #19](/CUNY/7-20-guidance-19.pdf)
 * [7/24 Guidance from CUNY #17](/CUNY/7-24-guidance-17.pdf)
 * [7/14 Guidance from CUNY #16](/CUNY/7-14-guidance-16.pdf)
 * [7/6  Guidance from CUNY #15](/CUNY/7-6-guidance-15.pdf)
