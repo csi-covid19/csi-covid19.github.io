@@ -1070,6 +1070,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>CCFS/NovMeeting/index.html</loc>
+    <lastmod>2020-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>College/4-21-book/index.html</loc>
     <lastmod>2020-04-22</lastmod>
     <changefreq>monthly</changefreq>
