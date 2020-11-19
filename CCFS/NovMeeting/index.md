@@ -18,5 +18,6 @@
 * [Chair's report](/CCFS/NovMeeting/fs-chair-report.docx)
 
 * [Admissions's Committee proposal](/CCFS/NovMeeting/fs-admissions-proposal.docx)
+* [Resolution of no confidence](/CCFS/NovMeeting/fs-no-confidence.docx)
 
 
