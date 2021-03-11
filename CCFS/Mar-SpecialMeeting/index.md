@@ -22,8 +22,8 @@ We will follow Robert's rules of order. Accordingly,
 
 ## Supporting Documents
 
-* [CSI Governance Plans, history and context presentation](/CCFS/Mar-SpecialMeeting/history-governance.pptx)
-* [Comparison of Governance Plans, presentation](/CCFS/Mar-SpecialMeeting/Proposed-changes.pptx)
+* [CSI Governance Plans, history and context presentation, Cindy Wong](/CCFS/Mar-SpecialMeeting/history-governance.pptx)
+* [Comparison of Governance Plans, presentation, John Verzani](/CCFS/Mar-SpecialMeeting/Proposed-changes.pptx)
 
 ----
 
@@ -37,7 +37,19 @@ We will follow Robert's rules of order. Accordingly,
 * [Proposed replacement plan](/CCFS/Mar-SpecialMeeting/CSI-proposed-plan-3-3-2021.pdf)
 * [Proposed replacement plan (word document)](/CCFS/Mar-SpecialMeeting/CSI-proposed-plan-3-3-2021.docx)
 
-----
+### How to write (Or send a video) to the board -- the Brooklyn Borough Meeting (by 3/15)
 
 * [Notice of March 15, Brooklyn Borough Hearing](https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/trustees/borough-hearings/brooklyn/BKBHnotice0321.pdf)
 * [John Verzani's letter to CUNY Board of Trustees, through the Brooklyn Borough Hearing](/CCFS/Mar-SpecialMeeting/board-letter.docx)
+
+
+### Statements by departments, committees, and other entitities
+
+* [Department of Mathematics](/CCFS/Mar-SpecialMeeting/math-3-2-2021.docx)
+
+* [Chemistry Department](/CCFS/Mar-SpecialMeeting/chemistry-3-9-2021.docx)
+
+* [Course and Standing Committee response](/CCFS/Mar-SpecialMeeting/course-standing.docx)
+
+[I will continue to post more here as they come]
+
