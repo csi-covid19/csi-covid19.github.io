@@ -57,3 +57,7 @@ We will follow Robert's rules of order. Accordingly,
 
 [I will continue to post more here as they come]
 
+
+## Anonymously posting to Teams
+
+Dear College Community, As mentioned in the special session of the College Council held on March 11th, 2021, should you wish to post to TEAMS *anonymously*, feel free to send an email to [jverzani@gmail.com](jverzani@gmail.com). I am happy to post for you. As a governance leader I am well aware that many in the community might feel intimidated by speaking your feelings about a proposal the President is personally supporting.
