@@ -1,10 +1,23 @@
 # March 11th, 2021 Special Meeting of the College Council
 
+2:30PM - 4:15PM
 
-* Introduction
+
+* Introduction: Thanks to the PSC members for re-scheduling their standing 2nd Thursday meeting to next Tuesday; 
+
 * A history of governance changes (Cindy Wong)
+
 * A comparison of the replacement plan with the current plan (John Verzani)
-* Discussion.
+
+* Discussion. 
+
+
+We will follow Robert's rules of order. Accordingly,
+
+* the chair will call on each speaker
+* each speaker will have a maximum amount of time. This time will be monitored by a time keeper.
+* We will have someone monitoring the chat. Comments or questions raised there will periodically be brought to the discussion by the chat monitor.
+
 
 
 ## Supporting Documents
