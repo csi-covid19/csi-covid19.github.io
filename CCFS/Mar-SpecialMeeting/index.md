@@ -51,5 +51,9 @@ We will follow Robert's rules of order. Accordingly,
 
 * [Course and Standing Committee response](/CCFS/Mar-SpecialMeeting/course-standing.docx)
 
+* [The Library](/CCFS/Mar-SpecialMeeting/library.docx)
+
+* [The English Department](/CCFS/Mar-SpecialMeeting/english.docx)
+
 [I will continue to post more here as they come]
 
