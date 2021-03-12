@@ -40,6 +40,8 @@ We will follow Robert's rules of order. Accordingly,
 ### How to write (Or send a video) to the board -- the Brooklyn Borough Meeting (by 3/15)
 
 * [Notice of March 15, Brooklyn Borough Hearing](https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/trustees/borough-hearings/brooklyn/BKBHnotice0321.pdf)
+* [Notice of the April 12, Staten Island Borough Hearing](https://urauthoring02.cuny.edu/main/wp-content/uploads/sites/4/page-assets/about/trustees/borough-hearings/staten-island/SIBHNotice0421.pdf)
+
 * [John Verzani's letter to CUNY Board of Trustees, through the Brooklyn Borough Hearing](/CCFS/Mar-SpecialMeeting/board-letter.docx)
 
 
