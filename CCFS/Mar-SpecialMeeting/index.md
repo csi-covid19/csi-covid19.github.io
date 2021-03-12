@@ -55,6 +55,10 @@ We will follow Robert's rules of order. Accordingly,
 
 * [The English Department](/CCFS/Mar-SpecialMeeting/english.docx)
 
+* The Department of Curriculum and Instruction passed this resolution on Monday, March 8th:
+
+> Resolved: The faculty of the Department of Curriculum & Instruction hereby censures President Fritz for the process he has employed to replace the current CSI Governance Plan. Further, the faculty rejects the governance plan he has proposed.
+
 [I will continue to post more here as they come]
 
 
