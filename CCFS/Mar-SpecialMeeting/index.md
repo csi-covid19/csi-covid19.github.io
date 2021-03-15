@@ -47,6 +47,7 @@ We will follow Robert's rules of order. Accordingly,
 
 ### Statements by departments, committees, and other entitities
 
+
 * [Department of Mathematics](/CCFS/Mar-SpecialMeeting/math-3-2-2021.docx)
 
 * [Chemistry Department](/CCFS/Mar-SpecialMeeting/chemistry-3-9-2021.docx)
@@ -62,6 +63,11 @@ We will follow Robert's rules of order. Accordingly,
 > Resolved: The faculty of the Department of Curriculum & Instruction hereby censures President Fritz for the process he has employed to replace the current CSI Governance Plan. Further, the faculty rejects the governance plan he has proposed.
 
 [I will continue to post more here as they come]
+
+* The **Council of Chairs** voted on this statement
+
+> We, the Chairpersons of the academic departments of the College of Staten Island, meeting as the Council of Chairs, object to the process through which the governance proposal has been presented without thorough consultation. We have strong concerns about the diminishment of the faculty role in academic decisions. We recommend a revised timeline that allows for careful consideration of every aspect of this plan and input from an array of stakeholders.
+ 
 
 
 ## Anonymously posting to Teams
