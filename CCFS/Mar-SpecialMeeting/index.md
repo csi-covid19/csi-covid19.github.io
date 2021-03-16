@@ -62,7 +62,15 @@ We will follow Robert's rules of order. Accordingly,
 
 > Resolved: The faculty of the Department of Curriculum & Instruction hereby censures President Fritz for the process he has employed to replace the current CSI Governance Plan. Further, the faculty rejects the governance plan he has proposed.
 
+* The Department of Educational Studies 
+
+> We the faculty of the Department of Educational Studies do hereby censure President Fritz for his unilateral proposal to replace the current CSI Governance Plan.
+
+
+* [Media Culture](/CCFS/Mar-SpecialMeeting/Media-Culture-statement.pdf)
+
 [I will continue to post more here as they come]
+
 
 * The **Council of Chairs** voted on this statement
 
