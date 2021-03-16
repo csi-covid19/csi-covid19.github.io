@@ -76,7 +76,7 @@ We will follow Robert's rules of order. Accordingly,
 
 > We, the Chairpersons of the academic departments of the College of Staten Island, meeting as the Council of Chairs, object to the process through which the governance proposal has been presented without thorough consultation. We have strong concerns about the diminishment of the faculty role in academic decisions. We recommend a revised timeline that allows for careful consideration of every aspect of this plan and input from an array of stakeholders.
  
-
+* [The Research Committee](/CCFS/Mar-SpecialMeeting/RC_Statement_to_Board_5-15-2021.pdf)
 
 ## Anonymously posting to Teams
 
