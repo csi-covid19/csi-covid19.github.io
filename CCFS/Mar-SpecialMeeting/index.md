@@ -71,6 +71,10 @@ We will follow Robert's rules of order. Accordingly,
 
 [I will continue to post more here as they come]
 
+* March 16th, 2021 statement by the Department of Performing and Creative Arts
+
+> We, the faculty, HEOs and CLT of the Performing and Creative Arts Department, oppose the proposed imposition of changes in governance structures. It is a document in which many proposed changes remain underdeveloped and it fails to detail how they would be implemented; it was created without due process of consultation with faculty and other stakeholders such as the standing By-Laws Committee and without the democratic process of approval by a majority of instructional staff; it diminishes faculty leadership; its abrupt and short timeline provides little opportunity for productive response. Therefore, we reject the proposal issued by the Office of the President on March 3, 2021. 
+
 
 * The **Council of Chairs** voted on this statement
 
