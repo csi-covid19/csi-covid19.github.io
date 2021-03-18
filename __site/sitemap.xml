@@ -512,6 +512,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>CCFS/Mar21Meeting/index.html</loc>
+    <lastmod>2021-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>PSC/5-12-cchair/index.html</loc>
     <lastmod>2020-05-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -766,6 +772,12 @@
 <url>
     <loc>CUNY/4-20-chancellor-to-all/index.html</loc>
     <lastmod>2020-04-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>CCFS/Mar21Meeting/cc-chair-report/index.html</loc>
+    <lastmod>2021-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
