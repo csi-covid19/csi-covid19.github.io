@@ -21,6 +21,7 @@ March 18, 2021
 * [Minutes of 2/18/2021 CC Meeting](/CCFS/Mar21Meeting/cc-draft-minutes-2-18-2021.docx)
 * [Draft minutes of 3/11/2021 CC Meeting](/CCFS/Mar21Meeting/cc-draft-minutes-3-11-2021.docx)
 * [Chairperson's report](/CCFS/Mar21Meeting/cc-chair-report)
+* [Proposal by the Bylaws Committee (11/26/2019)](/CCFS/Mar21Meeting/cc-governance-plan-draft-11-26-19.pdf)
 * [Powerpoint slides on goverance plans, from special session of College Council](/CCFS/Mar21Meeting/cc-special-march-11-meeting.pptx)
 * [Powerpoint slides of proposed governance changes, from special session of College Council](/CCFS/Mar21Meeting/CC-proposed-changes-governance.pptx)
 * [College Council Executive Committee informative email](/CCFS/Mar21Meeting/cc-exec-email.docx)
