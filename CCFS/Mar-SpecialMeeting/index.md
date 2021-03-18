@@ -69,8 +69,6 @@ We will follow Robert's rules of order. Accordingly,
 
 * [Media Culture](/CCFS/Mar-SpecialMeeting/Media-Culture-statement.pdf)
 
-[I will continue to post more here as they come]
-
 * March 16th, 2021 statement by the Department of Performing and Creative Arts
 
 > We, the faculty, HEOs and CLT of the Performing and Creative Arts Department, oppose the proposed imposition of changes in governance structures. It is a document in which many proposed changes remain underdeveloped and it fails to detail how they would be implemented; it was created without due process of consultation with faculty and other stakeholders such as the standing By-Laws Committee and without the democratic process of approval by a majority of instructional staff; it diminishes faculty leadership; its abrupt and short timeline provides little opportunity for productive response. Therefore, we reject the proposal issued by the Office of the President on March 3, 2021. 
@@ -82,9 +80,19 @@ We will follow Robert's rules of order. Accordingly,
  
 * [The Research Committee](/CCFS/Mar-SpecialMeeting/RC_Statement_to_Board_5-15-2021.pdf)
 
+* [The Department of Biology](/CCFS/Mar-SpecialMeeting/bio-statement.pdf)
+
+* [The History Department](/CCFS/Mar-SpecialMeeting/history.docx)
+
+[I will continue to post more here as they come]
+
 ## Anonymously posting to Teams
 
 Dear College Community, As mentioned in the special session of the College Council held on March 11th, 2021, should you wish to post to TEAMS *anonymously*, feel free to send an email to [jverzani@gmail.com](jverzani@gmail.com). I am happy to post for you. As a governance leader I am well aware that many in the community might feel intimidated by speaking your feelings about a proposal the President is personally supporting.
+
+
+
+
 
 
 ## Video
