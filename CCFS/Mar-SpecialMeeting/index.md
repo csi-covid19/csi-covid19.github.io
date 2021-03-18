@@ -64,7 +64,7 @@ We will follow Robert's rules of order. Accordingly,
 
 * The Department of Educational Studies 
 
-> We the faculty of the Department of Educational Studies do hereby censure President Fritz for his unilateral proposal to replace the current CSI Governance Plan.
+> We the faculty of the Department of Educational Studies do hereby strongly oppose President Fritz’s unilateral proposal to replace the current CSI Governance Plan.
 
 
 * [Media Culture](/CCFS/Mar-SpecialMeeting/Media-Culture-statement.pdf)
