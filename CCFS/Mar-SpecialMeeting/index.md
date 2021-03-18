@@ -99,4 +99,5 @@ Dear College Community, As mentioned in the special session of the College Counc
 
 Susan Imberman kindly edited the conversation down into a 20 minute video, attempting to fairly capture the sentiments raised within the meeting. It can be viewed at
 
-[https://www.dropbox.com/s/3e405ct7e4wwhfl/CC%20trailer.mp4?dl=0](https://www.dropbox.com/s/3e405ct7e4wwhfl/CC%20trailer.mp4?dl=0)
+
+[https://www.dropbox.com/s/6rtdtt0hs9nmt9k/CC%20meeting%20traileV2.mp4?dl=0](https://www.dropbox.com/s/6rtdtt0hs9nmt9k/CC%20meeting%20traileV2.mp4?dl=0)  **Updated 3/18/2021**
