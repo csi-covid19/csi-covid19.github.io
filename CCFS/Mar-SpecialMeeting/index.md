@@ -84,6 +84,13 @@ We will follow Robert's rules of order. Accordingly,
 
 * [The History Department](/CCFS/Mar-SpecialMeeting/history.docx)
 
+* The Nursing Department
+
+> We, the faculty of the Department of the Nursing, object to the proposed governance plan for the College of Staten Island announced by the Office of the President on March 3, 2021, and the process by which it was introduced. This governance proposal has been presented without any consultation. The department of Nursing supports three Accreditation Commission for Education in Nursing (ACEN) accredited programs all which mandate active participation in governance.  According to ACEN Standard 1.2 “The governing organization and nursing education unit ensure representation of the nurse administrator and nursing faculty in governance activities; opportunities exist for student representation in governance activities.”  The faculty in the department require additional time to consult with the accrediting organization to determine the implications to our existing accreditation and future candidacy. Furthermore, our graduates’ eligibility to take national licensing exams is predicated on this accreditation. The faculty and the College have a responsibility to make a thorough and measured evaluation of the implications of this proposed governance plan for both the programs and the students whom we serve.
+
+* The HEO Steering committee presented [this](/CCFS/Mar-SpecialMeeting/proposed-governance-changes-heos-march-2021.pdf) pdf in a discussion forum held March 19th.
+
+
 [I will continue to post more here as they come]
 
 ## Anonymously posting to Teams
