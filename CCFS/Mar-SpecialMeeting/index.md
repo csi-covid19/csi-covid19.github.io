@@ -90,6 +90,7 @@ We will follow Robert's rules of order. Accordingly,
 
 * The HEO Steering committee presented [this](/CCFS/Mar-SpecialMeeting/proposed-governance-changes-heos-march-2021.pdf) pdf in a discussion forum held March 19th.
 
+* [The Department of Sociology and Anthropology](/CCFS/Mar-SpecialMeeting/soc-ant-resolution.docx)
 
 [I will continue to post more here as they come]
 
@@ -105,6 +106,5 @@ Dear College Community, As mentioned in the special session of the College Counc
 ## Video
 
 Susan Imberman kindly edited the conversation down into a 20 minute video, attempting to fairly capture the sentiments raised within the meeting. It can be viewed at
-
 
 [https://www.dropbox.com/s/6rtdtt0hs9nmt9k/CC%20meeting%20traileV2.mp4?dl=0](https://www.dropbox.com/s/6rtdtt0hs9nmt9k/CC%20meeting%20traileV2.mp4?dl=0)  **Updated 3/18/2021**
