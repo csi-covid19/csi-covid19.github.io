@@ -92,6 +92,11 @@ We will follow Robert's rules of order. Accordingly,
 
 * [The Department of Sociology and Anthropology](/CCFS/Mar-SpecialMeeting/soc-ant-resolution.docx)
 
+* The Department of World Languages and Literatures issued: 
+
+> The full-time faculty of the Department of World Languages and Literatures objects to the proposed change in the governance plan for the College of Staten Island announced by the Office of the President on March 3, 2021. This unexpected announcement constitutes an imposition that disregards due process. Moreover, both the proposal and the process by which it was crafted undermine faculty leadership and marginalize the vital contribution of faculty knowledge and expertise. March 5, 2021
+
+
 [I will continue to post more here as they come]
 
 ## Anonymously posting to Teams
