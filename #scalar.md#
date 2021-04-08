@@ -1,0 +1,126 @@
+An algebraic treatment of polynomials might include a statement such as `R ⊂ R[x] ⊂ R(x)`, where `R` is a ring (essentially a  set with `+`, `-`, and `*` defined wihtin it); `R[x]` polynomials in the indeterminate `x` with coefficients from `R`; and `R(x)` the field of rational functions, or ratios of polynomials from `R[x]`. 
+
+Of interest here is the natural inclusion of `R` into `R[x]` which is just the identification of values in the ring with a constant polynomial. 
+
+Mathematically this identification is rarely thought about -- it is termed a natural inclusion -- but within `Julia`, values carry types, so whether an object is in `R` or `R[x]` must be made explicit.
+
+In `Polynomials.jl` the equivalent of `R[x]` is a polynomial type `P{T,X}` with coefficients of type `T`, an indeterminate `X`, and different `P`s indicating different bases or backend container types. 
+
+For polynomials, the following operations are familiar:
+
+* polynomial addition: `r = p::P{T,X} + q::P{T,X}` has `r` of type `P{T,X}` with `r[i] = p[i] + q[i]` for each `i`.
+* scalar multiplication: `r = c::T * p::P{T,X}` has `r` of type `P{T,X}` with `r[i] = c * p[i]` for each `i`.
+* polynomial multiplication: `r = p::P{T,X} * q::P{T,X}` has `r` of type `P{T,X}`. The underlying basis determines the formula, but the familiar standard basis has `r[i] = sum(p[j]*q[i-j] for j in  0:i)`.
+
+The first two are vector operations, the latter a convolution of two vectors. This mathematical analogy would likely be why MATLAB simply uses vectors to represent polynomials. The polynomials in `Julia` are more developed, as the type system makes this easy to implement, and multiple dispatch allows a uniform treatment. In particular, polynomials in `Polynomials.jl` also carry information about the indeterminate,
+
+The mathematical identification of `R` with `R[X]` leads to a natural definition for the addition of a polynomial and an element in `T`, `p::P{T,X} + c::T`.
+
+This is implemented through Julia's promotion mechanism where when `T = Int` and `X=:x` we have
+
+```
+julia> promote_type(Polynomial{T,:x}, T)
+Polynomial{Int64, :x}
+```
+
+The conversion from `c::T` to `P{T,X}` is essentially through this constructor: `P{T,X}(c::T) = T(c)*one(P{T,X})`. 
+
+So `p+c` can be implemented as `sum(promote(p,c))` which then falls back to the vector-based polynomial addition described above in a type-stable manner.
+
+The inclusion also can be expected with arrays of polynomials. The construct `[1,p]` dispatches to `Base.vect(1,p)` which in turn is defined by:
+
+```
+function vect(X...)
+    T = promote_typeof(X...)
+	[...]
+end
+```
+
+The "`cat`" operations, `vcat`, `hcat`, and `hvcat` called by other uses of `[]` in array construction, call 
+
+```
+cat_t(promote_eltypeof(X...), X...; dims=dims)
+```
+
+We arrange for these calls to return what they do:
+
+```
+
+julia> Base.promote_typeof(1, p)
+Polynomial{Int64, :x}
+julia> Base.promote_eltypeof(1, p)
+Polynomial{Int64, :x}
+```
+
+With those promotions set up, the inclusion of `T` within `P{T,X}` is fullly specified and the conversion can be achieved by defining the appropriate constructor, which is done for all polynomials types as they are registered.
+
+
+The reverse identification -- constant polynomials in `R[x]` with elements of `R` -- is also desirable.
+
+it seems reasonable to expect combinations of polynomials with different symbols, such as `p::P{T,X} + q::P{T,Y}` with `X != Y` will error, as a wider polynomial type with multiple indeterminates is needed to express the mathematical result.
+
+It is also desirable to expect that `p::P{T,X} + q::P{T,Y}` should be defined **whenever** `p` or `q` is a constant polynomial.
+
+This can be easily arranged. The method for `p::P{T,X} + q::P{T,Y}` with `X != Y` is defined through:
+
+```	
+isconstant(p) && return constantterm(p) + q
+isconstant(q) && return p + constantterm(q)
+assert_same_variable(X,Y)
+sum(promote(p,q))  # will dispatch to p::P{T,X}+q::P{T,X}
+```
+
+This allows constants polynomials to be treated as scalars and not polynomials with a different indeterminate.
+
+A similar approach is utilized for polynomial multiplication.
+
+However, there is an oddity, namely the above implementation makes polynomial addition and multiplication *non-commutative*, in that the type of `p::P{T,X} + q::P{T,Y}` will be `P{T,Y}` whereas the type of `p::P{T,Y} + p::P{T,X}` will be `P{T,X}`. As the result will be a constant polynomial, this is unlikely to cause confusion, and is more of a technical consideration.
+
+----
+
+Incorporating the identification of constant polynomials in `P{T,X}` with values in `T` within arrays is a bit trickier.
+
+As seen above, it is fairly straightforward at the type level to implement two principles:
+
+* operations between non-constant polynomials with different indeterminates should error
+* values of type `T` should be promoted to values of type `P{T,X}` when mixed with values of type `P{T,X}`, as in `[1, p]` for a non-constant `p::P{T,X}`. 
+
+
+The mapping of constant polynomials of type `P{T,X}` with values of type `T`, is only possible through an inspection of the values. As such, this demotion, or flattening, must happen for elements, not types. The construction of arrays through `vect` and through `cat` allows for such overides. 
+
+As mentioned, the `Base.promote_eltypeof` function is called by `cat`, and `Base.promote_typeof` is called by `vect`. For each, the arguments are flattened and then passed on to the array machinery. For example, this definition is used to find the promotion type between two polynomials:
+
+
+```
+function Base.promote_typeof(p::P, q::Q) where {T,X, P<: AbstractPolynomial{T,X},
+                                                S,Y, Q<: AbstractPolynomial{S,Y}}
+    isconstant(p) || isconstant(q) || assert_same_variable(X,Y)
+    p′ = _flatten(p)
+    q′ = _flatten(q)
+    Base.promote_type(Base.eltypeof(p′), Base.eltypeof(q′))
+end
+```
+
+
+The above would ensure that two constant polynomials would return a promotion type for `promote_type(T,S)`, and not a polynomial type.
+
+There are also a few special cased calls, such as `Base.vect(Xs::T...) where {T}` that speed up the construction of arrays for a elements of a common type. However, when the type is `P{T,X}`, the values may flatten to type `T`, so this can't be as performant, as the result is not type-stable, depending on the values of `Xs` and not the type `T`.
+
+This arrangement produces some unexpected results. If `p` is a non-constant polynomial of type `P{T,X}` and `q` a non-constant polynomial of type `P{T,Y}` where `X != Y`, then we would have:
+
+* `[p, q]` would be an error
+* `[1, p]` would be of type `P{T,X}`
+* `[p, one(q)]` would be of type `P{T,X}`
+* `[one(p), q]` would be of type `P{T,Y}`
+
+But then,
+
+* `[1, one(p)]` would be an array of type `T`
+* `[one(p)]` would be an array of type `T`
+* `[one(p), one(q)]` would be an array of type `T`
+
+This is consistent with an initial flattening of constant polynomials of type `P{T,X}` to values of type `T` followed by `Julia`'s array machinery.
+
+
+
+
