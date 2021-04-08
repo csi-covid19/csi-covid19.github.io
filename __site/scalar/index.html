@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+   <link rel="stylesheet" href="/libs/highlight/github.min.css">
+   
+
+  <link href="/css/franklin.css" rel="stylesheet">
+  <link href="/css/vela.css" rel="stylesheet">
+  <script src="/libs/vela/jquery.min.js"></script>
+
+  <link rel="icon" href="/assets/favicon.png">
+
+  <title>CSI COVID-19 News</title>
+</head>
+<body>
+  <div class="main-nav" id="menu">
+    <div class="flex-container">
+      <span class="sidebar-brand">
+        <h3 style='font-size: 25px'>CSI COVID-19</h3>
+      </span>
+    </div> <!-- class="flex-container" -->
+
+    <nav class="sidebar-nav">
+      <ul class="metismenu"  id="metismenu" >
+	<li><a href="/index.html">Home</a></li>
+	<li><a href="#news">News</a></li>
+	<li><a href="#press">Press</a></li>
+	<li><a href="#hot_issues">Hot  issues</a></li>
+	<li><a href="#faq">FAQs</a></li>
+	<li><a href="#college_council_faculty_senate">CC/FS</a></li>
+	<li><a href="#psc">PSC</a></li>
+	<li><a href="#college_matters">College matters</a></li>
+	<li><a href="#academic_matters">Academic matters</a></li>
+	<li><a href="#technology_matters">Technology matters</a></li>
+	<li><a href="#cuny">CUNY</a></li>
+	<li><a href="#calendar">Calendar</a></li>
+      </ul>
+    </nav>
+  </div> <!-- main nav menu -->
+
+  <main id="panel">
+    <div class="toggle-button hamburger hamburger--spin">
+      <div class="hamburger-box">
+        <div class="hamburger-inner"></div>
+      </div>
+    </div>
+    <h1 class="page title"></h1>
+    <hr>
+
+
+<!-- Content appended here -->
+<div class="franklin-content"><p>An algebraic treatment of polynomials might include a statement such as <code>R ⊂ R&#91;x&#93; ⊂ R&#40;x&#41;</code>, where <code>R</code> is a ring &#40;essentially a  set with <code>&#43;</code>, <code>-</code>, and <code>*</code> defined wihtin it&#41;; <code>R&#91;x&#93;</code> polynomials in the indeterminate <code>x</code> with coefficients from <code>R</code>; and <code>R&#40;x&#41;</code> the field of rational functions, or ratios of polynomials from <code>R&#91;x&#93;</code>. </p>
+<p>Of interest here is the natural inclusion of <code>R</code> into <code>R&#91;x&#93;</code> which is just the identification of values in the ring with  constant polynomials. </p>
+<p>Mathematically this identification is rarely thought about – it is termed a natural inclusion and in either view, written the same way – but within <code>Julia</code>, values carry types, so whether an object is in <code>R</code> or <code>R&#91;x&#93;</code> must be made explicit.</p>
+<p>In <code>Polynomials.jl</code> the equivalent of <code>R&#91;x&#93;</code> is a polynomial type <code>P&#123;T,X&#125;</code> with coefficients of type <code>T</code>, an indeterminate <code>X</code>, and different <code>P</code>s indicating different bases or backend container types. </p>
+<p>For polynomials, the following operations are familiar:</p>
+<ul>
+<li><p>polynomial addition: <code>r &#61; p::P&#123;T,X&#125; &#43; q::P&#123;T,X&#125;</code> has <code>r</code> of type <code>P&#123;T,X&#125;</code> with <code>r&#91;i&#93; &#61; p&#91;i&#93; &#43; q&#91;i&#93;</code> for each <code>i</code>.</p>
+</li>
+<li><p>scalar multiplication: <code>r &#61; c::T * p::P&#123;T,X&#125;</code> has <code>r</code> of type <code>P&#123;T,X&#125;</code> with <code>r&#91;i&#93; &#61; c * p&#91;i&#93;</code> for each <code>i</code>.</p>
+</li>
+<li><p>polynomial multiplication: <code>r &#61; p::P&#123;T,X&#125; * q::P&#123;T,X&#125;</code> has <code>r</code> of type <code>P&#123;T,X&#125;</code>. The underlying basis determines the formula, but the familiar standard basis has <code>r&#91;i&#93; &#61; sum&#40;p&#91;j&#93;*q&#91;i-j&#93; for j in  0:i&#41;</code>.</p>
+</li>
+</ul>
+<p>The first two are vector operations, the latter a convolution of two vectors. This mathematical analogy would likely be why MATLAB simply uses vectors to represent polynomials. The polynomials in <code>Julia</code> are more developed, as the type system makes this easy to implement, and multiple dispatch allows a uniform treatment. In particular, polynomials in <code>Polynomials.jl</code> also carry information about the indeterminate,</p>
+<p>The mathematical identification of <code>R</code> with <code>R&#91;X&#93;</code> leads to a natural definition for the addition of a polynomial and an element in <code>T</code>, <code>p::P&#123;T,X&#125; &#43; c::T</code>.</p>
+<p>This is implemented through Julia&#39;s promotion mechanism where when <code>T &#61; Int</code> and <code>X&#61;:x</code> we have</p>
+<pre><code class="language-julia">julia&gt; promote_type&#40;Polynomial&#123;T,:x&#125;, T&#41;
+Polynomial&#123;Int64, :x&#125;</code></pre>
+<p>The conversion from <code>c::T</code> to <code>P&#123;T,X&#125;</code> is essentially through this constructor: <code>P&#123;T,X&#125;&#40;c::T&#41; &#61; T&#40;c&#41;*one&#40;P&#123;T,X&#125;&#41;</code>. </p>
+<p>So <code>p&#43;c</code> can be implemented as <code>sum&#40;promote&#40;p,c&#41;&#41;</code> which then falls back to the vector-based polynomial addition described above in a type-stable manner.</p>
+<p>The inclusion also can be expected with arrays of polynomials. The construct <code>&#91;1,p&#93;</code> dispatches to <code>Base.vect&#40;1,p&#41;</code> which in turn is defined by:</p>
+<pre><code class="language-julia">function vect&#40;X...&#41;
+    T &#61; promote_typeof&#40;X...&#41;
+	&#91;...&#93;
+end</code></pre>
+<p>The &quot;<code>cat</code>&quot; operations, <code>vcat</code>, <code>hcat</code>, and <code>hvcat</code> called by other uses of <code>&#91;&#93;</code> in array construction, call </p>
+<pre><code class="language-julia">cat_t&#40;promote_eltypeof&#40;X...&#41;, X...; dims&#61;dims&#41;</code></pre>
+<p>We arrange for these calls to return what they do:</p>
+<pre><code class="language-julia">julia&gt; Base.promote_typeof&#40;1, p&#41;
+Polynomial&#123;Int64, :x&#125;
+julia&gt; Base.promote_eltypeof&#40;1, p&#41;
+Polynomial&#123;Int64, :x&#125;</code></pre>
+<p>With those promotions set up, the inclusion of <code>T</code> within <code>P&#123;T,X&#125;</code> is fullly specified and the conversion can be achieved by defining the appropriate constructor, which is done for all polynomials types as they are registered.</p>
+<p>The reverse identification – constant polynomials in <code>R&#91;x&#93;</code> with elements of <code>R</code> – is also of interest.</p>
+<p>it seems reasonable to expect combinations of polynomials with different symbols, such as <code>p::P&#123;T,X&#125; &#43; q::P&#123;T,Y&#125;</code> with <code>X &#33;&#61; Y</code> will error, as a wider polynomial type with multiple indeterminates is needed to express the mathematical result.</p>
+<p>It is also desirable to expect that <code>p::P&#123;T,X&#125; &#43; q::P&#123;T,Y&#125;</code> should be defined <strong>whenever</strong> <code>p</code> or <code>q</code> is a constant polynomial.</p>
+<p>This can be easily arranged. The method for <code>p::P&#123;T,X&#125; &#43; q::P&#123;T,Y&#125;</code> with <code>X &#33;&#61; Y</code> is defined through:</p>
+<pre><code class="language-julia">isconstant&#40;p&#41; &amp;&amp; return constantterm&#40;p&#41; &#43; q
+isconstant&#40;q&#41; &amp;&amp; return p &#43; constantterm&#40;q&#41;
+assert_same_variable&#40;X,Y&#41;
+sum&#40;promote&#40;p,q&#41;&#41;  # will dispatch to p::P&#123;T,X&#125;&#43;q::P&#123;T,X&#125;</code></pre>
+<p>This allows constant polynomials to be treated as scalars and not polynomials with a different indeterminate.</p>
+<p>A similar approach is utilized for polynomial multiplication.</p>
+<p>However, there is an oddity, namely the above implementation makes polynomial addition and multiplication <em>non-commutative</em>, in that when both <code>p</code> and <code>q</code> are constant polynomials the type of <code>p::P&#123;T,X&#125; &#43; q::P&#123;T,Y&#125;</code> will be <code>P&#123;T,Y&#125;</code> whereas the type of <code>q::P&#123;T,Y&#125; &#43; p::P&#123;T,X&#125;</code> will be <code>P&#123;T,X&#125;</code>. As the result will be a constant polynomial, this is unlikely to cause confusion, and is more of a technical consideration.</p>
+<hr />
+<p>Incorporating the identification of constant polynomials in <code>P&#123;T,X&#125;</code> with values in <code>T</code> within arrays is a bit trickier.</p>
+<p>As seen above, it is fairly straightforward at the type level to implement two principles:</p>
+<ul>
+<li><p>operations between non-constant polynomials with different indeterminates should error</p>
+</li>
+<li><p>values of type <code>T</code> should be promoted to values of type <code>P&#123;T,X&#125;</code> when mixed with values of type <code>P&#123;T,X&#125;</code>, as in <code>&#91;1, p&#93;</code> for a non-constant <code>p::P&#123;T,X&#125;</code>. </p>
+</li>
+</ul>
+<p>The mapping of constant polynomials of type <code>P&#123;T,X&#125;</code> with values of type <code>T</code>, is only possible through an inspection of the values. As such, this demotion, or flattening, must happen for elements, not types. The construction of arrays through <code>vect</code> and through <code>cat</code> allows for such overides. </p>
+<p>As mentioned, the <code>Base.promote_eltypeof</code> function is called by <code>cat</code>, and <code>Base.promote_typeof</code> is called by <code>vect</code>. For each, the arguments are flattened and then passed on to the array machinery. For example, this definition is used to find the promotion type between two polynomials when their indeterminate is different:</p>
+<pre><code class="language-julia">function Base.promote_typeof&#40;p::P, q::Q&#41; where &#123;T,X, P&lt;: AbstractPolynomial&#123;T,X&#125;,
+                                                S,Y, Q&lt;: AbstractPolynomial&#123;S,Y&#125;&#125;
+    isconstant&#40;p&#41; || isconstant&#40;q&#41; || assert_same_variable&#40;X,Y&#41;
+    p′ &#61; _flatten&#40;p&#41;
+    q′ &#61; _flatten&#40;q&#41;
+    Base.promote_type&#40;Base.eltypeof&#40;p′&#41;, Base.eltypeof&#40;q′&#41;&#41;
+end</code></pre>
+<p>The above would ensure that two constant polynomials would return a promotion type for <code>promote_type&#40;T,S&#41;</code>, and not a polynomial type.</p>
+<p>There are also a few special cased calls, such as <code>Base.vect&#40;Xs::T...&#41; where &#123;T&#125;</code> that speed up the construction of arrays for elements of a common type. However, when the type is <code>P&#123;T,X&#125;</code>, the values may flatten to type <code>T</code>, so this can&#39;t be as performant, as the result is not type-stable, depending on the values in <code>Xs</code> and not the type <code>T</code>.</p>
+<p>If <code>p</code> is a non-constant polynomial of type <code>P&#123;T,X&#125;</code> and <code>q</code> a non-constant polynomial of type <code>P&#123;T,Y&#125;</code> where <code>X &#33;&#61; Y</code>, then we would have:</p>
+<ul>
+<li><p><code>&#91;p, q&#93;</code> would be an error</p>
+</li>
+<li><p><code>&#91;1, p&#93;</code> would be of type <code>P&#123;T,X&#125;</code></p>
+</li>
+<li><p><code>&#91;p, one&#40;q&#41;&#93;</code> would be of type <code>P&#123;T,X&#125;</code></p>
+</li>
+<li><p><code>&#91;one&#40;p&#41;, q&#93;</code> would be of type <code>P&#123;T,Y&#125;</code></p>
+</li>
+</ul>
+<p>This arrangement produces some unexpected results. Using <code>one&#40;p&#41;</code> as proxy for a constant polynomial with the same indeterminate as <code>p</code>, we would have:</p>
+<ul>
+<li><p><code>&#91;1, one&#40;p&#41;&#93;</code> would be an array of type <code>T</code> not <code>P&#123;T,X&#125;</code>, as <code>&#91;1,p&#93;</code> is</p>
+</li>
+<li><p><code>&#91;one&#40;p&#41;&#93;</code> would be an array of type <code>T</code> not <code>P&#123;T,X&#125;</code>, as <code>&#91;p&#93;</code> is</p>
+</li>
+<li><p><code>&#91;one&#40;p&#41;, one&#40;q&#41;&#93;</code> would be an array of type <code>T</code></p>
+</li>
+</ul>
+<p>This is consistent with an initial flattening of constant polynomials of type <code>P&#123;T,X&#125;</code> to values of type <code>T</code> followed by <code>Julia</code>&#39;s array machinery.</p>
+<div class="page-foot">
+  <div> Wash your hands and maintain a "social distance."</div>
+
+  <div class="copyright">
+    CSI CC/FS Executive Committees. Last modified: March 28, 2021.
+  </div>
+  <div>
+    Website built with <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a>.
+  </div>
+</div>
+</div><!-- CONTENT ENDS HERE -->
+  </main> <!-- end of id=main -->
+  <script src="/libs/vela/metisMenu.min.js"></script>
+  <script src="/libs/vela/slideout.min.js"></script>
+  
+  
+    <script src="/libs/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();hljs.configure({tabReplace: '    '});</script>
+
+  
+</body>
+</html>
