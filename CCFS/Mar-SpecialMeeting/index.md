@@ -66,6 +66,7 @@
 
 > The full-time faculty of the Department of World Languages and Literatures objects to the proposed change in the governance plan for the College of Staten Island announced by the Office of the President on March 3, 2021. This unexpected announcement constitutes an imposition that disregards due process. Moreover, both the proposal and the process by which it was crafted undermine faculty leadership and marginalize the vital contribution of faculty knowledge and expertise. March 5, 2021
 
+* [March 25 Statement by the Council of Chairs](/CCFS/Mar-SpecialMeeting/Council-Chairs-3-25-2021.docx)
 
 [I will continue to post more here as they come]
 
