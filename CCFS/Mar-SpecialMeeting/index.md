@@ -70,6 +70,12 @@
 
 [I will continue to post more here as they come]
 
+* A statement from the Department of Computer Science
+
+
+> We the faculty of Computer Science do hereby strongly oppose President Fritz’s unilateral proposal to replace the current CSI Governance Plan.  We find the current process followed in order to replace our current governance has produced a plan which is vaguely defined with respect to roles, committees, and interdisciplinary interactions.  The replacement plan is not inclusive with respect to representation of Faculty, Staff, HEO’s, Adjuncts and Students.  We ask that the President rescind his plan and enter into dialog with all constituencies.    
+
+
 
 ----
 
