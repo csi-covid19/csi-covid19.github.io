@@ -79,6 +79,10 @@
 
 > We, the faculty of the Department of Political Science and Global Affairs, strongly oppose President Fritz's proposal to replace CSI's Governance plan. We object to both the process and content of the proposal, as it has been presented in a hasty, unilateral manner with little consideration for established consultative procedures. Furthermore, the proposed governance structure would eliminate nearly all faculty-led leadership bodies and replace them with committees directed by the president and acting in an advisory capacity. We ask that the President rescind the plan immediately and initiate a reform process in accordance with CSI's bylaws and current governance parameters.
 
+* Passed by UCC on 5/7/2021
+
+> The Undergraduate Curriculum Committee agrees that the proposed changes to the existing governance plan are not consistent with our shared goals of inter and across disciplinary collaboration, and may undermine our stewardship of student success​.​
+
 ----
 
 
