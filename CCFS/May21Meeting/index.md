@@ -6,16 +6,16 @@ May 20, 2021
 
 ## College Council
 
-* [Agenda for CC Meeting](/CCFS/Apr21Meeting/cc-agenda-5-21.docx)
-* [Minutes of last CC Meeting](/CCFS/Apr21Meeting/cc-draft-minutes-4-22.docx)
-* [Chairperson's report](/CCFS/Apr21Meeting/cc-chair-report.docx)
+* [Agenda for CC Meeting](/CCFS/May21Meeting/cc-agenda-5-21.docx)
+* [Minutes of last CC Meeting](/CCFS/May21Meeting/cc-draft-minutes-4-22.docx)
+* [Chairperson's report](/CCFS/May21Meeting/cc-chair-report.docx)
 
 ## Faculty Senate
 
-* [Faculty Senate agenda](/CCFS/Apr21Meeting/fs-agenda-5-21.docx)
-* [Minutes of 146th Faculty Senate meeting](/CCFS/Apr21Meeting/fs-minutes-148.docx)
-* [FS Curriculum](/CCFS/Apr21Meeting/fs-curriculum-5-21.docx)
-* [FFPC Mode of Instruction](/CCFS/Apr21Meeting/fs-FFPC-mode-of-instruction.docx)
+* [Faculty Senate agenda](/CCFS/May21Meeting/fs-agenda-5-21.docx)
+* [Minutes of 146th Faculty Senate meeting](/CCFS/May21Meeting/fs-minutes-148.docx)
+* [FS Curriculum](/CCFS/May21Meeting/fs-curriculum-5-21.docx)
+* [FFPC Mode of Instruction](/CCFS/May21Meeting/fs-FFPC-mode-of-instruction.docx)
 
 
 
