@@ -37,6 +37,8 @@ Students can register for such classes, but must show proof of vaccination two w
 
 * [Board approved vaccination policy](/CCFS/July21Meeting/Board-Approved-Vaccination-Policy.pdf)
 
+The short discussion begins at 27:38 of [the recording](https://www.youtube.com/watch?v=3u1ZYyWbx7A)
+
 ### CUNY reopening plans (as of July 1, 2021)
 
 * [CUNY Reopening](https://www.cuny.edu/coronavirus/fall2021-reopeningplans/)
