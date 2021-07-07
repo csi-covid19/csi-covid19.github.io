@@ -55,9 +55,16 @@ The short discussion begins at 27:38 of [the recording](https://www.youtube.com/
 
 * [CSI Campus Re-Entry Plan](https://www.csi.cuny.edu/about-csi/president-leadership/office-president/csi-campus-re-entry-plan)
 
-### John Jay College's F21 reopening site
+### Other CUNY Campuses
 
-[John Jay, fall 2021 planning](http://www.jjay.cuny.edu/fall-2021-planning)
+
+* [John Jay, fall 2021 planning](http://www.jjay.cuny.edu/fall-2021-planning)
+
+* [Brooklyn College Vaccine Information](http://www.brooklyn.cuny.edu/web/about/offices/studentaffairs/health-wellness/healthprograms.php)
+
+* [LaGuardia notices to community – June 23 & 30th](https://www.laguardia.edu/coronavirus/)
+
+* [Lehman College](https://www.lehman.edu/coronavirus/)
 
 ----
 
