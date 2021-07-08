@@ -45,6 +45,15 @@ The short discussion begins at 27:38 of [the recording](https://www.youtube.com/
 
 * [CUNY Statement on August 2nd return to work day (5/12/2021)](https://www.cuny.edu/coronavirus/university-updates/returning-to-in-person-work/)
 
+Some informal notes from a CUNY Central town hall on June 22nd. Please note these "policies" may not be implemented at CUNY Central or at the campuses as plans evolve. Understand them for now as aspirational:
+
+* 50% office capacity on any given day
+* Vaccine will not be mandated for faculty, staff or guests until NYS mandates all employees to do so
+* Masks are required indoors for all non- and not-completely vaccinated – the honor system will monitor this and these individuals are encouraged to wear masks.
+* PPE is available
+* Testing will be frequent for employees and verified/implemented via “Excelsior Pass & other sources”
+* Everbridge will be used
+
 ### New York State relaxes COVID-19 restriction (as of June 15, 2021)
 
 * [New York State COVID-19 Updates](https://www.governor.ny.gov/news/governor-cuomo-announces-covid-19-restrictions-lifted-70-adult-new-yorkers-have-received-first)
@@ -56,6 +65,8 @@ The short discussion begins at 27:38 of [the recording](https://www.youtube.com/
 * [CSI Campus Re-Entry Plan](https://www.csi.cuny.edu/about-csi/president-leadership/office-president/csi-campus-re-entry-plan)
 
 ### Other CUNY Campuses
+
+* The CUNY Graduate Center has put out several announcments: [On vaccination](https://gc.listserv.cuny.edu/Scripts/wa-gc.exe?A2=GCCOMMUNITYNOTICE;ca650598.2107p), [On transition to back to work](https://gc.cuny.edu/News/All-News/Detail?id=59945), [flexible work guidelines](https://gc.cuny.edu/News/All-News/Detail?id=59873), [Fall plans](https://gc.cuny.edu/News/All-News/Detail?id=59708), ...
 
 
 * [John Jay, fall 2021 planning](http://www.jjay.cuny.edu/fall-2021-planning)
