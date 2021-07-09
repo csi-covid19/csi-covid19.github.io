@@ -77,6 +77,8 @@ Some informal notes from a CUNY Central town hall on June 22nd. Please note thes
 
 * [Lehman College](https://www.lehman.edu/coronavirus/)
 
-----
 
-* [](/CCFS/July21Meeting/)
+### SUNY
+
+* [SUNY Final Guidance](/CCFS/July21Meeting/SUNY-covid-guidance.pdf)
+----
