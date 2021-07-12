@@ -22,6 +22,9 @@ Between July 13th and August 25th -- the beginning of classes for fall 21 --ther
 
 ## Documents
 
+* [Summary of COVID Guidelines](covid-guidelines)
+
+
 ### Board action (As of July 6th, 2021)
 
 On July 6th, the CUNY Board approved a vaccination policy for the F21 semester.
@@ -44,6 +47,8 @@ The short discussion begins at 27:38 of [the recording](https://www.youtube.com/
 * [CUNY Reopening](https://www.cuny.edu/coronavirus/fall2021-reopeningplans/)
 
 * [CUNY Statement on August 2nd return to work day (5/12/2021)](https://www.cuny.edu/coronavirus/university-updates/returning-to-in-person-work/)
+
+* [CUNY Guidelines](/CCFS/July21Meeting/GuidelinesforCUNYFall2021.pdf)
 
 Some informal notes from a CUNY Central town hall on June 22nd. Please note these "policies" may not be implemented at CUNY Central or at the campuses as plans evolve. Understand them for now as aspirational:
 
